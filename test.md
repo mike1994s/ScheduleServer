@@ -1,12491 +1,33944 @@
 Start new Data--------------------------- 1
 NUMBER LESSSON : 1
-1	SHEET: Лист1 (6)
+END Data---------------------------
+Start new Data--------------------------- 1
+NUMBER LESSSON : 1
 END Data---------------------------
 Start new Data--------------------------- 2
 NUMBER LESSSON : 1
-1	
 END Data---------------------------
 Start new Data--------------------------- 3
 NUMBER LESSSON : 1
-1	
-2	
-3	УТВЕРЖДАЮ
-4	
-5	
-6	
-7	
-8	
-9	ФИиВТ
-10	
-11	
-12	
-13	
-14	
-15	СОГЛАСОВАНО
-16	
-17	
-18	
-19	
-20	
 END Data---------------------------
 Start new Data--------------------------- 4
 NUMBER LESSSON : 1
-1	
-2	
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
 END Data---------------------------
 Start new Data--------------------------- 5
 NUMBER LESSSON : 1
-1	
-2	
-3	ПРОРЕКТОР ПО ОД Н.Н. СТАРЫГИНА
-4	
-5	
-6	
-7	
-8	
-9	РАСПИСАНИЕ ЗАНЯТИЙ НА 2 СЕМЕСТР 2014 - 2015 УЧЕБНОГО ГОДА
-10	
-11	
-12	
-13	
-14	
-15	НАЧАЛЬНИК УМУ Л.А. СТЕШИНА
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 6
 NUMBER LESSSON : 1
-1	
-2	
-3	БИ-11 (09030365) (о)
-4	
-5	
-6	
-7	
-8	
-9	БИ-12 (09030365) (о)
-10	
-11	
-12	
-13	
-14	
-15	ИВТ-11 (23010062) (о)
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 7
 NUMBER LESSSON : 1
-1	ПОНЕДЕЛЬНИК
-2	с 8:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	є
-16	МЛиТА
-17	X
-18	Моисеев Н.Г.
-19	332
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 8
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	»
-16	Иностранный язык
-17	б
-18	Пермякова А.Г.
-19	308
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 9
-NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	Языки программирования
-5	б
-6	Тарасова Л.В.
-7	224
-8	V
-9	
-10	
-11	
-12	
-13	
-14	
-15	є
-16	МЛиТА
-17	@
-18	Моисеев Н.Г.
-19	512
-20	III
+NUMBER LESSSON : 2
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 10
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	»
-16	МЛиТА
-17	б
-18	Моисеев Н.Г.
-19	512
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 11
-NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	Языки программирования
-5	X
-6	Тарасова Л.В.
-7	312
-8	V
-9	
-10	Языки программирования
-11	X
-12	Тарасова Л.В.
-13	312
-14	V
-15	
-16	Иностранный язык
-17	б
-18	Пермякова О.С.
-19	329
-20	III
+NUMBER LESSSON : 3
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 12
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 13
-NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	Языки программирования
-11	б
-12	Тарасова Л.В.
-13	224
-14	V
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 4
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 14
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 15
-NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 5
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 16
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 17
-NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 6
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 18
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 19
-NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 7
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 20
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 21
-NUMBER LESSSON : 7
-1	ВТОРНИК
-2	с 8:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	є
-16	Математика
-17	@
-18	Кузьмина О.В.
-19	443а
-20	I
+NUMBER LESSSON : 1
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 22
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	»
-16	Математика
-17	@
-18	Кузьмина О.В.
-19	448
-20	I
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 23
-NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	Физика
-5	X
-6	Грунин Ю.Б.
-7	521
-8	I
-9	
-10	Физика
-11	X
-12	Грунин Ю.Б.
-13	521
-14	I
-15	
-16	Физика
-17	б
-18	Масленников А.С.
-19	209
-20	I
+NUMBER LESSSON : 2
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 24
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 25
-NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	Физика
-5	б
-6	Гогелашвили Г.Ш.
-7	209
-8	I
-9	
-10	Иностранный язык
-11	б
-12	Егошина Е.М.
-13	501б
-14	I
-15	
-16	Физика
-17	X
-18	Масленников А.С.
-19	440а
-20	I
+NUMBER LESSSON : 3
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 26
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 27
-NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	Физическая культура
-5	@
-6	Желудкин С.В.
-7	с\з
-8	II
-9	
-10	Физическая культура
-11	@
-12	Желудкин С.В.
-13	с\з
-14	II
-15	
-16	Физическая культура
-17	@
-18	Желудкин С.В.
-19	с\з
-20	II
+NUMBER LESSSON : 4
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 28
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 29
-NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 5
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 30
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 31
-NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 6
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 32
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 33
-NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 7
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 34
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 35
-NUMBER LESSSON : 7
-1	СРЕДА
-2	с 8:00
-3	є
-4	История Отечества
-5	X
-6	Паршин Г.Н.
-7	442а
-8	I
-9	є
-10	История Отечества
-11	X
-12	Паршин Г.Н.
-13	442а
-14	I
-15	
-16	Физика
-17	б
-18	Масленников А.С.
-19	209
-20	I
+NUMBER LESSSON : 1
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 36
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	»
-4	Дискретная математика
-5	X
-6	Леухин А.Н.
-7	442а
-8	I
-9	»
-10	Дискретная математика
-11	X
-12	Леухин А.Н.
-13	442а
-14	I
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 37
-NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	Дискретная математика
-5	@
-6	Леухин А.Н.
-7	441
-8	I
-9	
-10	Физика
-11	б
-12	Гогелашвили Г.Ш.
-13	212
-14	I
-15	є
-16	Математика
-17	@
-18	Кузьмина О.В.
-19	442а
-20	I
+NUMBER LESSSON : 2
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 38
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	»
-16	Физика
-17	@
-18	Масленников А.С.
-19	209
-20	I
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 39
-NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	Иностранный язык
-5	б
-6	Егошина Е.М.
-7	501а
-8	I
-9	
-10	Дискретная математика
-11	@
-12	Леухин А.Н.
-13	441
-14	I
-15	
-16	Математика
-17	X
-18	Колчев А.А.
-19	442а
-20	I
+NUMBER LESSSON : 3
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 40
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	Иностранный язык
-5	б
-6	Лежнина Т.М.
-7	501б
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 41
 NUMBER LESSSON : 3
-1	
-2	с 13:15
-3	
-4	ВОСПИТАТЕЛЬНЫЙ ЧАС
-5	
-6	Виртуальный п.1.
-7	
-8	
-9	
-10	ВОСПИТАТЕЛЬНЫЙ ЧАС
-11	
-12	Виртуальный п.1.
-13	
-14	
-15	
-16	ВОСПИТАТЕЛЬНЫЙ ЧАС
-17	
-18	Виртуальный п.1.
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 42
 NUMBER LESSSON : 3
-1	
-2	до 14:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 43
 NUMBER LESSSON : 3
-1	
-2	с 14:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	Иностранный язык
-17	б
-18	Пермякова А.Г.
-19	501а
-20	I
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 44
 NUMBER LESSSON : 3
-1	
-2	до 16:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 45
 NUMBER LESSSON : 3
-1	
-2	с 16:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 46
 NUMBER LESSSON : 3
-1	
-2	до 17:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 47
 NUMBER LESSSON : 3
-1	
-2	с 18:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 48
 NUMBER LESSSON : 3
-1	
-2	до 19:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 49
-NUMBER LESSSON : 3
-1	ЧЕТВЕРГ
-2	с 8:00
-3	
-4	МЛиТА
-5	@
-6	Лапушкин В.А.
-7	448
-8	I
-9	
-10	История Отечества
-11	@
-12	Паршин Г.Н.
-13	450
-14	I
-15	
-16	Программирование
-17	X
-18	Глозштейн А.М.
-19	510
-20	III
+NUMBER LESSSON : 1
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 50
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 51
-NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	МЛиТА
-5	X
-6	Лапушкин В.А.
-7	443а
-8	I
-9	
-10	МЛиТА
-11	X
-12	Лапушкин В.А.
-13	443а
-14	I
-15	є
-16	Программирование
-17	б
-18	Глозштейн А.М.
-19	519
-20	III
+NUMBER LESSSON : 2
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 52
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	»
-16	Математика
-17	@
-18	Кузьмина О.В.
-19	318
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 53
-NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	История Отечества
-5	@
-6	Паршин Г.Н.
-7	448
-8	I
-9	
-10	МЛиТА
-11	@
-12	Лапушкин В.А.
-13	450
-14	I
-15	є
-16	Математика
-17	X
-18	Колчев А.А.
-19	535
-20	III
+NUMBER LESSSON : 3
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 54
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	»
-16	Программирование
-17	б
-18	Глозштейн А.М.
-19	519
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 55
-NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	є
-4	Математический анализ
-5	@
-6	Колчев А.А.
-7	443
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	є
-16	Программирование
-17	б
-18	Глозштейн А.М.
-19	519
-20	III
+NUMBER LESSSON : 4
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 56
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	»
-10	Математический анализ
-11	@
-12	Колчев А.А.
-13	450
-14	I
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 57
-NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 5
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 58
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 59
-NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 6
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 60
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 61
-NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 7
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 62
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 63
-NUMBER LESSSON : 7
-1	ПЯТНИЦА
-2	с 8:00
-3	
-4	Математический анализ
-5	@
-6	Колчев А.А.
-7	324
-8	II
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	Э,ЭиС
-17	б
-18	Моисеев Н.Г.
-19	512
-20	III
+NUMBER LESSSON : 1
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 64
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 65
-NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	Математический анализ
-5	X
-6	Колчев А.А.
-7	324
-8	II
-9	
-10	Математический анализ
-11	X
-12	Колчев А.А.
-13	324
-14	II
-15	
-16	Э,ЭиС
-17	X
-18	Моисеев Н.Г.
-19	510
-20	III
+NUMBER LESSSON : 2
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 66
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 67
-NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	Математический анализ
-11	@
-12	Колчев А.А.
-13	324
-14	II
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 3
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 68
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 69
-NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	Физическая культура
-5	@
-6	Желудкин С.В.
-7	с\з
-8	II
-9	
-10	Физическая культура
-11	@
-12	Желудкин С.В.
-13	с\з
-14	II
-15	
-16	Физическая культура
-17	@
-18	Желудкин С.В.
-19	с\з
-20	II
+NUMBER LESSSON : 4
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 70
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 71
-NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 5
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 72
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 73
-NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 6
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 74
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 75
-NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 7
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 76
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 77
-NUMBER LESSSON : 7
-1	СУББОТА
-2	с 8:00
-3	є
-4	Информатика
-5	б
-6	Чесноков С.Е.
-7	224
-8	V
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 1
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 78
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 79
-NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	є
-4	Информатика
-5	X
-6	Чесноков С.Е.
-7	322
-8	V
-9	є
-10	Информатика
-11	X
-12	Чесноков С.Е.
-13	322
-14	V
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 2
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 80
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 81
-NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	є
-10	Информатика
-11	б
-12	Чесноков С.Е.
-13	224
-14	V
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 3
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 82
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 83
-NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 4
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 84
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 85
-NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 5
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 86
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 87
-NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 6
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 88
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 89
-NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+NUMBER LESSSON : 7
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 90
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 91
 NUMBER LESSSON : 7
-1	ДЕКАН
-2	
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 92
 NUMBER LESSSON : 7
-1	
-2	
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 Start new Data--------------------------- 93
 NUMBER LESSSON : 7
-1	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 94
+Start new Data--------------------------- 1
 NUMBER LESSSON : 7
-1	SHEET: Лист1 (5)
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 95
+Start new Data--------------------------- 2
 NUMBER LESSSON : 7
-1	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 96
+Start new Data--------------------------- 3
 NUMBER LESSSON : 7
-1	
-2	
-3	УТВЕРЖДАЮ
-4	
-5	
-6	
-7	
-8	
-9	ФИиВТ
-10	
-11	
-12	
-13	
-14	
-15	СОГЛАСОВАНО
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 97
+Start new Data--------------------------- 4
 NUMBER LESSSON : 7
-1	
-2	
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 98
+Start new Data--------------------------- 5
 NUMBER LESSSON : 7
-1	
-2	
-3	ПРОРЕКТОР ПО ОД Н.Н. СТАРЫГИНА
-4	
-5	
-6	
-7	
-8	
-9	РАСПИСАНИЕ ЗАНЯТИЙ НА 2 СЕМЕСТР 2014 - 2015 УЧЕБНОГО ГОДА
-10	
-11	
-12	
-13	
-14	
-15	НАЧАЛЬНИК УМУ Л.А. СТЕШИНА
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 99
+Start new Data--------------------------- 6
 NUMBER LESSSON : 7
-1	
-2	
-3	ПС-11 (23100062) (о)
-4	
-5	
-6	
-7	
-8	
-9	ПС-12 (23100062) (о)
-10	
-11	
-12	
-13	
-14	
-15	БИ-21 (09030365) (о)
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 100
-NUMBER LESSSON : 7
-1	ПОНЕДЕЛЬНИК
-2	с 8:00
-3	
-4	ОЭВМиА
-5	б
-6	Кошкин В.В.
-7	522
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	Социология
-17	@
-18	Тумбаева И.Д.
-19	324
-20	V
-END Data---------------------------
-Start new Data--------------------------- 101
+Start new Data--------------------------- 7
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 102
+Start new Data--------------------------- 8
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	ОЭВМиА
-5	X
-6	Кошкин В.В.
-7	521
-8	I
-9	
-10	ОЭВМиА
-11	X
-12	Кошкин В.В.
-13	521
-14	I
-15	є
-16	Социология
-17	X
-18	Тумбаева И.Д.
-19	324
-20	V
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 103
+Start new Data--------------------------- 9
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	»
-16	РWП
-17	X
-18	Харитонов А.В.
-19	322
-20	V
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 104
+Start new Data--------------------------- 10
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	ОЭВМиА
-11	б
-12	Кошкин В.В.
-13	522
-14	I
-15	є
-16	РWП
-17	б
-18	Харитонов А.В.
-19	224
-20	V
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 105
+Start new Data--------------------------- 11
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 106
+Start new Data--------------------------- 12
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	Иностранный язык
-11	б
-12	Рудько Т.А.
-13	506
-14	I
-15	
-16	Физическая культура
-17	@
-18	Желудкин С.В.
-19	с\з
-20	II
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 107
+Start new Data--------------------------- 13
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 108
+Start new Data--------------------------- 14
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 109
+Start new Data--------------------------- 15
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 110
+Start new Data--------------------------- 16
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 111
+Start new Data--------------------------- 17
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 112
+Start new Data--------------------------- 18
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 113
+Start new Data--------------------------- 19
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 114
+Start new Data--------------------------- 20
 NUMBER LESSSON : 7
-1	ВТОРНИК
-2	с 8:00
-3	
-4	ИиП
-5	б
-6	Лаптева Н.Н.
-7	522
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	ФОТСОИБ
-17	@
-18	Бурмистрова Н.П.
-19	332
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 115
+Start new Data--------------------------- 21
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	»
-10	Иностранный язык
-11	б
-12	Рудько Т.А.
-13	506
-14	I
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 116
+Start new Data--------------------------- 22
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	є
-4	Дискретная математика
-5	X
-6	Бобков Н.К.
-7	403
-8	I
-9	є
-10	Дискретная математика
-11	X
-12	Бобков Н.К.
-13	403
-14	I
-15	
-16	ФОТСОИБ
-17	X
-18	Бурмистрова Н.П.
-19	332
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 117
+Start new Data--------------------------- 23
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	»
-4	ИиП
-5	X
-6	Лаптева Н.Н.
-7	403
-8	I
-9	»
-10	ИиП
-11	X
-12	Лаптева Н.Н.
-13	403
-14	I
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 118
+Start new Data--------------------------- 24
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	є
-4	Дискретная математика
-5	@
-6	Бобков Н.К.
-7	430
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	РWП
-17	б
-18	Харитонов А.В.
-19	107
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 119
+Start new Data--------------------------- 25
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	»
-4	Иностранный язык
-5	б
-6	Пермякова А.Г.
-7	
-8	I
-9	»
-10	Дискретная математика
-11	@
-12	Бобков Н.К.
-13	430
-14	I
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 120
+Start new Data--------------------------- 26
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	Физическая культура
-5	@
-6	Желудкин С.В.
-7	с\з
-8	II
-9	
-10	Физическая культура
-11	@
-12	Желудкин С.В.
-13	с\з
-14	II
-15	
-16	ОЭВМиВС
-17	б
-18	Васяева Е.С.
-19	518
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 121
+Start new Data--------------------------- 27
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 122
+Start new Data--------------------------- 28
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 123
+Start new Data--------------------------- 29
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 124
+Start new Data--------------------------- 30
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 125
+Start new Data--------------------------- 31
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 126
+Start new Data--------------------------- 32
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 127
+Start new Data--------------------------- 33
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 128
+Start new Data--------------------------- 34
 NUMBER LESSSON : 7
-1	СРЕДА
-2	с 8:00
-3	
-4	ТВП
-5	@
-6	Кречетов А.А.
-7	329
-8	I
-9	є
-10	ВМ
-11	б
-12	Нехаев И.Н.
-13	119
-14	II
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 129
+Start new Data--------------------------- 35
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	»
-10	Инженерная графика
-11	б
-12	Моисеева О.А.
-13	315
-14	II
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 130
+Start new Data--------------------------- 36
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	є
-4	ТВП
-5	X
-6	Кречетов А.А.
-7	329
-8	I
-9	є
-10	ТВП
-11	X
-12	Кречетов А.А.
-13	329
-14	I
-15	є
-16	ЭиКУ
-17	X
-18	Богданов А.И.
-19	326
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 131
+Start new Data--------------------------- 37
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	»
-4	ВМ
-5	X
-6	Нехаев И.Н.
-7	329
-8	I
-9	»
-10	ВМ
-11	X
-12	Нехаев И.Н.
-13	329
-14	I
-15	»
-16	Психология и педагогика
-17	X
-18	Хинканина А.Л.
-19	332
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 132
+Start new Data--------------------------- 38
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	є
-4	Инженерная графика
-5	б
-6	Моисеева О.А.
-7	315
-8	II
-9	
-10	ТВП
-11	@
-12	Кречетов А.А.
-13	329
-14	I
-15	
-16	Психология и педагогика
-17	@
-18	Хинканина А.Л.
-19	332
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 133
+Start new Data--------------------------- 39
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 134
+Start new Data--------------------------- 40
 NUMBER LESSSON : 3
-1	
-2	с 13:15
-3	
-4	ВОСПИТАТЕЛЬНЫЙ ЧАС
-5	
-6	Виртуальный п.1.
-7	
-8	
-9	
-10	ВОСПИТАТЕЛЬНЫЙ ЧАС
-11	
-12	Виртуальный п.1.
-13	
-14	
-15	
-16	ВОСПИТАТЕЛЬНЫЙ ЧАС
-17	
-18	Виртуальный п.1.
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 135
+Start new Data--------------------------- 41
 NUMBER LESSSON : 3
-1	
-2	до 14:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 136
+Start new Data--------------------------- 42
 NUMBER LESSSON : 3
-1	
-2	с 14:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	ОИБ
-17	@
-18	Кречетов А.А.
-19	107
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 137
+Start new Data--------------------------- 43
 NUMBER LESSSON : 3
-1	
-2	до 16:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 138
+Start new Data--------------------------- 44
 NUMBER LESSSON : 3
-1	
-2	с 16:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 139
+Start new Data--------------------------- 45
 NUMBER LESSSON : 3
-1	
-2	до 17:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 140
+Start new Data--------------------------- 46
 NUMBER LESSSON : 3
-1	
-2	с 18:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 141
+Start new Data--------------------------- 47
 NUMBER LESSSON : 3
-1	
-2	до 19:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 142
+Start new Data--------------------------- 48
 NUMBER LESSSON : 3
-1	ЧЕТВЕРГ
-2	с 8:00
-3	є
-4	ВМ
-5	б
-6	Нехаев И.Н.
-7	522
-8	I
-9	
-10	Инженерная графика
-11	б
-12	Моисеева О.А.
-13	315
-14	II
-15	є
-16	Иностранный язык
-17	б
-18	Пермякова О.С.
-19	308
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 143
+Start new Data--------------------------- 49
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	»
-4	ВМ
-5	@
-6	Нехаев И.Н.
-7	522
-8	I
-9	
-10	Инженерная графика
-11	б
-12	Шалаева Л.А.
-13	315
-14	II
-15	»
-16	ОЭВМиВС
-17	б
-18	Васяева Е.С.
-19	518
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 144
+Start new Data--------------------------- 50
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	Иностранный язык
-5	б
-6	Пермякова А.Г.
-7	501а
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	ОЭВМиВС
-17	X
-18	Васяева Е.С.
-19	301
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 145
+Start new Data--------------------------- 51
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	Иностранный язык
-5	б
-6	Рудько Т.А.
-7	501б
-8	I
-9	
-10	Иностранный язык
-11	б
-12	Рудько Т.А.
-13	501б
-14	I
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 146
+Start new Data--------------------------- 52
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	Инженерная графика
-5	б
-6	Моисеева О.А.
-7	315
-8	II
-9	
-10	ИиП
-11	б
-12	Лаптева Н.Н.
-13	522
-14	I
-15	
-16	ОИБ
-17	X
-18	Кречетов А.А.
-19	301
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 147
+Start new Data--------------------------- 53
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	Инженерная графика
-5	б
-6	Шалаева Л.А.
-7	315
-8	II
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 148
+Start new Data--------------------------- 54
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	Физическая культура
-17	@
-18	Желудкин С.В.
-19	с\з
-20	II
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 149
+Start new Data--------------------------- 55
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 150
+Start new Data--------------------------- 56
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 151
+Start new Data--------------------------- 57
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 152
+Start new Data--------------------------- 58
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 153
+Start new Data--------------------------- 59
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 154
+Start new Data--------------------------- 60
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 155
+Start new Data--------------------------- 61
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 156
+Start new Data--------------------------- 62
 NUMBER LESSSON : 7
-1	ПЯТНИЦА
-2	с 8:00
-3	є
-4	Математический анализ
-5	@
-6	Журавлева И.В.
-7	441
-8	I
-9	є
-10	ТВиМС
-11	@
-12	Костромин Г.Я.
-13	442
-14	I
-15	
-16	Иностранный язык
-17	б
-18	Пермякова О.С.
-19	445
-20	I
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 157
+Start new Data--------------------------- 63
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	»
-4	ВМ
-5	@
-6	Нехаев И.Н.
-7	522
-8	I
-9	»
-10	ТВиМС
-11	@
-12	Костромин Г.Я.
-13	443а
-14	I
-15	
-16	Иностранный язык
-17	б
-18	Лежнина Т.М.
-19	249
-20	I
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 158
+Start new Data--------------------------- 64
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	є
-4	Математический анализ
-5	X
-6	Журавлева И.В.
-7	443а
-8	I
-9	є
-10	Математический анализ
-11	X
-12	Журавлева И.В.
-13	443а
-14	I
-15	
-16	ЭиКУ
-17	@
-18	Богданов А.И.
-19	448
-20	I
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 159
+Start new Data--------------------------- 65
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	»
-4	ТВиМС
-5	X
-6	Костромин Г.Я.
-7	443а
-8	I
-9	»
-10	ТВиМС
-11	X
-12	Костромин Г.Я.
-13	443а
-14	I
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 160
+Start new Data--------------------------- 66
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	є
-4	ТВиМС
-5	@
-6	Костромин Г.Я.
-7	441
-8	I
-9	є
-10	Математический анализ
-11	@
-12	Журавлева И.В.
-13	122
-14	I
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 161
+Start new Data--------------------------- 67
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	»
-4	ТВиМС
-5	@
-6	Костромин Г.Я.
-7	443а
-8	I
-9	»
-10	ВМ
-11	@
-12	Нехаев И.Н.
-13	522
-14	I
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 162
+Start new Data--------------------------- 68
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	Физическая культура
-5	@
-6	Желудкин С.В.
-7	с\з
-8	II
-9	
-10	Физическая культура
-11	@
-12	Желудкин С.В.
-13	с\з
-14	II
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 163
+Start new Data--------------------------- 69
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 164
+Start new Data--------------------------- 70
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	є
-4	Иностранный язык
-5	б
-6	Рудько Т.А.
-7	
-8	I
-9	є
-10	Иностранный язык
-11	б
-12	Рудько Т.А.
-13	
-14	I
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 165
+Start new Data--------------------------- 71
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 166
+Start new Data--------------------------- 72
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 167
+Start new Data--------------------------- 73
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 168
+Start new Data--------------------------- 74
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 169
+Start new Data--------------------------- 75
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 170
+Start new Data--------------------------- 76
 NUMBER LESSSON : 7
-1	СУББОТА
-2	с 8:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 171
+Start new Data--------------------------- 77
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 172
+Start new Data--------------------------- 78
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 173
+Start new Data--------------------------- 79
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 174
+Start new Data--------------------------- 80
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 175
+Start new Data--------------------------- 81
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 176
+Start new Data--------------------------- 82
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 177
+Start new Data--------------------------- 83
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 178
+Start new Data--------------------------- 84
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 179
+Start new Data--------------------------- 85
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 180
+Start new Data--------------------------- 86
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 181
+Start new Data--------------------------- 87
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 182
+Start new Data--------------------------- 88
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 183
+Start new Data--------------------------- 89
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 184
+Start new Data--------------------------- 90
 NUMBER LESSSON : 7
-1	ДЕКАН
-2	
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 185
+Start new Data--------------------------- 91
 NUMBER LESSSON : 7
-1	
-2	
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 186
+Start new Data--------------------------- 92
 NUMBER LESSSON : 7
-1	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 187
+Start new Data--------------------------- 93
 NUMBER LESSSON : 7
-1	SHEET: Лист1 (4)
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 188
+Start new Data--------------------------- 1
 NUMBER LESSSON : 7
-1	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 189
+Start new Data--------------------------- 2
 NUMBER LESSSON : 7
-1	
-2	
-3	УТВЕРЖДАЮ
-4	
-5	
-6	
-7	
-8	
-9	ФИиВТ
-10	
-11	
-12	
-13	
-14	
-15	СОГЛАСОВАНО
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 190
+Start new Data--------------------------- 3
 NUMBER LESSSON : 7
-1	
-2	
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 191
+Start new Data--------------------------- 4
 NUMBER LESSSON : 7
-1	
-2	
-3	ПРОРЕКТОР ПО ОД Н.Н. СТАРЫГИНА
-4	
-5	
-6	
-7	
-8	
-9	РАСПИСАНИЕ ЗАНЯТИЙ НА 2 СЕМЕСТР 2014 - 2015 УЧЕБНОГО ГОДА
-10	
-11	
-12	
-13	
-14	
-15	НАЧАЛЬНИК УМУ Л.А. СТЕШИНА
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 192
+Start new Data--------------------------- 5
 NUMBER LESSSON : 7
-1	
-2	
-3	БИ-22 (09030365) (о)
-4	
-5	
-6	
-7	
-8	
-9	ИВТ-21 (23010062) (о)
-10	
-11	
-12	
-13	
-14	
-15	ПС-21 (23100062) (о)
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 193
+Start new Data--------------------------- 6
 NUMBER LESSSON : 7
-1	ПОНЕДЕЛЬНИК
-2	с 8:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	є
-10	ССРПО
-11	б
-12	Глозштейн А.М.
-13	519
-14	III
-15	є
-16	ППО
-17	X
-18	Сморкалов А.Ю.
-19	421
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 194
+Start new Data--------------------------- 7
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	»
-4	РWП
-5	б
-6	Харитонов А.В.
-7	224
-8	V
-9	
-10	
-11	
-12	
-13	
-14	
-15	»
-16	КВ
-17	X
-18	Бородин А.В.
-19	421
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 195
+Start new Data--------------------------- 8
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	є
-4	Социология
-5	X
-6	Тумбаева И.Д.
-7	324
-8	V
-9	є
-10	НИТ
-11	б
-12	Кубашева Е.С.
-13	518
-14	III
-15	є
-16	ТАиФЯ
-17	X
-18	Нехорошкова Л.Г.
-19	302
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 196
+Start new Data--------------------------- 9
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	»
-4	РWП
-5	X
-6	Харитонов А.В.
-7	322
-8	V
-9	»
-10	ТОЭВМ
-11	X
-12	Морохин Д.В.
-13	510
-14	III
-15	»
-16	Инженерная этика
-17	X
-18	Загайнова В.И.
-19	302
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 197
+Start new Data--------------------------- 10
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	Социология
-5	@
-6	Тумбаева И.Д.
-7	324
-8	V
-9	
-10	ТОЭВМ
-11	б
-12	Морохин Д.В.
-13	520а
-14	III
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 198
+Start new Data--------------------------- 11
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 199
+Start new Data--------------------------- 12
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	Физическая культура
-5	@
-6	Желудкин С.В.
-7	с\з
-8	II
-9	
-10	Физическая культура
-11	@
-12	Желудкин С.В.
-13	с\з
-14	II
-15	
-16	Физическая культура
-17	@
-18	Желудкин С.В.
-19	с\з
-20	II
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 200
+Start new Data--------------------------- 13
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 201
+Start new Data--------------------------- 14
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 202
+Start new Data--------------------------- 15
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 203
+Start new Data--------------------------- 16
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 204
+Start new Data--------------------------- 17
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 205
+Start new Data--------------------------- 18
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 206
+Start new Data--------------------------- 19
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 207
+Start new Data--------------------------- 20
 NUMBER LESSSON : 7
-1	ВТОРНИК
-2	с 8:00
-3	
-4	РWП
-5	б
-6	Харитонов А.В.
-7	107
-8	III
-9	
-10	Э,ЭиС
-11	б
-12	Старыгин С.В.
-13	514
-14	III
-15	
-16	ООП
-17	X
-18	Малов А.Н.
-19	433
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 208
+Start new Data--------------------------- 21
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 209
+Start new Data--------------------------- 22
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	ФОТСОИБ
-5	X
-6	Бурмистрова Н.П.
-7	332
-8	III
-9	
-10	Э,ЭиС
-11	X
-12	Старыгин С.В.
-13	510
-14	III
-15	
-16	МЛиТА
-17	X
-18	Галочкин В.И.
-19	433
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 210
+Start new Data--------------------------- 23
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 211
+Start new Data--------------------------- 24
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	ФОТСОИБ
-5	@
-6	Бурмистрова Н.П.
-7	230
-8	III
-9	
-10	Э,ЭиС
-11	б
-12	Старыгин С.В.
-13	514
-14	III
-15	
-16	КВ
-17	б
-18	Бородин А.В.
-19	250б
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 212
+Start new Data--------------------------- 25
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 213
+Start new Data--------------------------- 26
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	є
-4	Иностранный язык
-5	б
-6	Пермякова О.С.
-7	329
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 214
+Start new Data--------------------------- 27
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	»
-10	М,СиС
-11	X
-12	Смирнова Г.И.
-13	301
-14	III
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 215
+Start new Data--------------------------- 28
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 216
+Start new Data--------------------------- 29
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 217
+Start new Data--------------------------- 30
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 218
+Start new Data--------------------------- 31
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 219
+Start new Data--------------------------- 32
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 220
+Start new Data--------------------------- 33
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 221
+Start new Data--------------------------- 34
 NUMBER LESSSON : 7
-1	СРЕДА
-2	с 8:00
-3	
-4	Психология и педагогика
-5	@
-6	Хинканина А.Л.
-7	332
-8	III
-9	
-10	ЭВМиПУ
-11	X
-12	Васяева Е.С.
-13	510
-14	III
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 222
+Start new Data--------------------------- 35
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 223
+Start new Data--------------------------- 36
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	є
-4	ЭиКУ
-5	X
-6	Богданов А.И.
-7	326
-8	III
-9	
-10	ЭВМиПУ
-11	б
-12	Васяева Е.С.
-13	518
-14	III
-15	є
-16	Теория управления
-17	X
-18	Нехаев И.Н.
-19	403
-20	I
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 224
+Start new Data--------------------------- 37
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	»
-4	Психология и педагогика
-5	X
-6	Хинканина А.Л.
-7	332
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	»
-16	МЛиТА
-17	б
-18	Галочкин В.И.
-19	522
-20	I
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 225
+Start new Data--------------------------- 38
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	ОЭВМиВС
-5	б
-6	Васяева Е.С.
-7	518
-8	III
-9	є
-10	ССРПО
-11	X
-12	Глозштейн А.М.
-13	510
-14	III
-15	є
-16	МЛиТА
-17	б
-18	Галочкин В.И.
-19	522
-20	I
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 226
+Start new Data--------------------------- 39
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	»
-10	ССРПО
-11	б
-12	Глозштейн А.М.
-13	519
-14	III
-15	»
-16	Инженерная этика
-17	@
-18	Загайнова В.И.
-19	442
-20	I
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 227
+Start new Data--------------------------- 40
 NUMBER LESSSON : 3
-1	
-2	с 13:15
-3	
-4	ОИБ
-5	@
-6	Кречетов А.А.
-7	107
-8	III
-9	
-10	ВОСПИТАТЕЛЬНЫЙ ЧАС
-11	
-12	Виртуальный п.1.
-13	
-14	
-15	
-16	ВОСПИТАТЕЛЬНЫЙ ЧАС
-17	
-18	Виртуальный п.1.
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 228
+Start new Data--------------------------- 41
 NUMBER LESSSON : 3
-1	
-2	до 14:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 229
+Start new Data--------------------------- 42
 NUMBER LESSSON : 3
-1	
-2	с 14:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	Теория управления
-17	б
-18	Нехаев И.Н.
-19	522
-20	I
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 230
+Start new Data--------------------------- 43
 NUMBER LESSSON : 3
-1	
-2	до 16:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 231
+Start new Data--------------------------- 44
 NUMBER LESSSON : 3
-1	
-2	с 16:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 232
+Start new Data--------------------------- 45
 NUMBER LESSSON : 3
-1	
-2	до 17:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 233
+Start new Data--------------------------- 46
 NUMBER LESSSON : 3
-1	
-2	с 18:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 234
+Start new Data--------------------------- 47
 NUMBER LESSSON : 3
-1	
-2	до 19:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 235
+Start new Data--------------------------- 48
 NUMBER LESSSON : 3
-1	ЧЕТВЕРГ
-2	с 8:00
-3	є
-4	ОЭВМиВС
-5	б
-6	Васяева Е.С.
-7	518
-8	III
-9	
-10	Теория автоматов
-11	б
-12	Моисеев Н.Г.
-13	512
-14	III
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 236
+Start new Data--------------------------- 49
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 237
+Start new Data--------------------------- 50
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	ОЭВМиВС
-5	X
-6	Васяева Е.С.
-7	301
-8	III
-9	є
-10	Теория автоматов
-11	X
-12	Моисеев Н.Г.
-13	510
-14	III
-15	є
-16	ППО
-17	
-18	Сморкалов А.Ю.
-19	
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 238
+Start new Data--------------------------- 51
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	»
-10	НИТ
-11	X
-12	Кубашева Е.С.
-13	510
-14	III
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 239
+Start new Data--------------------------- 52
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	ОИБ
-5	X
-6	Кречетов А.А.
-7	301
-8	III
-9	є
-10	ООП
-11	б
-12	Глозштейн А.М.
-13	519
-14	III
-15	
-16	ДЕНЬКУРСОВОГОПРОЕКТИРОВАНИЯ
-17	
-18	Виртуальный п.1.
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 240
+Start new Data--------------------------- 53
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 241
+Start new Data--------------------------- 54
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	Физическая культура
-5	@
-6	Желудкин С.В.
-7	с\з
-8	II
-9	
-10	Физическая культура
-11	@
-12	Желудкин С.В.
-13	с\з
-14	II
-15	
-16	Физическая культура
-17	@
-18	Желудкин С.В.
-19	с\з
-20	II
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 242
+Start new Data--------------------------- 55
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 243
+Start new Data--------------------------- 56
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 244
+Start new Data--------------------------- 57
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 245
+Start new Data--------------------------- 58
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 246
+Start new Data--------------------------- 59
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 247
+Start new Data--------------------------- 60
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 248
+Start new Data--------------------------- 61
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 249
+Start new Data--------------------------- 62
 NUMBER LESSSON : 7
-1	ПЯТНИЦА
-2	с 8:00
-3	
-4	ЭиКУ
-5	@
-6	Богданов А.И.
-7	448
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	ООП
-17	б
-18	Малов А.Н.
-19	522
-20	I
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 250
+Start new Data--------------------------- 63
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 251
+Start new Data--------------------------- 64
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	Иностранный язык
-5	б
-6	Пермякова О.С.
-7	445
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	ТАиФЯ
-17	б
-18	Нехорошкова Л.Г.
-19	522
-20	I
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 252
+Start new Data--------------------------- 65
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 253
+Start new Data--------------------------- 66
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	М,СиС
-11	@
-12	Ерусланов Р.В.
-13	307
-14	III
-15	
-16	ППО
-17	б
-18	Сморкалов А.Ю.
-19	522
-20	I
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 254
+Start new Data--------------------------- 67
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 255
+Start new Data--------------------------- 68
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	Операционные системы
-11	X
-12	Глозштейн А.М.
-13	510
-14	III
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 256
+Start new Data--------------------------- 69
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 257
+Start new Data--------------------------- 70
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	Операционные системы
-11	б
-12	Глозштейн А.М.
-13	519
-14	III
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 258
+Start new Data--------------------------- 71
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 259
+Start new Data--------------------------- 72
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 260
+Start new Data--------------------------- 73
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 261
+Start new Data--------------------------- 74
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 262
+Start new Data--------------------------- 75
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 263
+Start new Data--------------------------- 76
 NUMBER LESSSON : 7
-1	СУББОТА
-2	с 8:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 264
+Start new Data--------------------------- 77
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 265
+Start new Data--------------------------- 78
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 266
+Start new Data--------------------------- 79
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 267
+Start new Data--------------------------- 80
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 268
+Start new Data--------------------------- 81
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 269
+Start new Data--------------------------- 82
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 270
+Start new Data--------------------------- 83
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 271
+Start new Data--------------------------- 84
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 272
+Start new Data--------------------------- 85
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 273
+Start new Data--------------------------- 86
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 274
+Start new Data--------------------------- 87
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 275
+Start new Data--------------------------- 88
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 276
+Start new Data--------------------------- 89
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 277
+Start new Data--------------------------- 90
 NUMBER LESSSON : 7
-1	ДЕКАН
-2	
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 278
+Start new Data--------------------------- 91
 NUMBER LESSSON : 7
-1	
-2	
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 279
+Start new Data--------------------------- 92
 NUMBER LESSSON : 7
-1	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 280
+Start new Data--------------------------- 93
 NUMBER LESSSON : 7
-1	SHEET: Лист1 (3)
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 281
+Start new Data--------------------------- 1
 NUMBER LESSSON : 7
-1	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 282
+Start new Data--------------------------- 2
 NUMBER LESSSON : 7
-1	
-2	
-3	УТВЕРЖДАЮ
-4	
-5	
-6	
-7	
-8	
-9	ФИиВТ
-10	
-11	
-12	
-13	
-14	
-15	СОГЛАСОВАНО
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 283
+Start new Data--------------------------- 3
 NUMBER LESSSON : 7
-1	
-2	
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 284
+Start new Data--------------------------- 4
 NUMBER LESSSON : 7
-1	
-2	
-3	ПРОРЕКТОР ПО ОД Н.Н. СТАРЫГИНА
-4	
-5	
-6	
-7	
-8	
-9	РАСПИСАНИЕ ЗАНЯТИЙ НА 2 СЕМЕСТР 2014 - 2015 УЧЕБНОГО ГОДА
-10	
-11	
-12	
-13	
-14	
-15	НАЧАЛЬНИК УМУ Л.А. СТЕШИНА
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 285
+Start new Data--------------------------- 5
 NUMBER LESSSON : 7
-1	
-2	
-3	ПС-22 (23100062) (о)
-4	
-5	
-6	
-7	
-8	
-9	БИ-31 (09030365) (о)
-10	
-11	
-12	
-13	
-14	
-15	ИВТ-31 (23010062) (о)
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 286
+Start new Data--------------------------- 6
 NUMBER LESSSON : 7
-1	ПОНЕДЕЛЬНИК
-2	с 8:00
-3	є
-4	ППО
-5	X
-6	Сморкалов А.Ю.
-7	421
-8	III
-9	
-10	МПВУИБ
-11	б
-12	Потехин Е.Н.
-13	107
-14	III
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 287
+Start new Data--------------------------- 7
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	»
-4	КВ
-5	X
-6	Бородин А.В.
-7	421
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 288
+Start new Data--------------------------- 8
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	є
-4	ТАиФЯ
-5	X
-6	Нехорошкова Л.Г.
-7	302
-8	III
-9	
-10	МПВУИБ
-11	X
-12	Потехин Е.Н.
-13	310
-14	III
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 289
+Start new Data--------------------------- 9
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	»
-4	Инженерная этика
-5	X
-6	Загайнова В.И.
-7	302
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 290
+Start new Data--------------------------- 10
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	ДЕНЬКУРСОВОГОПРОЕКТИРОВАНИЯ
-17	
-18	Виртуальный п.1.
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 291
+Start new Data--------------------------- 11
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 292
+Start new Data--------------------------- 12
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	Физическая культура
-5	@
-6	Желудкин С.В.
-7	с\з
-8	II
-9	
-10	
-11	
-12	
-13	
-14	
-15	є
-16	Э,ЭиС
-17	б
-18	Старыгин С.В.
-19	514
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 293
+Start new Data--------------------------- 13
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	»
-16	Базы данных
-17	
-18	Малашкевич В.Б.
-19	514
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 294
+Start new Data--------------------------- 14
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	Физическая культура
-11	@
-12	Желудкин С.В.
-13	с\з
-14	II
-15	
-16	Физическая культура
-17	@
-18	Желудкин С.В.
-19	с\з
-20	II
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 295
+Start new Data--------------------------- 15
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 296
+Start new Data--------------------------- 16
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 297
+Start new Data--------------------------- 17
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 298
+Start new Data--------------------------- 18
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 299
+Start new Data--------------------------- 19
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 300
+Start new Data--------------------------- 20
 NUMBER LESSSON : 7
-1	ВТОРНИК
-2	с 8:00
-3	
-4	ООП
-5	X
-6	Малов А.Н.
-7	433
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	ЭВМиПУ
-17	б
-18	Васяева Е.С.
-19	518
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 301
+Start new Data--------------------------- 21
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	»
-10	ОУД
-11	X
-12	Краснова С.В.
-13	301
-14	III
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 302
+Start new Data--------------------------- 22
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	МЛиТА
-5	X
-6	Галочкин В.И.
-7	433
-8	III
-9	
-10	Экономика
-11	@
-12	Манукянц С.В.
-13	301
-14	III
-15	є
-16	ЭВМиПУ
-17	X
-18	Васяева Е.С.
-19	302
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 303
+Start new Data--------------------------- 23
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	»
-16	Моделирование
-17	X
-18	Смирнов А.В.
-19	302
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 304
+Start new Data--------------------------- 24
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	ТАиФЯ
-5	б
-6	Нехорошкова Л.Г.
-7	522
-8	I
-9	
-10	ОУД
-11	@
-12	Краснова С.В.
-13	301
-14	III
-15	
-16	Моделирование
-17	б
-18	Смирнов А.В.
-19	518
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 305
+Start new Data--------------------------- 25
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 306
+Start new Data--------------------------- 26
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	КВ
-5	б
-6	Бородин А.В.
-7	250б
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 307
+Start new Data--------------------------- 27
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 308
+Start new Data--------------------------- 28
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 309
+Start new Data--------------------------- 29
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 310
+Start new Data--------------------------- 30
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 311
+Start new Data--------------------------- 31
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 312
+Start new Data--------------------------- 32
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 313
+Start new Data--------------------------- 33
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 314
+Start new Data--------------------------- 34
 NUMBER LESSSON : 7
-1	СРЕДА
-2	с 8:00
-3	
-4	ООП
-5	б
-6	Малов А.Н.
-7	522
-8	I
-9	є
-10	БЖ
-11	X
-12	Фирсова А.Е.
-13	124
-14	I
-15	
-16	БИСПЛ
-17	б
-18	Васяева Н.С.
-19	514
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 315
+Start new Data--------------------------- 35
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	»
-10	БЖ
-11	@
-12	Фирсова А.Е.
-13	419
-14	I
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 316
+Start new Data--------------------------- 36
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	є
-4	Теория управления
-5	X
-6	Нехаев И.Н.
-7	403
-8	I
-9	є
-10	БЖ
-11	б
-12	Фирсова А.Е.
-13	419
-14	I
-15	є
-16	БИСПЛ
-17	X
-18	Васяева Н.С.
-19	307
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 317
+Start new Data--------------------------- 37
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	»
-4	МЛиТА
-5	б
-6	Галочкин В.И.
-7	522
-8	I
-9	»
-10	Экономика
-11	X
-12	Манукянц С.В.
-13	535
-14	III
-15	»
-16	Экономика
-17	X
-18	Манукянц С.В.
-19	535
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 318
+Start new Data--------------------------- 38
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	є
-4	Инженерная этика
-5	@
-6	Загайнова В.И.
-7	442
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	Экономика
-17	@
-18	Манукянц С.В.
-19	535
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 319
+Start new Data--------------------------- 39
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	»
-4	МЛиТА
-5	б
-6	Галочкин В.И.
-7	522
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 320
+Start new Data--------------------------- 40
 NUMBER LESSSON : 3
-1	
-2	с 13:15
-3	
-4	ВОСПИТАТЕЛЬНЫЙ ЧАС
-5	
-6	Виртуальный п.1.
-7	
-8	
-9	
-10	ВОСПИТАТЕЛЬНЫЙ ЧАС
-11	
-12	Виртуальный п.1.
-13	
-14	
-15	
-16	ВОСПИТАТЕЛЬНЫЙ ЧАС
-17	
-18	Виртуальный п.1.
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 321
+Start new Data--------------------------- 41
 NUMBER LESSSON : 3
-1	
-2	до 14:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 322
+Start new Data--------------------------- 42
 NUMBER LESSSON : 3
-1	
-2	с 14:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 323
+Start new Data--------------------------- 43
 NUMBER LESSSON : 3
-1	
-2	до 16:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 324
+Start new Data--------------------------- 44
 NUMBER LESSSON : 3
-1	
-2	с 16:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 325
+Start new Data--------------------------- 45
 NUMBER LESSSON : 3
-1	
-2	до 17:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 326
+Start new Data--------------------------- 46
 NUMBER LESSSON : 3
-1	
-2	с 18:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 327
+Start new Data--------------------------- 47
 NUMBER LESSSON : 3
-1	
-2	до 19:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 328
+Start new Data--------------------------- 48
 NUMBER LESSSON : 3
-1	ЧЕТВЕРГ
-2	с 8:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	МС
-17	X
-18	Мясников В.И.
-19	230
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 329
+Start new Data--------------------------- 49
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 330
+Start new Data--------------------------- 50
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	є
-4	ППО
-5	
-6	Сморкалов А.Ю.
-7	
-8	III
-9	є
-10	БОС
-11	X
-12	Зайнуллин А.Д.
-13	302
-14	III
-15	
-16	ДЕНЬКУРСОВОГОПРОЕКТИРОВАНИЯ
-17	б
-18	Малашкевич И.А.
-19	518
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 331
+Start new Data--------------------------- 51
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	»
-10	БОС
-11	@
-12	Зайнуллин А.Д.
-13	107
-14	III
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 332
+Start new Data--------------------------- 52
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	ДЕНЬКУРСОВОГОПРОЕКТИРОВАНИЯ
-5	
-6	Виртуальный п.1.
-7	
-8	
-9	
-10	БОС
-11	б
-12	Зайнуллин А.Д.
-13	107
-14	III
-15	є
-16	Сигналы, цепи, системы
-17	X
-18	Малашкевич И.А.
-19	510
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 333
+Start new Data--------------------------- 53
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	»
-16	Сигналы, цепи, системы
-17	б
-18	Малашкевич И.А.
-19	518
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 334
+Start new Data--------------------------- 54
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	Физическая культура
-5	@
-6	Желудкин С.В.
-7	с\з
-8	II
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 335
+Start new Data--------------------------- 55
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 336
+Start new Data--------------------------- 56
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 337
+Start new Data--------------------------- 57
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 338
+Start new Data--------------------------- 58
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 339
+Start new Data--------------------------- 59
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 340
+Start new Data--------------------------- 60
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 341
+Start new Data--------------------------- 61
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 342
+Start new Data--------------------------- 62
 NUMBER LESSSON : 7
-1	ПЯТНИЦА
-2	с 8:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	є
-16	Базы данных
-17	б
-18	Малашкевич В.Б.
-19	518
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 343
+Start new Data--------------------------- 63
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	»
-16	ИП
-17	X
-18	Малашкевич В.Б.
-19	331
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 344
+Start new Data--------------------------- 64
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	є
-10	ТОКБ
-11	X
-12	Тарасова Л.В.
-13	407
-14	V
-15	
-16	ИП
-17	б
-18	Малашкевич В.Б.
-19	518
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 345
+Start new Data--------------------------- 65
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	»
-10	ТОКБ
-11	б
-12	Тарасова Л.В.
-13	223
-14	V
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 346
+Start new Data--------------------------- 66
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	ТОКБ
-11	б
-12	Тарасова Л.В.
-13	223
-14	V
-15	
-16	МС
-17	б
-18	Мясников В.И.
-19	514
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 347
+Start new Data--------------------------- 67
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 348
+Start new Data--------------------------- 68
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	ППО
-5	б
-6	Сморкалов А.Ю.
-7	522
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 349
+Start new Data--------------------------- 69
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 350
+Start new Data--------------------------- 70
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	Теория управления
-5	б
-6	Нехаев И.Н.
-7	522
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 351
+Start new Data--------------------------- 71
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 352
+Start new Data--------------------------- 72
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 353
+Start new Data--------------------------- 73
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 354
+Start new Data--------------------------- 74
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 355
+Start new Data--------------------------- 75
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 356
+Start new Data--------------------------- 76
 NUMBER LESSSON : 7
-1	СУББОТА
-2	с 8:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	ПнаЯС++
-11	X
-12	Потехин Е.Н.
-13	312
-14	V
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 357
+Start new Data--------------------------- 77
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 358
+Start new Data--------------------------- 78
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	ПнаЯС++
-11	б
-12	Потехин Е.Н.
-13	223
-14	V
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 359
+Start new Data--------------------------- 79
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 360
+Start new Data--------------------------- 80
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	є
-10	ПнаЯС++
-11	б
-12	Потехин Е.Н.
-13	223
-14	V
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 361
+Start new Data--------------------------- 81
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	»
-10	МПВУИБ
-11	б
-12	Потехин Е.Н.
-13	223
-14	V
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 362
+Start new Data--------------------------- 82
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 363
+Start new Data--------------------------- 83
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 364
+Start new Data--------------------------- 84
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 365
+Start new Data--------------------------- 85
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 366
+Start new Data--------------------------- 86
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 367
+Start new Data--------------------------- 87
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 368
+Start new Data--------------------------- 88
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 369
+Start new Data--------------------------- 89
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 370
+Start new Data--------------------------- 90
 NUMBER LESSSON : 7
-1	ДЕКАН
-2	
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 371
+Start new Data--------------------------- 91
 NUMBER LESSSON : 7
-1	
-2	
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 372
+Start new Data--------------------------- 92
 NUMBER LESSSON : 7
-1	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 373
+Start new Data--------------------------- 93
 NUMBER LESSSON : 7
-1	SHEET: Лист1 (2)
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 374
+Start new Data--------------------------- 1
 NUMBER LESSSON : 7
-1	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 375
+Start new Data--------------------------- 2
 NUMBER LESSSON : 7
-1	
-2	
-3	УТВЕРЖДАЮ
-4	
-5	
-6	
-7	
-8	
-9	ФИиВТ
-10	
-11	
-12	
-13	
-14	
-15	СОГЛАСОВАНО
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 376
+Start new Data--------------------------- 3
 NUMBER LESSSON : 7
-1	
-2	
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 377
+Start new Data--------------------------- 4
 NUMBER LESSSON : 7
-1	
-2	
-3	ПРОРЕКТОР ПО ОД Н.Н. СТАРЫГИНА
-4	
-5	
-6	
-7	
-8	
-9	РАСПИСАНИЕ ЗАНЯТИЙ НА 2 СЕМЕСТР 2014 - 2015 УЧЕБНОГО ГОДА
-10	
-11	
-12	
-13	
-14	
-15	НАЧАЛЬНИК УМУ Л.А. СТЕШИНА
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 378
+Start new Data--------------------------- 5
 NUMBER LESSSON : 7
-1	
-2	
-3	ПС-31 (23100062) (о)
-4	
-5	
-6	
-7	
-8	
-9	БИ-41 (09030365) (о)
-10	
-11	
-12	
-13	
-14	
-15	ИВТ-41 (23010062) (о)
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 379
+Start new Data--------------------------- 6
 NUMBER LESSSON : 7
-1	ПОНЕДЕЛЬНИК
-2	с 8:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	є
-10	ВБИС
-11	X
-12	Сучков Д.С.
-13	302
-14	III
-15	є
-16	СИИ
-17	б
-18	Савинов А.Н.
-19	518
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 380
+Start new Data--------------------------- 7
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	»
-10	ВБИС
-11	б
-12	Сучков Д.С.
-13	302
-14	III
-15	»
-16	АЛВС
-17	б
-18	Глозштейн А.М.
-19	519
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 381
+Start new Data--------------------------- 8
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	є
-10	ВБИС
-11	б
-12	Сучков Д.С.
-13	107
-14	III
-15	
-16	СИИ
-17	X
-18	Савинов А.Н.
-19	535
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 382
+Start new Data--------------------------- 9
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	»
-4	КВ
-5	б
-6	Бородин А.В.
-7	250а
-8	III
-9	»
-10	СиСПИ
-11	@
-12	Тюкаев А.Ю.
-13	107
-14	III
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 383
+Start new Data--------------------------- 10
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	є
-4	ПП
-5	X
-6	Ананьева О.Е.
-7	302
-8	III
-9	
-10	СиСПИ
-11	б
-12	Тюкаев А.Ю.
-13	107
-14	III
-15	
-16	СИИ
-17	б
-18	Савинов А.Н.
-19	518
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 384
+Start new Data--------------------------- 11
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	»
-4	АВС
-5	X
-6	Бородин А.В.
-7	302
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 385
+Start new Data--------------------------- 12
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	АВС
-5	б
-6	Бородин А.В.
-7	250б
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 386
+Start new Data--------------------------- 13
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 387
+Start new Data--------------------------- 14
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	Физическая культура
-5	@
-6	Желудкин С.В.
-7	с\з
-8	II
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 388
+Start new Data--------------------------- 15
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 389
+Start new Data--------------------------- 16
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 390
+Start new Data--------------------------- 17
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 391
+Start new Data--------------------------- 18
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 392
+Start new Data--------------------------- 19
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 393
+Start new Data--------------------------- 20
 NUMBER LESSSON : 7
-1	ВТОРНИК
-2	с 8:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	ОиПОИБ
-11	X
-12	Александров А.П.
-13	ммз
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 394
+Start new Data--------------------------- 21
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	»
-16	Защита информации
-17	б
-18	Смирнов В.И.
-19	519
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 395
+Start new Data--------------------------- 22
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	ОиПОИБ
-11	@
-12	Александров А.П.
-13	ммз
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 396
+Start new Data--------------------------- 23
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	»
-16	Защита информации
-17	X
-18	Смирнов В.И.
-19	104
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 397
+Start new Data--------------------------- 24
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	ОиПОИБ
-11	б
-12	Александров А.П.
-13	ммз
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 398
+Start new Data--------------------------- 25
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 399
+Start new Data--------------------------- 26
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	ПП
-5	б
-6	Сморкалов А.Ю.
-7	522
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 400
+Start new Data--------------------------- 27
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 401
+Start new Data--------------------------- 28
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	є
-4	ПП
-5	X
-6	Сморкалов А.Ю.
-7	403
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 402
+Start new Data--------------------------- 29
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	»
-4	Программирование WEB
-5	X
-6	Галочкин А.В.
-7	403
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 403
+Start new Data--------------------------- 30
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	Программирование WEB
-5	б
-6	Галочкин А.В.
-7	522
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 404
+Start new Data--------------------------- 31
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 405
+Start new Data--------------------------- 32
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 406
+Start new Data--------------------------- 33
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 407
+Start new Data--------------------------- 34
 NUMBER LESSSON : 7
-1	СРЕДА
-2	с 8:00
-3	є
-4	Экономика
-5	@
-6	Манукянц С.В.
-7	308
-8	II
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	АЛВС
-17	X
-18	Глозштейн А.М.
-19	310
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 408
+Start new Data--------------------------- 35
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	»
-4	Экономика
-5	@
-6	Манукянц С.В.
-7	535
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 409
+Start new Data--------------------------- 36
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	є
-4	Проектирование игр
-5	X
-6	Морозов М.Н.
-7	308
-8	II
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	АЛВС
-17	б
-18	Глозштейн А.М.
-19	519
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 410
+Start new Data--------------------------- 37
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	»
-4	Экономика
-5	X
-6	Манукянц С.В.
-7	535
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 411
+Start new Data--------------------------- 38
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	є
-4	Теория управления
-5	X
-6	Нехаев И.Н.
-7	308
-8	II
-9	
-10	ДЕНЬКУРСОВОГОПРОЕКТИРОВАНИЯ
-11	
-12	Виртуальный п.1.
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 412
+Start new Data--------------------------- 39
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 413
+Start new Data--------------------------- 40
 NUMBER LESSSON : 3
-1	
-2	с 13:15
-3	
-4	ВОСПИТАТЕЛЬНЫЙ ЧАС
-5	
-6	Виртуальный п.1.
-7	
-8	
-9	
-10	ВОСПИТАТЕЛЬНЫЙ ЧАС
-11	
-12	Виртуальный п.1.
-13	
-14	
-15	
-16	ВОСПИТАТЕЛЬНЫЙ ЧАС
-17	
-18	Виртуальный п.1.
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 414
+Start new Data--------------------------- 41
 NUMBER LESSSON : 3
-1	
-2	до 14:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 415
+Start new Data--------------------------- 42
 NUMBER LESSSON : 3
-1	
-2	с 14:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 416
+Start new Data--------------------------- 43
 NUMBER LESSSON : 3
-1	
-2	до 16:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 417
+Start new Data--------------------------- 44
 NUMBER LESSSON : 3
-1	
-2	с 16:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	є
-10	СиСПИ
-11	
-12	Тюкаев А.Ю.
-13	107
-14	III
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 418
+Start new Data--------------------------- 45
 NUMBER LESSSON : 3
-1	
-2	до 17:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	»
-10	ПАСОИБ
-11	
-12	Пекунов А.А.
-13	107
-14	III
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 419
+Start new Data--------------------------- 46
 NUMBER LESSSON : 3
-1	
-2	с 18:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 420
+Start new Data--------------------------- 47
 NUMBER LESSSON : 3
-1	
-2	до 19:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 421
+Start new Data--------------------------- 48
 NUMBER LESSSON : 3
-1	ЧЕТВЕРГ
-2	с 8:00
-3	є
-4	БиМВУ
-5	X
-6	Муреев П.П.
-7	354
-8	I
-9	є
-10	АБП
-11	X
-12	Кречетов А.А.
-13	307
-14	III
-15	
-16	Защита информации
-17	б
-18	Смирнов В.И.
-19	519
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 422
+Start new Data--------------------------- 49
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 423
+Start new Data--------------------------- 50
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	БиМВУ
-5	б
-6	Муреев П.П.
-7	522
-8	I
-9	
-10	АБП
-11	б
-12	Кречетов А.А.
-13	307
-14	III
-15	є
-16	Психология управления
-17	X
-18	Хинканина А.Л.
-19	433
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 424
+Start new Data--------------------------- 51
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	»
-16	КТОПЭВМ
-17	X
-18	Сухов А.М.
-19	535
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 425
+Start new Data--------------------------- 52
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	є
-4	КВ
-5	X
-6	Бородин А.В.
-7	354
-8	I
-9	
-10	СиСПИ
-11	X
-12	Тюкаев А.Ю.
-13	307
-14	III
-15	
-16	Психология управления
-17	@
-18	Хинканина А.Л.
-19	306
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 426
+Start new Data--------------------------- 53
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	»
-4	УПП
-5	X
-6	Нехорошкова Л.Г.
-7	354
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 427
+Start new Data--------------------------- 54
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	Теория управления
-5	б
-6	Нехаев И.Н.
-7	522
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	КТОПЭВМ
-17	б
-18	Сухов А.М.
-19	518
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 428
+Start new Data--------------------------- 55
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 429
+Start new Data--------------------------- 56
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 430
+Start new Data--------------------------- 57
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 431
+Start new Data--------------------------- 58
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 432
+Start new Data--------------------------- 59
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 433
+Start new Data--------------------------- 60
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 434
+Start new Data--------------------------- 61
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 435
+Start new Data--------------------------- 62
 NUMBER LESSSON : 7
-1	ПЯТНИЦА
-2	с 8:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	ТЗИ
-11	X
-12	Тюкаев А.Ю.
-13	301
-14	III
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 436
+Start new Data--------------------------- 63
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 437
+Start new Data--------------------------- 64
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	ТЗИ
-11	б
-12	Тюкаев А.Ю.
-13	107
-14	III
-15	є
-16	МС
-17	@
-18	Мясников В.И.
-19	514
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 438
+Start new Data--------------------------- 65
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	»
-16	Сети и телекоммуникации
-17	@
-18	Васяева Н.С.
-19	514
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 439
+Start new Data--------------------------- 66
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	є
-4	КВ
-5	б
-6	Бородин А.В.
-7	250а
-8	III
-9	є
-10	ТЗИ
-11	@
-12	Тюкаев А.Ю.
-13	107
-14	III
-15	
-16	ДЕНЬКУРСОВОГОПРОЕКТИРОВАНИЯ
-17	
-18	Виртуальный п.1.
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 440
+Start new Data--------------------------- 67
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 441
+Start new Data--------------------------- 68
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	є
-4	ПП
-5	б
-6	Ананьева О.Е.
-7	250а
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 442
+Start new Data--------------------------- 69
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	»
-4	ПП
-5	б
-6	Ананьева О.Е.
-7	250а
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 443
+Start new Data--------------------------- 70
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	Проектирование игр
-5	б
-6	Морозов М.Н.
-7	250а
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 444
+Start new Data--------------------------- 71
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 445
+Start new Data--------------------------- 72
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	УПП
-5	б
-6	Нехорошкова Л.Г.
-7	250а
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 446
+Start new Data--------------------------- 73
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 447
+Start new Data--------------------------- 74
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 448
+Start new Data--------------------------- 75
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 449
+Start new Data--------------------------- 76
 NUMBER LESSSON : 7
-1	СУББОТА
-2	с 8:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	є
-10	ПАСОИБ
-11	X
-12	Пекунов А.А.
-13	510
-14	III
-15	
-16	ОиПП
-17	X
-18	Усынина Т.С.
-19	307
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 450
+Start new Data--------------------------- 77
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 451
+Start new Data--------------------------- 78
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	є
-4	УПП
-5	
-6	Нехорошкова Л.Г.
-7	227
-8	III
-9	
-10	ПАСОИБ
-11	б
-12	Пекунов А.А.
-13	107
-14	III
-15	
-16	ОиПП
-17	@
-18	Усынина Т.С.
-19	307
-20	III
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 452
+Start new Data--------------------------- 79
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	»
-4	Проектирование игр
-5	
-6	Морозов М.Н.
-7	227
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 453
+Start new Data--------------------------- 80
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	ДЕНЬКУРСОВОГОПРОЕКТИРОВАНИЯ
-5	
-6	Виртуальный п.1.
-7	
-8	
-9	
-10	УИБ
-11	X
-12	Зайнуллин А.Д.
-13	510
-14	III
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 454
+Start new Data--------------------------- 81
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 455
+Start new Data--------------------------- 82
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	УИБ
-11	@
-12	Зайнуллин А.Д.
-13	107
-14	III
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 456
+Start new Data--------------------------- 83
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 457
+Start new Data--------------------------- 84
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 458
+Start new Data--------------------------- 85
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 459
+Start new Data--------------------------- 86
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 460
+Start new Data--------------------------- 87
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 461
+Start new Data--------------------------- 88
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 462
+Start new Data--------------------------- 89
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 463
+Start new Data--------------------------- 90
 NUMBER LESSSON : 7
-1	ДЕКАН
-2	
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 464
+Start new Data--------------------------- 91
 NUMBER LESSSON : 7
-1	
-2	
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 465
+Start new Data--------------------------- 92
 NUMBER LESSSON : 7
-1	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 466
+Start new Data--------------------------- 93
 NUMBER LESSSON : 7
-1	SHEET: Лист1
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 467
+Start new Data--------------------------- 1
 NUMBER LESSSON : 7
-1	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 468
+Start new Data--------------------------- 2
 NUMBER LESSSON : 7
-1	
-2	
-3	УТВЕРЖДАЮ
-4	
-5	
-6	
-7	
-8	
-9	ФИиВТ
-10	
-11	
-12	
-13	
-14	
-15	СОГЛАСОВАНО
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 469
+Start new Data--------------------------- 3
 NUMBER LESSSON : 7
-1	
-2	
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 470
+Start new Data--------------------------- 4
 NUMBER LESSSON : 7
-1	
-2	
-3	ПРОРЕКТОР ПО ОД Н.Н. СТАРЫГИНА
-4	
-5	
-6	
-7	
-8	
-9	РАСПИСАНИЕ ЗАНЯТИЙ НА 2 СЕМЕСТР 2014 - 2015 УЧЕБНОГО ГОДА
-10	
-11	
-12	
-13	
-14	
-15	НАЧАЛЬНИК УМУ Л.А. СТЕШИНА
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 471
+Start new Data--------------------------- 5
 NUMBER LESSSON : 7
-1	
-2	
-3	ПС-41 (23100062) (о)
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 472
+Start new Data--------------------------- 6
 NUMBER LESSSON : 7
-1	ПОНЕДЕЛЬНИК
-2	с 8:00
-3	є
-4	Инженерная этика
-5	@
-6	Загайнова В.И.
-7	442а
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 473
+Start new Data--------------------------- 7
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 474
+Start new Data--------------------------- 8
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	є
-4	Инженерная этика
-5	X
-6	Загайнова В.И.
-7	442а
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 475
+Start new Data--------------------------- 9
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 476
+Start new Data--------------------------- 10
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	НТП
-5	X
-6	Хованский Е.П.
-7	442а
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 477
+Start new Data--------------------------- 11
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 478
+Start new Data--------------------------- 12
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	НТП
-5	б
-6	Хованский Е.П.
-7	522
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 479
+Start new Data--------------------------- 13
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 480
+Start new Data--------------------------- 14
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 481
+Start new Data--------------------------- 15
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 482
+Start new Data--------------------------- 16
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 483
+Start new Data--------------------------- 17
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 484
+Start new Data--------------------------- 18
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 485
+Start new Data--------------------------- 19
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 486
+Start new Data--------------------------- 20
 NUMBER LESSSON : 7
-1	ВТОРНИК
-2	с 8:00
-3	
-4	ИС
-5	X
-6	Дружинин Ю.В.
-7	328
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 487
+Start new Data--------------------------- 21
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 488
+Start new Data--------------------------- 22
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	ИС
-5	б
-6	Дружинин Ю.В.
-7	522
-8	I
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 489
+Start new Data--------------------------- 23
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 490
+Start new Data--------------------------- 24
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 491
+Start new Data--------------------------- 25
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 492
+Start new Data--------------------------- 26
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 493
+Start new Data--------------------------- 27
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 494
+Start new Data--------------------------- 28
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 495
+Start new Data--------------------------- 29
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 496
+Start new Data--------------------------- 30
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 497
+Start new Data--------------------------- 31
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 498
+Start new Data--------------------------- 32
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 499
+Start new Data--------------------------- 33
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 500
+Start new Data--------------------------- 34
 NUMBER LESSSON : 7
-1	СРЕДА
-2	с 8:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 501
+Start new Data--------------------------- 35
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 502
+Start new Data--------------------------- 36
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 503
+Start new Data--------------------------- 37
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 504
+Start new Data--------------------------- 38
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 505
+Start new Data--------------------------- 39
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 506
+Start new Data--------------------------- 40
 NUMBER LESSSON : 3
-1	
-2	с 13:15
-3	
-4	ВОСПИТАТЕЛЬНЫЙ ЧАС
-5	
-6	Виртуальный п.1.
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 507
+Start new Data--------------------------- 41
 NUMBER LESSSON : 3
-1	
-2	до 14:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 508
+Start new Data--------------------------- 42
 NUMBER LESSSON : 3
-1	
-2	с 14:30
-3	
-4	ЭПИ
-5	б
-6	Бородин А.В.
-7	250б
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 509
+Start new Data--------------------------- 43
 NUMBER LESSSON : 3
-1	
-2	до 16:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 510
+Start new Data--------------------------- 44
 NUMBER LESSSON : 3
-1	
-2	с 16:15
-3	
-4	ЭПИ
-5	X
-6	Бородин А.В.
-7	332
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 511
+Start new Data--------------------------- 45
 NUMBER LESSSON : 3
-1	
-2	до 17:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 512
+Start new Data--------------------------- 46
 NUMBER LESSSON : 3
-1	
-2	с 18:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 513
+Start new Data--------------------------- 47
 NUMBER LESSSON : 3
-1	
-2	до 19:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 514
+Start new Data--------------------------- 48
 NUMBER LESSSON : 3
-1	ЧЕТВЕРГ
-2	с 8:00
-3	
-4	Психология управления
-5	@
-6	Хинканина А.Л.
-7	306
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 515
+Start new Data--------------------------- 49
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 516
+Start new Data--------------------------- 50
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	є
-4	Психология управления
-5	X
-6	Хинканина А.Л.
-7	433
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 517
+Start new Data--------------------------- 51
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 518
+Start new Data--------------------------- 52
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 519
+Start new Data--------------------------- 53
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 520
+Start new Data--------------------------- 54
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 521
+Start new Data--------------------------- 55
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 522
+Start new Data--------------------------- 56
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 523
+Start new Data--------------------------- 57
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 524
+Start new Data--------------------------- 58
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 525
+Start new Data--------------------------- 59
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 526
+Start new Data--------------------------- 60
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 527
+Start new Data--------------------------- 61
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 528
+Start new Data--------------------------- 62
 NUMBER LESSSON : 7
-1	ПЯТНИЦА
-2	с 8:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 529
+Start new Data--------------------------- 63
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 530
+Start new Data--------------------------- 64
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	є
-4	НТП
-5	
-6	Хованский Е.П.
-7	227
-8	III
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 531
+Start new Data--------------------------- 65
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 532
+Start new Data--------------------------- 66
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 533
+Start new Data--------------------------- 67
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 534
+Start new Data--------------------------- 68
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	ДЕНЬКУРСОВОГОПРОЕКТИРОВАНИЯ
-5	
-6	Виртуальный п.1.
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 535
+Start new Data--------------------------- 69
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 536
+Start new Data--------------------------- 70
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 537
+Start new Data--------------------------- 71
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 538
+Start new Data--------------------------- 72
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 539
+Start new Data--------------------------- 73
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 540
+Start new Data--------------------------- 74
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 541
+Start new Data--------------------------- 75
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 542
+Start new Data--------------------------- 76
 NUMBER LESSSON : 7
-1	СУББОТА
-2	с 8:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 543
+Start new Data--------------------------- 77
 NUMBER LESSSON : 1
-1	
-2	до 9:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 544
+Start new Data--------------------------- 78
 NUMBER LESSSON : 1
-1	
-2	с 9:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 545
+Start new Data--------------------------- 79
 NUMBER LESSSON : 2
-1	
-2	до 11:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 546
+Start new Data--------------------------- 80
 NUMBER LESSSON : 2
-1	
-2	с 11:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 547
+Start new Data--------------------------- 81
 NUMBER LESSSON : 3
-1	
-2	до 13:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 548
+Start new Data--------------------------- 82
 NUMBER LESSSON : 3
-1	
-2	с 13:30
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 549
+Start new Data--------------------------- 83
 NUMBER LESSSON : 4
-1	
-2	до 15:05
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 550
+Start new Data--------------------------- 84
 NUMBER LESSSON : 4
-1	
-2	с 15:15
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 551
+Start new Data--------------------------- 85
 NUMBER LESSSON : 5
-1	
-2	до 16:50
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 552
+Start new Data--------------------------- 86
 NUMBER LESSSON : 5
-1	
-2	с 17:00
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 553
+Start new Data--------------------------- 87
 NUMBER LESSSON : 6
-1	
-2	до 18:35
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 554
+Start new Data--------------------------- 88
 NUMBER LESSSON : 6
-1	
-2	с 18:45
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 555
+Start new Data--------------------------- 89
 NUMBER LESSSON : 7
-1	
-2	до 20:20
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 556
+Start new Data--------------------------- 90
 NUMBER LESSSON : 7
-1	ДЕКАН
-2	
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
-20	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
-Start new Data--------------------------- 557
+Start new Data--------------------------- 91
 NUMBER LESSSON : 7
-1	
-2	
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
+ERROR [object Object]
 END Data---------------------------
 thats it
-	ПРОРЕКТОР ПО ОД Н.Н. СТАРЫГИНА
-	РАСПИСАНИЕ ЗАНЯТИЙ НА 2 СЕМЕСТР 2014 - 2015 УЧЕБНОГО ГОДА
-	НАЧАЛЬНИК УМУ Л.А. СТЕШИНА
+	БИ-11 (09030365) (о)
+Monaday
+0
+lesson:   number  : undefined
+1
+lesson:   number  : undefined
+2
+lesson: є  number  : undefined
+3
+lesson: ОЭВМиА  number  : undefined
+4
+lesson:   number  : undefined
+5
+lesson:   number  : undefined
+6
+lesson:   number  : undefined
+7
+lesson: ССРПО  number  : undefined
+8
+lesson: є  number  : undefined
+9
+lesson: ППО  number  : undefined
+10
+lesson: МПВУИБ  number  : undefined
+11
+lesson:   number  : undefined
+12
+lesson:   number  : undefined
+13
+lesson: ВБИС  number  : undefined
+14
+lesson: є  number  : undefined
+15
+lesson: Инженерная этика  number  : undefined
