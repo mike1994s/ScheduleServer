@@ -5,12 +5,6 @@ var GROUPS_NUM_STR = 5;
 function Group(name, lesson) {
     this.name = name;
     this.lesson = lesson;
-//    this.monday = new Array();
-//    this.tuesday = new Array();
-//    this.wednesday = new Array();
-//    this.thursday = new Array();
-//    this.friday = new Array();
-//    this.saturday = new Array();
 }
 function Lesson( ) {
     this.lesson;
@@ -127,7 +121,6 @@ function populate(data, index, day, number, lastThree, groups) {
     }
     function isEmpty(lessonT) {
         lessonT.lesson = lessonT.lesson || "";
-        lessonT.number = lessonT.number || "";
         lessonT.week = lessonT.week || "";
         lessonT.teacher = lessonT.teacher || "";
         lessonT.auditory = lessonT.auditory || "";
@@ -144,8 +137,7 @@ function populate(data, index, day, number, lastThree, groups) {
     var firstLesson = new Lesson();
     var secondLesson = new Lesson();
     var thirdLesson = new Lesson();
-    console.log("NUMBER LESSSON : " + number);
-//    console.log("LAST THREE : \t\t" + lastThree.first + "  " + lastThree.second + " " + lastThree.third);
+//    console.log("NUMBER LESSSON : " + number);
     for (var i = 0; i < data.length; ++i) {
         if (data[i].indexOf("SHEET") !== -1)
             index = 0;
@@ -153,6 +145,9 @@ function populate(data, index, day, number, lastThree, groups) {
             if (i === 1) {
                 number = getNumber(data[i].trim(), number);
             }
+            firstLesson.number = number;
+            secondLesson.number = number;
+            thirdLesson.number = number;
             if (i === 3 || i === 9 || i === 15) {
                 console.log("LESSON : ");
                 console.log(i + "  " + data[i].trim());
@@ -263,19 +258,34 @@ reader.addListener('end', function() {
         console.log("\t" + groups[i].name);
         console.log("\t" + groups[i].lesson.lesson);
         console.log("\t" + groups[i].lesson.teacher);
-//        console.log("Monaday");
-//        for (var i = 0; i < groups[i].monday.length; ++i) {
-//            console.log(i);
-//            console.log("lesson: " + groups[i].monday[i].lesson + "  number  : " + groups[i].monday[i].number );
-//        }
-//        console.log("\t" + );
-//        console.log("\t" + groups[i].tuesday.length);
-//        console.log("\t" + groups[i].wednesday.length);
-//        console.log("\t" + groups[i].thursday.length);
-//        console.log("\t" + groups[i].friday.length);
-//        console.log("\t" + groups[i].saturday.length);
 
     }
+    afterEnd(groups);
 }
 );
 
+function afterEnd(groups) {
+    var uniqueGroups = new Array();
+    function searchGroups(name) {
+        for (var i = 0; i < uniqueGroups.length; ++i) {
+//            console.log(uniqueGroups[i].name  + "\t" + name);
+            if (uniqueGroups[i].name === name) {
+                return i;
+            }
+        }
+        return -1;
+    }
+    function UniqueGroups(name) {
+        this.name = name;
+    }
+    for (var i = 0; i < groups.length; ++i) {
+        var ind = searchGroups(groups[i].name);
+        if (ind == -1) {
+            var unGroup = new UniqueGroups(groups[i].name);
+            uniqueGroups.push(unGroup);
+        }
+    }
+    for (var i = 1; i < uniqueGroups.length; ++i) {
+        console.log(uniqueGroups[i].name)
+    }
+}

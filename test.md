@@ -1,20 +1,14 @@
 Start new Data--------------------------- 1
-NUMBER LESSSON : 1
 END Data---------------------------
 Start new Data--------------------------- 1
-NUMBER LESSSON : 1
 END Data---------------------------
 Start new Data--------------------------- 2
-NUMBER LESSSON : 1
 END Data---------------------------
 Start new Data--------------------------- 3
-NUMBER LESSSON : 1
 END Data---------------------------
 Start new Data--------------------------- 4
-NUMBER LESSSON : 1
 END Data---------------------------
 Start new Data--------------------------- 5
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -41,7 +35,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 6
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -68,7 +61,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 7
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -95,7 +87,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 8
-NUMBER LESSSON : 1
 LESSON : 
 3  Языки программирования
 Teacher : 
@@ -122,7 +113,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 9
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -149,7 +139,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 10
-NUMBER LESSSON : 2
 LESSON : 
 3  Языки программирования
 Teacher : 
@@ -176,7 +165,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 11
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -203,7 +191,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 12
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -230,7 +217,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 13
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -257,7 +243,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 14
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -284,7 +269,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 15
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -311,7 +295,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 16
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -338,7 +321,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 17
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -365,7 +347,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 18
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -392,7 +373,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 19
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -419,7 +399,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 20
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -446,7 +425,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 21
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -473,7 +451,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 22
-NUMBER LESSSON : 1
 LESSON : 
 3  Физика
 Teacher : 
@@ -500,7 +477,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 23
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -527,7 +503,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 24
-NUMBER LESSSON : 2
 LESSON : 
 3  Физика
 Teacher : 
@@ -554,7 +529,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 25
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -581,7 +555,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 26
-NUMBER LESSSON : 3
 LESSON : 
 3  Физическая культура
 Teacher : 
@@ -608,7 +581,6 @@ hull :
 19  II
 END Data---------------------------
 Start new Data--------------------------- 27
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -635,7 +607,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 28
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -662,7 +633,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 29
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -689,7 +659,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 30
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -716,7 +685,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 31
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -743,7 +711,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 32
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -770,7 +737,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 33
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -797,7 +763,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 34
-NUMBER LESSSON : 7
 LESSON : 
 3  История Отечества
 Teacher : 
@@ -824,7 +789,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 35
-NUMBER LESSSON : 1
 LESSON : 
 3  Дискретная математика
 Teacher : 
@@ -851,7 +815,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 36
-NUMBER LESSSON : 1
 LESSON : 
 3  Дискретная математика
 Teacher : 
@@ -878,7 +841,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 37
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -905,7 +867,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 38
-NUMBER LESSSON : 2
 LESSON : 
 3  Иностранный язык
 Teacher : 
@@ -932,7 +893,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 39
-NUMBER LESSSON : 3
 LESSON : 
 3  Иностранный язык
 Teacher : 
@@ -959,7 +919,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 40
-NUMBER LESSSON : 3
 LESSON : 
 3  ВОСПИТАТЕЛЬНЫЙ ЧАС
 Teacher : 
@@ -986,7 +945,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 41
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -1013,7 +971,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 42
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -1040,7 +997,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 43
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -1067,7 +1023,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 44
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -1094,7 +1049,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 45
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -1121,7 +1075,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 46
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -1148,7 +1101,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 47
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -1175,7 +1127,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 48
-NUMBER LESSSON : 3
 LESSON : 
 3  МЛиТА
 Teacher : 
@@ -1202,7 +1153,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 49
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -1229,7 +1179,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 50
-NUMBER LESSSON : 1
 LESSON : 
 3  МЛиТА
 Teacher : 
@@ -1256,7 +1205,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 51
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -1283,7 +1231,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 52
-NUMBER LESSSON : 2
 LESSON : 
 3  История Отечества
 Teacher : 
@@ -1310,7 +1257,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 53
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -1337,7 +1283,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 54
-NUMBER LESSSON : 3
 LESSON : 
 3  Математический анализ
 Teacher : 
@@ -1364,7 +1309,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 55
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -1391,7 +1335,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 56
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -1418,7 +1361,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 57
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -1445,7 +1387,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 58
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -1472,7 +1413,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 59
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -1499,7 +1439,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 60
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -1526,7 +1465,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 61
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -1553,7 +1491,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 62
-NUMBER LESSSON : 7
 LESSON : 
 3  Математический анализ
 Teacher : 
@@ -1580,7 +1517,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 63
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -1607,7 +1543,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 64
-NUMBER LESSSON : 1
 LESSON : 
 3  Математический анализ
 Teacher : 
@@ -1634,7 +1569,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 65
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -1661,7 +1595,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 66
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -1688,7 +1621,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 67
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -1715,7 +1647,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 68
-NUMBER LESSSON : 3
 LESSON : 
 3  Физическая культура
 Teacher : 
@@ -1742,7 +1673,6 @@ hull :
 19  II
 END Data---------------------------
 Start new Data--------------------------- 69
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -1769,7 +1699,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 70
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -1796,7 +1725,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 71
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -1823,7 +1751,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 72
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -1850,7 +1777,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 73
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -1877,7 +1803,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 74
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -1904,7 +1829,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 75
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -1931,7 +1855,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 76
-NUMBER LESSSON : 7
 LESSON : 
 3  Информатика
 Teacher : 
@@ -1958,7 +1881,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 77
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -1985,7 +1907,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 78
-NUMBER LESSSON : 1
 LESSON : 
 3  Информатика
 Teacher : 
@@ -2012,7 +1933,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 79
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -2039,7 +1959,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 80
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -2066,7 +1985,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 81
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -2093,7 +2011,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 82
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -2120,7 +2037,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 83
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -2147,7 +2063,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 84
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -2174,7 +2089,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 85
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -2201,7 +2115,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 86
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -2228,7 +2141,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 87
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -2255,7 +2167,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 88
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -2282,7 +2193,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 89
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -2309,7 +2219,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 90
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -2336,7 +2245,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 91
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -2363,25 +2271,18 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 92
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 93
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 1
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 2
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 3
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 4
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 5
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -2408,7 +2309,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 6
-NUMBER LESSSON : 7
 LESSON : 
 3  ОЭВМиА
 Teacher : 
@@ -2435,7 +2335,6 @@ hull :
 19  V
 END Data---------------------------
 Start new Data--------------------------- 7
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -2462,7 +2361,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 8
-NUMBER LESSSON : 1
 LESSON : 
 3  ОЭВМиА
 Teacher : 
@@ -2489,7 +2387,6 @@ hull :
 19  V
 END Data---------------------------
 Start new Data--------------------------- 9
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -2516,7 +2413,6 @@ hull :
 19  V
 END Data---------------------------
 Start new Data--------------------------- 10
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -2543,7 +2439,6 @@ hull :
 19  V
 END Data---------------------------
 Start new Data--------------------------- 11
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -2570,7 +2465,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 12
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -2597,7 +2491,6 @@ hull :
 19  II
 END Data---------------------------
 Start new Data--------------------------- 13
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -2624,7 +2517,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 14
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -2651,7 +2543,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 15
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -2678,7 +2569,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 16
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -2705,7 +2595,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 17
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -2732,7 +2621,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 18
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -2759,7 +2647,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 19
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -2786,7 +2673,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 20
-NUMBER LESSSON : 7
 LESSON : 
 3  ИиП
 Teacher : 
@@ -2813,7 +2699,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 21
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -2840,7 +2725,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 22
-NUMBER LESSSON : 1
 LESSON : 
 3  Дискретная математика
 Teacher : 
@@ -2867,7 +2751,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 23
-NUMBER LESSSON : 2
 LESSON : 
 3  ИиП
 Teacher : 
@@ -2894,7 +2777,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 24
-NUMBER LESSSON : 2
 LESSON : 
 3  Дискретная математика
 Teacher : 
@@ -2921,7 +2803,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 25
-NUMBER LESSSON : 3
 LESSON : 
 3  Иностранный язык
 Teacher : 
@@ -2948,7 +2829,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 26
-NUMBER LESSSON : 3
 LESSON : 
 3  Физическая культура
 Teacher : 
@@ -2975,7 +2855,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 27
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -3002,7 +2881,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 28
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -3029,7 +2907,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 29
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -3056,7 +2933,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 30
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -3083,7 +2959,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 31
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -3110,7 +2985,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 32
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -3137,7 +3011,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 33
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -3164,7 +3037,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 34
-NUMBER LESSSON : 7
 LESSON : 
 3  ТВП
 Teacher : 
@@ -3191,7 +3063,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 35
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -3218,7 +3089,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 36
-NUMBER LESSSON : 1
 LESSON : 
 3  ТВП
 Teacher : 
@@ -3245,7 +3115,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 37
-NUMBER LESSSON : 2
 LESSON : 
 3  ВМ
 Teacher : 
@@ -3272,7 +3141,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 38
-NUMBER LESSSON : 2
 LESSON : 
 3  Инженерная графика
 Teacher : 
@@ -3299,7 +3167,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 39
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -3326,7 +3193,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 40
-NUMBER LESSSON : 3
 LESSON : 
 3  ВОСПИТАТЕЛЬНЫЙ ЧАС
 Teacher : 
@@ -3353,7 +3219,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 41
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -3380,7 +3245,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 42
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -3407,7 +3271,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 43
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -3434,7 +3297,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 44
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -3461,7 +3323,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 45
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -3488,7 +3349,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 46
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -3515,7 +3375,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 47
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -3542,7 +3401,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 48
-NUMBER LESSSON : 3
 LESSON : 
 3  ВМ
 Teacher : 
@@ -3569,7 +3427,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 49
-NUMBER LESSSON : 1
 LESSON : 
 3  ВМ
 Teacher : 
@@ -3596,7 +3453,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 50
-NUMBER LESSSON : 1
 LESSON : 
 3  Иностранный язык
 Teacher : 
@@ -3623,7 +3479,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 51
-NUMBER LESSSON : 2
 LESSON : 
 3  Иностранный язык
 Teacher : 
@@ -3650,7 +3505,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 52
-NUMBER LESSSON : 2
 LESSON : 
 3  Инженерная графика
 Teacher : 
@@ -3677,7 +3531,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 53
-NUMBER LESSSON : 3
 LESSON : 
 3  Инженерная графика
 Teacher : 
@@ -3704,7 +3557,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 54
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -3731,7 +3583,6 @@ hull :
 19  II
 END Data---------------------------
 Start new Data--------------------------- 55
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -3758,7 +3609,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 56
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -3785,7 +3635,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 57
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -3812,7 +3661,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 58
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -3839,7 +3687,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 59
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -3866,7 +3713,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 60
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -3893,7 +3739,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 61
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -3920,7 +3765,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 62
-NUMBER LESSSON : 7
 LESSON : 
 3  Математический анализ
 Teacher : 
@@ -3947,7 +3791,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 63
-NUMBER LESSSON : 1
 LESSON : 
 3  ВМ
 Teacher : 
@@ -3974,7 +3817,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 64
-NUMBER LESSSON : 1
 LESSON : 
 3  Математический анализ
 Teacher : 
@@ -4001,7 +3843,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 65
-NUMBER LESSSON : 2
 LESSON : 
 3  ТВиМС
 Teacher : 
@@ -4028,7 +3869,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 66
-NUMBER LESSSON : 2
 LESSON : 
 3  ТВиМС
 Teacher : 
@@ -4055,7 +3895,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 67
-NUMBER LESSSON : 3
 LESSON : 
 3  ТВиМС
 Teacher : 
@@ -4082,7 +3921,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 68
-NUMBER LESSSON : 3
 LESSON : 
 3  Физическая культура
 Teacher : 
@@ -4109,7 +3947,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 69
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -4136,7 +3973,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 70
-NUMBER LESSSON : 4
 LESSON : 
 3  Иностранный язык
 Teacher : 
@@ -4163,7 +3999,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 71
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -4190,7 +4025,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 72
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -4217,7 +4051,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 73
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -4244,7 +4077,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 74
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -4271,7 +4103,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 75
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -4298,7 +4129,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 76
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -4325,7 +4155,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 77
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -4352,7 +4181,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 78
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -4379,7 +4207,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 79
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -4406,7 +4233,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 80
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -4433,7 +4259,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 81
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -4460,7 +4285,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 82
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -4487,7 +4311,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 83
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -4514,7 +4337,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 84
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -4541,7 +4363,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 85
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -4568,7 +4389,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 86
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -4595,7 +4415,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 87
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -4622,7 +4441,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 88
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -4649,7 +4467,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 89
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -4676,7 +4493,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 90
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -4703,7 +4519,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 91
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -4730,25 +4545,18 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 92
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 93
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 1
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 2
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 3
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 4
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 5
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -4775,7 +4583,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 6
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -4802,7 +4609,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 7
-NUMBER LESSSON : 1
 LESSON : 
 3  РWП
 Teacher : 
@@ -4829,7 +4635,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 8
-NUMBER LESSSON : 1
 LESSON : 
 3  Социология
 Teacher : 
@@ -4856,7 +4661,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 9
-NUMBER LESSSON : 2
 LESSON : 
 3  РWП
 Teacher : 
@@ -4883,7 +4687,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 10
-NUMBER LESSSON : 2
 LESSON : 
 3  Социология
 Teacher : 
@@ -4910,7 +4713,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 11
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -4937,7 +4739,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 12
-NUMBER LESSSON : 3
 LESSON : 
 3  Физическая культура
 Teacher : 
@@ -4964,7 +4765,6 @@ hull :
 19  II
 END Data---------------------------
 Start new Data--------------------------- 13
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -4991,7 +4791,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 14
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -5018,7 +4817,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 15
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -5045,7 +4843,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 16
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -5072,7 +4869,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 17
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -5099,7 +4895,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 18
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -5126,7 +4921,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 19
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -5153,7 +4947,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 20
-NUMBER LESSSON : 7
 LESSON : 
 3  РWП
 Teacher : 
@@ -5180,7 +4973,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 21
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -5207,7 +4999,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 22
-NUMBER LESSSON : 1
 LESSON : 
 3  ФОТСОИБ
 Teacher : 
@@ -5234,7 +5025,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 23
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -5261,7 +5051,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 24
-NUMBER LESSSON : 2
 LESSON : 
 3  ФОТСОИБ
 Teacher : 
@@ -5288,7 +5077,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 25
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -5315,7 +5103,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 26
-NUMBER LESSSON : 3
 LESSON : 
 3  Иностранный язык
 Teacher : 
@@ -5342,7 +5129,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 27
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -5369,7 +5155,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 28
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -5396,7 +5181,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 29
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -5423,7 +5207,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 30
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -5450,7 +5233,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 31
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -5477,7 +5259,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 32
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -5504,7 +5285,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 33
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -5531,7 +5311,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 34
-NUMBER LESSSON : 7
 LESSON : 
 3  Психология и педагогика
 Teacher : 
@@ -5558,7 +5337,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 35
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -5585,7 +5363,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 36
-NUMBER LESSSON : 1
 LESSON : 
 3  ЭиКУ
 Teacher : 
@@ -5612,7 +5389,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 37
-NUMBER LESSSON : 2
 LESSON : 
 3  Психология и педагогика
 Teacher : 
@@ -5639,7 +5415,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 38
-NUMBER LESSSON : 2
 LESSON : 
 3  ОЭВМиВС
 Teacher : 
@@ -5666,7 +5441,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 39
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -5693,7 +5467,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 40
-NUMBER LESSSON : 3
 LESSON : 
 3  ОИБ
 Teacher : 
@@ -5720,7 +5493,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 41
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -5747,7 +5519,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 42
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -5774,7 +5545,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 43
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -5801,7 +5571,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 44
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -5828,7 +5597,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 45
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -5855,7 +5623,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 46
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -5882,7 +5649,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 47
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -5909,7 +5675,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 48
-NUMBER LESSSON : 3
 LESSON : 
 3  ОЭВМиВС
 Teacher : 
@@ -5936,7 +5701,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 49
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -5963,7 +5727,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 50
-NUMBER LESSSON : 1
 LESSON : 
 3  ОЭВМиВС
 Teacher : 
@@ -5990,7 +5753,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 51
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -6017,7 +5779,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 52
-NUMBER LESSSON : 2
 LESSON : 
 3  ОИБ
 Teacher : 
@@ -6044,7 +5805,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 53
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -6071,7 +5831,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 54
-NUMBER LESSSON : 3
 LESSON : 
 3  Физическая культура
 Teacher : 
@@ -6098,7 +5857,6 @@ hull :
 19  II
 END Data---------------------------
 Start new Data--------------------------- 55
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -6125,7 +5883,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 56
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -6152,7 +5909,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 57
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -6179,7 +5935,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 58
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -6206,7 +5961,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 59
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -6233,7 +5987,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 60
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -6260,7 +6013,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 61
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -6287,7 +6039,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 62
-NUMBER LESSSON : 7
 LESSON : 
 3  ЭиКУ
 Teacher : 
@@ -6314,7 +6065,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 63
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -6341,7 +6091,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 64
-NUMBER LESSSON : 1
 LESSON : 
 3  Иностранный язык
 Teacher : 
@@ -6368,7 +6117,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 65
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -6395,7 +6143,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 66
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -6422,7 +6169,6 @@ hull :
 19  I
 END Data---------------------------
 Start new Data--------------------------- 67
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -6449,7 +6195,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 68
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -6476,7 +6221,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 69
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -6503,7 +6247,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 70
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -6530,7 +6273,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 71
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -6557,7 +6299,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 72
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -6584,7 +6325,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 73
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -6611,7 +6351,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 74
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -6638,7 +6377,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 75
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -6665,7 +6403,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 76
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -6692,7 +6429,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 77
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -6719,7 +6455,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 78
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -6746,7 +6481,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 79
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -6773,7 +6507,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 80
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -6800,7 +6533,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 81
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -6827,7 +6559,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 82
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -6854,7 +6585,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 83
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -6881,7 +6611,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 84
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -6908,7 +6637,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 85
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -6935,7 +6663,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 86
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -6962,7 +6689,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 87
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -6989,7 +6715,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 88
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -7016,7 +6741,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 89
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -7043,7 +6767,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 90
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -7070,7 +6793,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 91
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -7097,25 +6819,18 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 92
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 93
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 1
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 2
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 3
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 4
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 5
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -7142,7 +6857,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 6
-NUMBER LESSSON : 7
 LESSON : 
 3  ППО
 Teacher : 
@@ -7169,7 +6883,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 7
-NUMBER LESSSON : 1
 LESSON : 
 3  КВ
 Teacher : 
@@ -7196,7 +6909,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 8
-NUMBER LESSSON : 1
 LESSON : 
 3  ТАиФЯ
 Teacher : 
@@ -7223,7 +6935,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 9
-NUMBER LESSSON : 2
 LESSON : 
 3  Инженерная этика
 Teacher : 
@@ -7250,7 +6961,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 10
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -7277,7 +6987,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 11
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -7304,7 +7013,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 12
-NUMBER LESSSON : 3
 LESSON : 
 3  Физическая культура
 Teacher : 
@@ -7331,7 +7039,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 13
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -7358,7 +7065,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 14
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -7385,7 +7091,6 @@ hull :
 19  II
 END Data---------------------------
 Start new Data--------------------------- 15
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -7412,7 +7117,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 16
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -7439,7 +7143,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 17
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -7466,7 +7169,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 18
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -7493,7 +7195,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 19
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -7520,7 +7221,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 20
-NUMBER LESSSON : 7
 LESSON : 
 3  ООП
 Teacher : 
@@ -7547,7 +7247,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 21
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -7574,7 +7273,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 22
-NUMBER LESSSON : 1
 LESSON : 
 3  МЛиТА
 Teacher : 
@@ -7601,7 +7299,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 23
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -7628,7 +7325,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 24
-NUMBER LESSSON : 2
 LESSON : 
 3  ТАиФЯ
 Teacher : 
@@ -7655,7 +7351,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 25
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -7682,7 +7377,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 26
-NUMBER LESSSON : 3
 LESSON : 
 3  КВ
 Teacher : 
@@ -7709,7 +7403,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 27
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -7736,7 +7429,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 28
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -7763,7 +7455,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 29
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -7790,7 +7481,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 30
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -7817,7 +7507,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 31
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -7844,7 +7533,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 32
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -7871,7 +7559,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 33
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -7898,7 +7585,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 34
-NUMBER LESSSON : 7
 LESSON : 
 3  ООП
 Teacher : 
@@ -7925,7 +7611,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 35
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -7952,7 +7637,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 36
-NUMBER LESSSON : 1
 LESSON : 
 3  Теория управления
 Teacher : 
@@ -7979,7 +7663,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 37
-NUMBER LESSSON : 2
 LESSON : 
 3  МЛиТА
 Teacher : 
@@ -8006,7 +7689,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 38
-NUMBER LESSSON : 2
 LESSON : 
 3  Инженерная этика
 Teacher : 
@@ -8033,7 +7715,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 39
-NUMBER LESSSON : 3
 LESSON : 
 3  МЛиТА
 Teacher : 
@@ -8060,7 +7741,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 40
-NUMBER LESSSON : 3
 LESSON : 
 3  ВОСПИТАТЕЛЬНЫЙ ЧАС
 Teacher : 
@@ -8087,7 +7767,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 41
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -8114,7 +7793,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 42
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -8141,7 +7819,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 43
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -8168,7 +7845,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 44
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -8195,7 +7871,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 45
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -8222,7 +7897,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 46
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -8249,7 +7923,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 47
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -8276,7 +7949,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 48
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -8303,7 +7975,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 49
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -8330,7 +8001,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 50
-NUMBER LESSSON : 1
 LESSON : 
 3  ППО
 Teacher : 
@@ -8357,7 +8027,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 51
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -8384,7 +8053,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 52
-NUMBER LESSSON : 2
 LESSON : 
 3  ДЕНЬКУРСОВОГОПРОЕКТИРОВАНИЯ
 Teacher : 
@@ -8411,7 +8079,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 53
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -8438,7 +8105,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 54
-NUMBER LESSSON : 3
 LESSON : 
 3  Физическая культура
 Teacher : 
@@ -8465,7 +8131,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 55
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -8492,7 +8157,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 56
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -8519,7 +8183,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 57
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -8546,7 +8209,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 58
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -8573,7 +8235,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 59
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -8600,7 +8261,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 60
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -8627,7 +8287,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 61
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -8654,7 +8313,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 62
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -8681,7 +8339,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 63
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -8708,7 +8365,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 64
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -8735,7 +8391,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 65
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -8762,7 +8417,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 66
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -8789,7 +8443,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 67
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -8816,7 +8469,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 68
-NUMBER LESSSON : 3
 LESSON : 
 3  ППО
 Teacher : 
@@ -8843,7 +8495,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 69
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -8870,7 +8521,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 70
-NUMBER LESSSON : 4
 LESSON : 
 3  Теория управления
 Teacher : 
@@ -8897,7 +8547,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 71
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -8924,7 +8573,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 72
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -8951,7 +8599,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 73
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -8978,7 +8625,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 74
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -9005,7 +8651,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 75
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -9032,7 +8677,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 76
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -9059,7 +8703,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 77
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -9086,7 +8729,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 78
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -9113,7 +8755,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 79
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -9140,7 +8781,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 80
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -9167,7 +8807,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 81
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -9194,7 +8833,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 82
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -9221,7 +8859,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 83
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -9248,7 +8885,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 84
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -9275,7 +8911,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 85
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -9302,7 +8937,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 86
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -9329,7 +8963,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 87
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -9356,7 +8989,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 88
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -9383,7 +9015,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 89
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -9410,7 +9041,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 90
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -9437,7 +9067,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 91
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -9464,25 +9093,18 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 92
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 93
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 1
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 2
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 3
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 4
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 5
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -9509,7 +9131,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 6
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -9536,7 +9157,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 7
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -9563,7 +9183,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 8
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -9590,7 +9209,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 9
-NUMBER LESSSON : 2
 LESSON : 
 3  КВ
 Teacher : 
@@ -9617,7 +9235,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 10
-NUMBER LESSSON : 2
 LESSON : 
 3  ПП
 Teacher : 
@@ -9644,7 +9261,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 11
-NUMBER LESSSON : 3
 LESSON : 
 3  АВС
 Teacher : 
@@ -9671,7 +9287,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 12
-NUMBER LESSSON : 3
 LESSON : 
 3  АВС
 Teacher : 
@@ -9698,7 +9313,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 13
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -9725,7 +9339,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 14
-NUMBER LESSSON : 4
 LESSON : 
 3  Физическая культура
 Teacher : 
@@ -9752,7 +9365,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 15
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -9779,7 +9391,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 16
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -9806,7 +9417,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 17
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -9833,7 +9443,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 18
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -9860,7 +9469,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 19
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -9887,7 +9495,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 20
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -9914,7 +9521,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 21
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -9941,7 +9547,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 22
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -9968,7 +9573,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 23
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -9995,7 +9599,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 24
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -10022,7 +9625,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 25
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -10049,7 +9651,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 26
-NUMBER LESSSON : 3
 LESSON : 
 3  ПП
 Teacher : 
@@ -10076,7 +9677,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 27
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -10103,7 +9703,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 28
-NUMBER LESSSON : 4
 LESSON : 
 3  ПП
 Teacher : 
@@ -10130,7 +9729,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 29
-NUMBER LESSSON : 5
 LESSON : 
 3  Программирование WEB
 Teacher : 
@@ -10157,7 +9755,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 30
-NUMBER LESSSON : 5
 LESSON : 
 3  Программирование WEB
 Teacher : 
@@ -10184,7 +9781,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 31
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -10211,7 +9807,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 32
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -10238,7 +9833,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 33
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -10265,7 +9859,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 34
-NUMBER LESSSON : 7
 LESSON : 
 3  Экономика
 Teacher : 
@@ -10292,7 +9885,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 35
-NUMBER LESSSON : 1
 LESSON : 
 3  Экономика
 Teacher : 
@@ -10319,7 +9911,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 36
-NUMBER LESSSON : 1
 LESSON : 
 3  Проектирование игр
 Teacher : 
@@ -10346,7 +9937,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 37
-NUMBER LESSSON : 2
 LESSON : 
 3  Экономика
 Teacher : 
@@ -10373,7 +9963,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 38
-NUMBER LESSSON : 2
 LESSON : 
 3  Теория управления
 Teacher : 
@@ -10400,7 +9989,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 39
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -10427,7 +10015,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 40
-NUMBER LESSSON : 3
 LESSON : 
 3  ВОСПИТАТЕЛЬНЫЙ ЧАС
 Teacher : 
@@ -10454,7 +10041,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 41
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -10481,7 +10067,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 42
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -10508,7 +10093,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 43
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -10535,7 +10119,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 44
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -10562,7 +10145,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 45
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -10589,7 +10171,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 46
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -10616,7 +10197,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 47
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -10643,7 +10223,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 48
-NUMBER LESSSON : 3
 LESSON : 
 3  БиМВУ
 Teacher : 
@@ -10670,7 +10249,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 49
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -10697,7 +10275,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 50
-NUMBER LESSSON : 1
 LESSON : 
 3  БиМВУ
 Teacher : 
@@ -10724,7 +10301,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 51
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -10751,7 +10327,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 52
-NUMBER LESSSON : 2
 LESSON : 
 3  КВ
 Teacher : 
@@ -10778,7 +10353,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 53
-NUMBER LESSSON : 3
 LESSON : 
 3  УПП
 Teacher : 
@@ -10805,7 +10379,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 54
-NUMBER LESSSON : 3
 LESSON : 
 3  Теория управления
 Teacher : 
@@ -10832,7 +10405,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 55
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -10859,7 +10431,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 56
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -10886,7 +10457,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 57
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -10913,7 +10483,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 58
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -10940,7 +10509,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 59
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -10967,7 +10535,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 60
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -10994,7 +10561,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 61
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -11021,7 +10587,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 62
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -11048,7 +10613,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 63
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -11075,7 +10639,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 64
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -11102,7 +10665,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 65
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -11129,7 +10691,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 66
-NUMBER LESSSON : 2
 LESSON : 
 3  КВ
 Teacher : 
@@ -11156,7 +10717,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 67
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -11183,7 +10743,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 68
-NUMBER LESSSON : 3
 LESSON : 
 3  ПП
 Teacher : 
@@ -11210,7 +10769,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 69
-NUMBER LESSSON : 4
 LESSON : 
 3  ПП
 Teacher : 
@@ -11237,7 +10795,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 70
-NUMBER LESSSON : 4
 LESSON : 
 3  Проектирование игр
 Teacher : 
@@ -11264,7 +10821,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 71
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -11291,7 +10847,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 72
-NUMBER LESSSON : 5
 LESSON : 
 3  УПП
 Teacher : 
@@ -11318,7 +10873,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 73
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -11345,7 +10899,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 74
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -11372,7 +10925,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 75
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -11399,7 +10951,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 76
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -11426,7 +10977,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 77
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -11453,7 +11003,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 78
-NUMBER LESSSON : 1
 LESSON : 
 3  УПП
 Teacher : 
@@ -11480,7 +11029,6 @@ hull :
 19  III
 END Data---------------------------
 Start new Data--------------------------- 79
-NUMBER LESSSON : 2
 LESSON : 
 3  Проектирование игр
 Teacher : 
@@ -11507,7 +11055,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 80
-NUMBER LESSSON : 2
 LESSON : 
 3  ДЕНЬКУРСОВОГОПРОЕКТИРОВАНИЯ
 Teacher : 
@@ -11534,7 +11081,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 81
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -11561,7 +11107,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 82
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -11588,7 +11133,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 83
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -11615,7 +11159,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 84
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -11642,7 +11185,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 85
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -11669,7 +11211,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 86
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -11696,7 +11237,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 87
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -11723,7 +11263,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 88
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -11750,7 +11289,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 89
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -11777,7 +11315,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 90
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -11804,7 +11341,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 91
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -11831,25 +11367,18 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 92
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 93
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 1
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 2
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 3
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 4
-NUMBER LESSSON : 7
 END Data---------------------------
 Start new Data--------------------------- 5
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -11876,7 +11405,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 6
-NUMBER LESSSON : 7
 LESSON : 
 3  Инженерная этика
 Teacher : 
@@ -11903,7 +11431,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 7
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -11930,7 +11457,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 8
-NUMBER LESSSON : 1
 LESSON : 
 3  Инженерная этика
 Teacher : 
@@ -11957,7 +11483,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 9
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -11984,7 +11509,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 10
-NUMBER LESSSON : 2
 LESSON : 
 3  НТП
 Teacher : 
@@ -12011,7 +11535,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 11
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -12038,7 +11561,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 12
-NUMBER LESSSON : 3
 LESSON : 
 3  НТП
 Teacher : 
@@ -12065,7 +11587,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 13
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -12092,7 +11613,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 14
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -12119,7 +11639,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 15
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -12146,7 +11665,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 16
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -12173,7 +11691,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 17
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -12200,7 +11717,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 18
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -12227,7 +11743,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 19
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -12254,7 +11769,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 20
-NUMBER LESSSON : 7
 LESSON : 
 3  ИС
 Teacher : 
@@ -12281,7 +11795,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 21
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -12308,7 +11821,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 22
-NUMBER LESSSON : 1
 LESSON : 
 3  ИС
 Teacher : 
@@ -12335,7 +11847,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 23
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -12362,7 +11873,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 24
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -12389,7 +11899,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 25
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -12416,7 +11925,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 26
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -12443,7 +11951,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 27
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -12470,7 +11977,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 28
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -12497,7 +12003,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 29
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -12524,7 +12029,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 30
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -12551,7 +12055,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 31
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -12578,7 +12081,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 32
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -12605,7 +12107,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 33
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -12632,7 +12133,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 34
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -12659,7 +12159,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 35
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -12686,7 +12185,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 36
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -12713,7 +12211,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 37
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -12740,7 +12237,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 38
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -12767,7 +12263,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 39
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -12794,7 +12289,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 40
-NUMBER LESSSON : 3
 LESSON : 
 3  ВОСПИТАТЕЛЬНЫЙ ЧАС
 Teacher : 
@@ -12821,7 +12315,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 41
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -12848,7 +12341,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 42
-NUMBER LESSSON : 3
 LESSON : 
 3  ЭПИ
 Teacher : 
@@ -12875,7 +12367,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 43
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -12902,7 +12393,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 44
-NUMBER LESSSON : 3
 LESSON : 
 3  ЭПИ
 Teacher : 
@@ -12929,7 +12419,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 45
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -12956,7 +12445,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 46
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -12983,7 +12471,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 47
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -13010,7 +12497,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 48
-NUMBER LESSSON : 3
 LESSON : 
 3  Психология управления
 Teacher : 
@@ -13037,7 +12523,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 49
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -13064,7 +12549,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 50
-NUMBER LESSSON : 1
 LESSON : 
 3  Психология управления
 Teacher : 
@@ -13091,7 +12575,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 51
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -13118,7 +12601,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 52
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -13145,7 +12627,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 53
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -13172,7 +12653,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 54
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -13199,7 +12679,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 55
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -13226,7 +12705,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 56
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -13253,7 +12731,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 57
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -13280,7 +12757,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 58
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -13307,7 +12783,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 59
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -13334,7 +12809,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 60
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -13361,7 +12835,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 61
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -13388,7 +12861,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 62
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -13415,7 +12887,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 63
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -13442,7 +12913,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 64
-NUMBER LESSSON : 1
 LESSON : 
 3  НТП
 Teacher : 
@@ -13469,7 +12939,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 65
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -13496,7 +12965,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 66
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -13523,7 +12991,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 67
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -13550,7 +13017,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 68
-NUMBER LESSSON : 3
 LESSON : 
 3  ДЕНЬКУРСОВОГОПРОЕКТИРОВАНИЯ
 Teacher : 
@@ -13577,7 +13043,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 69
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -13604,7 +13069,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 70
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -13631,7 +13095,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 71
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -13658,7 +13121,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 72
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -13685,7 +13147,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 73
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -13712,7 +13173,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 74
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -13739,7 +13199,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 75
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -13766,7 +13225,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 76
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -13793,7 +13251,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 77
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -13820,7 +13277,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 78
-NUMBER LESSSON : 1
 LESSON : 
 3  
 Teacher : 
@@ -13847,7 +13303,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 79
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -13874,7 +13329,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 80
-NUMBER LESSSON : 2
 LESSON : 
 3  
 Teacher : 
@@ -13901,7 +13355,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 81
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -13928,7 +13381,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 82
-NUMBER LESSSON : 3
 LESSON : 
 3  
 Teacher : 
@@ -13955,7 +13407,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 83
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -13982,7 +13433,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 84
-NUMBER LESSSON : 4
 LESSON : 
 3  
 Teacher : 
@@ -14009,7 +13459,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 85
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -14036,7 +13485,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 86
-NUMBER LESSSON : 5
 LESSON : 
 3  
 Teacher : 
@@ -14063,7 +13511,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 87
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -14090,7 +13537,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 88
-NUMBER LESSSON : 6
 LESSON : 
 3  
 Teacher : 
@@ -14117,7 +13563,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 89
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -14144,7 +13589,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 90
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -14171,7 +13615,6 @@ hull :
 19  
 END Data---------------------------
 Start new Data--------------------------- 91
-NUMBER LESSSON : 7
 LESSON : 
 3  
 Teacher : 
@@ -14196,18 +13639,93 @@ Auditory :
 18  
 END Data---------------------------
 thats it
+	null
+	
+	
+	null
+	
+	
+	null
+	
+	
+	null
+	
+	
+	null
+	
+	
+	null
+	
+	
+	null
+	
+	
+	null
+	
+	
+	null
+	
+	
+	null
+	
+	
+	null
+	
+	
+	null
+	
+	
+	null
+	
+	
+	null
+	
+	
+	null
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
 	ИВТ-11 (23010062) (о)
 	МЛиТА
 	Моисеев Н.Г.
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
 	ИВТ-11 (23010062) (о)
 	Иностранный язык
 	Пермякова А.Г.
 	БИ-11 (09030365) (о)
 	Языки программирования
 	Тарасова Л.В.
+	БИ-12 (09030365) (о)
+	
+	
 	ИВТ-11 (23010062) (о)
 	МЛиТА
 	Моисеев Н.Г.
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
 	ИВТ-11 (23010062) (о)
 	МЛиТА
 	Моисеев Н.Г.
@@ -14220,12 +13738,102 @@ thats it
 	ИВТ-11 (23010062) (о)
 	Иностранный язык
 	Пермякова О.С.
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
 	БИ-12 (09030365) (о)
 	Языки программирования
 	Тарасова Л.В.
 	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
 	Математика
 	Кузьмина О.В.
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
 	ИВТ-11 (23010062) (о)
 	Математика
 	Кузьмина О.В.
@@ -14238,6 +13846,15 @@ thats it
 	ИВТ-11 (23010062) (о)
 	Физика
 	Масленников А.С.
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
 	БИ-11 (09030365) (о)
 	Физика
 	Гогелашвили Г.Ш.
@@ -14248,6 +13865,15 @@ thats it
 	Физика
 	Масленников А.С.
 	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
 	Физическая культура
 	Желудкин С.В.
 	БИ-12 (09030365) (о)
@@ -14256,6 +13882,69 @@ thats it
 	ИВТ-11 (23010062) (о)
 	Физическая культура
 	Желудкин С.В.
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
 	БИ-11 (09030365) (о)
 	История Отечества
 	Паршин Г.Н.
@@ -14271,6 +13960,9 @@ thats it
 	БИ-12 (09030365) (о)
 	Дискретная математика
 	Леухин А.Н.
+	ИВТ-11 (23010062) (о)
+	
+	
 	БИ-11 (09030365) (о)
 	Дискретная математика
 	Леухин А.Н.
@@ -14280,6 +13972,12 @@ thats it
 	ИВТ-11 (23010062) (о)
 	Математика
 	Кузьмина О.В.
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
 	ИВТ-11 (23010062) (о)
 	Физика
 	Масленников А.С.
@@ -14295,6 +13993,12 @@ thats it
 	БИ-11 (09030365) (о)
 	Иностранный язык
 	Лежнина Т.М.
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
 	БИ-11 (09030365) (о)
 	ВОСПИТАТЕЛЬНЫЙ ЧАС
 	Виртуальный п.1.
@@ -14304,9 +14008,69 @@ thats it
 	ИВТ-11 (23010062) (о)
 	ВОСПИТАТЕЛЬНЫЙ ЧАС
 	Виртуальный п.1.
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
 	ИВТ-11 (23010062) (о)
 	Иностранный язык
 	Пермякова А.Г.
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
 	БИ-11 (09030365) (о)
 	МЛиТА
 	Лапушкин В.А.
@@ -14317,6 +14081,15 @@ thats it
 	Программирование
 	Глозштейн А.М.
 	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
 	МЛиТА
 	Лапушкин В.А.
 	БИ-12 (09030365) (о)
@@ -14325,6 +14098,12 @@ thats it
 	ИВТ-11 (23010062) (о)
 	Программирование
 	Глозштейн А.М.
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
 	ИВТ-11 (23010062) (о)
 	Математика
 	Кузьмина О.В.
@@ -14337,36 +14116,141 @@ thats it
 	ИВТ-11 (23010062) (о)
 	Математика
 	Колчев А.А.
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
 	ИВТ-11 (23010062) (о)
 	Программирование
 	Глозштейн А.М.
 	БИ-11 (09030365) (о)
 	Математический анализ
 	Колчев А.А.
+	БИ-12 (09030365) (о)
+	
+	
 	ИВТ-11 (23010062) (о)
 	Программирование
 	Глозштейн А.М.
+	БИ-11 (09030365) (о)
+	
+	
 	БИ-12 (09030365) (о)
 	Математический анализ
 	Колчев А.А.
+	ИВТ-11 (23010062) (о)
+	
+	
 	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	Математический анализ
+	Колчев А.А.
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	Э,ЭиС
+	Моисеев Н.Г.
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	Математический анализ
+	Колчев А.А.
+	БИ-12 (09030365) (о)
 	Математический анализ
 	Колчев А.А.
 	ИВТ-11 (23010062) (о)
 	Э,ЭиС
 	Моисеев Н.Г.
 	БИ-11 (09030365) (о)
-	Математический анализ
-	Колчев А.А.
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
 	БИ-12 (09030365) (о)
 	Математический анализ
 	Колчев А.А.
 	ИВТ-11 (23010062) (о)
-	Э,ЭиС
-	Моисеев Н.Г.
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
 	БИ-12 (09030365) (о)
-	Математический анализ
-	Колчев А.А.
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
 	БИ-11 (09030365) (о)
 	Физическая культура
 	Желудкин С.В.
@@ -14377,23 +14261,293 @@ thats it
 	Физическая культура
 	Желудкин С.В.
 	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
 	Информатика
 	Чесноков С.Е.
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
 	БИ-11 (09030365) (о)
 	Информатика
 	Чесноков С.Е.
 	БИ-12 (09030365) (о)
 	Информатика
 	Чесноков С.Е.
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
 	БИ-12 (09030365) (о)
 	Информатика
 	Чесноков С.Е.
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	БИ-11 (09030365) (о)
+	
+	
+	БИ-12 (09030365) (о)
+	
+	
+	ИВТ-11 (23010062) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
 	ПС-11 (23100062) (о)
 	ОЭВМиА
 	Кошкин В.В.
+	ПС-12 (23100062) (о)
+	
+	
 	БИ-21 (09030365) (о)
 	Социология
 	Тумбаева И.Д.
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
 	ПС-11 (23100062) (о)
 	ОЭВМиА
 	Кошкин В.В.
@@ -14403,15 +14557,36 @@ thats it
 	БИ-21 (09030365) (о)
 	Социология
 	Тумбаева И.Д.
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
 	БИ-21 (09030365) (о)
 	РWП
 	Харитонов А.В.
+	ПС-11 (23100062) (о)
+	
+	
 	ПС-12 (23100062) (о)
 	ОЭВМиА
 	Кошкин В.В.
 	БИ-21 (09030365) (о)
 	РWП
 	Харитонов А.В.
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
 	ПС-12 (23100062) (о)
 	Иностранный язык
 	Рудько Т.А.
@@ -14419,14 +14594,86 @@ thats it
 	Физическая культура
 	Желудкин С.В.
 	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
 	ИиП
 	Лаптева Н.Н.
+	ПС-12 (23100062) (о)
+	
+	
 	БИ-21 (09030365) (о)
 	ФОТСОИБ
 	Бурмистрова Н.П.
+	ПС-11 (23100062) (о)
+	
+	
 	ПС-12 (23100062) (о)
 	Иностранный язык
 	Рудько Т.А.
+	БИ-21 (09030365) (о)
+	
+	
 	ПС-11 (23100062) (о)
 	Дискретная математика
 	Бобков Н.К.
@@ -14442,9 +14689,15 @@ thats it
 	ПС-12 (23100062) (о)
 	ИиП
 	Лаптева Н.Н.
+	БИ-21 (09030365) (о)
+	
+	
 	ПС-11 (23100062) (о)
 	Дискретная математика
 	Бобков Н.К.
+	ПС-12 (23100062) (о)
+	
+	
 	БИ-21 (09030365) (о)
 	РWП
 	Харитонов А.В.
@@ -14454,6 +14707,9 @@ thats it
 	ПС-12 (23100062) (о)
 	Дискретная математика
 	Бобков Н.К.
+	БИ-21 (09030365) (о)
+	
+	
 	ПС-11 (23100062) (о)
 	Физическая культура
 	Желудкин С.В.
@@ -14464,14 +14720,86 @@ thats it
 	ОЭВМиВС
 	Васяева Е.С.
 	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
 	ТВП
 	Кречетов А.А.
 	ПС-12 (23100062) (о)
 	ВМ
 	Нехаев И.Н.
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
 	ПС-12 (23100062) (о)
 	Инженерная графика
 	Моисеева О.А.
+	БИ-21 (09030365) (о)
+	
+	
 	ПС-11 (23100062) (о)
 	ТВП
 	Кречетов А.А.
@@ -14500,6 +14828,15 @@ thats it
 	Психология и педагогика
 	Хинканина А.Л.
 	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
 	ВОСПИТАТЕЛЬНЫЙ ЧАС
 	Виртуальный п.1.
 	ПС-12 (23100062) (о)
@@ -14508,9 +14845,69 @@ thats it
 	БИ-21 (09030365) (о)
 	ВОСПИТАТЕЛЬНЫЙ ЧАС
 	Виртуальный п.1.
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
 	БИ-21 (09030365) (о)
 	ОИБ
 	Кречетов А.А.
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
 	ПС-11 (23100062) (о)
 	ВМ
 	Нехаев И.Н.
@@ -14532,6 +14929,9 @@ thats it
 	ПС-11 (23100062) (о)
 	Иностранный язык
 	Пермякова А.Г.
+	ПС-12 (23100062) (о)
+	
+	
 	БИ-21 (09030365) (о)
 	ОЭВМиВС
 	Васяева Е.С.
@@ -14541,6 +14941,9 @@ thats it
 	ПС-12 (23100062) (о)
 	Иностранный язык
 	Рудько Т.А.
+	БИ-21 (09030365) (о)
+	
+	
 	ПС-11 (23100062) (о)
 	Инженерная графика
 	Моисеева О.А.
@@ -14553,9 +14956,84 @@ thats it
 	ПС-11 (23100062) (о)
 	Инженерная графика
 	Шалаева Л.А.
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
 	БИ-21 (09030365) (о)
 	Физическая культура
 	Желудкин С.В.
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
 	ПС-11 (23100062) (о)
 	Математический анализ
 	Журавлева И.В.
@@ -14589,30 +15067,309 @@ thats it
 	ПС-12 (23100062) (о)
 	ТВиМС
 	Костромин Г.Я.
+	БИ-21 (09030365) (о)
+	
+	
 	ПС-11 (23100062) (о)
 	ТВиМС
 	Костромин Г.Я.
 	ПС-12 (23100062) (о)
 	Математический анализ
 	Журавлева И.В.
+	БИ-21 (09030365) (о)
+	
+	
 	ПС-11 (23100062) (о)
 	ТВиМС
 	Костромин Г.Я.
 	ПС-12 (23100062) (о)
 	ВМ
 	Нехаев И.Н.
+	БИ-21 (09030365) (о)
+	
+	
 	ПС-11 (23100062) (о)
 	Физическая культура
 	Желудкин С.В.
 	ПС-12 (23100062) (о)
 	Физическая культура
 	Желудкин С.В.
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
 	ПС-11 (23100062) (о)
 	Иностранный язык
 	Рудько Т.А.
 	ПС-12 (23100062) (о)
 	Иностранный язык
 	Рудько Т.А.
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	ПС-11 (23100062) (о)
+	
+	
+	ПС-12 (23100062) (о)
+	
+	
+	БИ-21 (09030365) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
 	ИВТ-21 (23010062) (о)
 	ССРПО
 	Глозштейн А.М.
@@ -14622,6 +15379,9 @@ thats it
 	БИ-22 (09030365) (о)
 	РWП
 	Харитонов А.В.
+	ИВТ-21 (23010062) (о)
+	
+	
 	ПС-21 (23100062) (о)
 	КВ
 	Бородин А.В.
@@ -14649,6 +15409,18 @@ thats it
 	ИВТ-21 (23010062) (о)
 	ТОЭВМ
 	Морохин Д.В.
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
 	БИ-22 (09030365) (о)
 	Физическая культура
 	Желудкин С.В.
@@ -14658,6 +15430,69 @@ thats it
 	ПС-21 (23100062) (о)
 	Физическая культура
 	Желудкин С.В.
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
 	БИ-22 (09030365) (о)
 	РWП
 	Харитонов А.В.
@@ -14668,6 +15503,15 @@ thats it
 	ООП
 	Малов А.Н.
 	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
 	ФОТСОИБ
 	Бурмистрова Н.П.
 	ИВТ-21 (23010062) (о)
@@ -14676,6 +15520,15 @@ thats it
 	ПС-21 (23100062) (о)
 	МЛиТА
 	Галочкин В.И.
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
 	БИ-22 (09030365) (о)
 	ФОТСОИБ
 	Бурмистрова Н.П.
@@ -14686,17 +15539,104 @@ thats it
 	КВ
 	Бородин А.В.
 	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
 	Иностранный язык
 	Пермякова О.С.
 	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
 	М,СиС
 	Смирнова Г.И.
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
 	БИ-22 (09030365) (о)
 	Психология и педагогика
 	Хинканина А.Л.
 	ИВТ-21 (23010062) (о)
 	ЭВМиПУ
 	Васяева Е.С.
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
 	БИ-22 (09030365) (о)
 	ЭиКУ
 	Богданов А.И.
@@ -14709,6 +15649,9 @@ thats it
 	БИ-22 (09030365) (о)
 	Психология и педагогика
 	Хинканина А.Л.
+	ИВТ-21 (23010062) (о)
+	
+	
 	ПС-21 (23100062) (о)
 	МЛиТА
 	Галочкин В.И.
@@ -14721,6 +15664,9 @@ thats it
 	ПС-21 (23100062) (о)
 	МЛиТА
 	Галочкин В.И.
+	БИ-22 (09030365) (о)
+	
+	
 	ИВТ-21 (23010062) (о)
 	ССРПО
 	Глозштейн А.М.
@@ -14736,15 +15682,87 @@ thats it
 	ПС-21 (23100062) (о)
 	ВОСПИТАТЕЛЬНЫЙ ЧАС
 	Виртуальный п.1.
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
 	ПС-21 (23100062) (о)
 	Теория управления
 	Нехаев И.Н.
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
 	БИ-22 (09030365) (о)
 	ОЭВМиВС
 	Васяева Е.С.
 	ИВТ-21 (23010062) (о)
 	Теория автоматов
 	Моисеев Н.Г.
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
 	БИ-22 (09030365) (о)
 	ОЭВМиВС
 	Васяева Е.С.
@@ -14754,9 +15772,15 @@ thats it
 	ПС-21 (23100062) (о)
 	ППО
 	Сморкалов А.Ю.
+	БИ-22 (09030365) (о)
+	
+	
 	ИВТ-21 (23010062) (о)
 	НИТ
 	Кубашева Е.С.
+	ПС-21 (23100062) (о)
+	
+	
 	БИ-22 (09030365) (о)
 	ОИБ
 	Кречетов А.А.
@@ -14767,6 +15791,15 @@ thats it
 	ДЕНЬКУРСОВОГОПРОЕКТИРОВАНИЯ
 	Виртуальный п.1.
 	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
 	Физическая культура
 	Желудкин С.В.
 	ИВТ-21 (23010062) (о)
@@ -14776,59 +15809,476 @@ thats it
 	Физическая культура
 	Желудкин С.В.
 	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
 	ЭиКУ
 	Богданов А.И.
+	ИВТ-21 (23010062) (о)
+	
+	
 	ПС-21 (23100062) (о)
 	ООП
 	Малов А.Н.
 	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
 	Иностранный язык
 	Пермякова О.С.
+	ИВТ-21 (23010062) (о)
+	
+	
 	ПС-21 (23100062) (о)
 	ТАиФЯ
 	Нехорошкова Л.Г.
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
 	ИВТ-21 (23010062) (о)
 	М,СиС
 	Ерусланов Р.В.
 	ПС-21 (23100062) (о)
 	ППО
 	Сморкалов А.Ю.
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
 	ИВТ-21 (23010062) (о)
 	Операционные системы
 	Глозштейн А.М.
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
 	ИВТ-21 (23010062) (о)
 	Операционные системы
 	Глозштейн А.М.
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	БИ-22 (09030365) (о)
+	
+	
+	ИВТ-21 (23010062) (о)
+	
+	
+	ПС-21 (23100062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
 	ПС-22 (23100062) (о)
 	ППО
 	Сморкалов А.Ю.
 	БИ-31 (09030365) (о)
 	МПВУИБ
 	Потехин Е.Н.
+	ИВТ-31 (23010062) (о)
+	
+	
 	ПС-22 (23100062) (о)
 	КВ
 	Бородин А.В.
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
 	ПС-22 (23100062) (о)
 	ТАиФЯ
 	Нехорошкова Л.Г.
 	БИ-31 (09030365) (о)
 	МПВУИБ
 	Потехин Е.Н.
+	ИВТ-31 (23010062) (о)
+	
+	
 	ПС-22 (23100062) (о)
 	Инженерная этика
 	Загайнова В.И.
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
 	ИВТ-31 (23010062) (о)
 	ДЕНЬКУРСОВОГОПРОЕКТИРОВАНИЯ
 	Виртуальный п.1.
 	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
 	Физическая культура
 	Желудкин С.В.
+	БИ-31 (09030365) (о)
+	
+	
 	ИВТ-31 (23010062) (о)
 	Э,ЭиС
 	Старыгин С.В.
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
 	ИВТ-31 (23010062) (о)
 	Базы данных
 	Малашкевич В.Б.
+	ПС-22 (23100062) (о)
+	
+	
 	БИ-31 (09030365) (о)
 	Физическая культура
 	Желудкин С.В.
@@ -14836,14 +16286,68 @@ thats it
 	Физическая культура
 	Желудкин С.В.
 	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
 	ООП
 	Малов А.Н.
+	БИ-31 (09030365) (о)
+	
+	
 	ИВТ-31 (23010062) (о)
 	ЭВМиПУ
 	Васяева Е.С.
+	ПС-22 (23100062) (о)
+	
+	
 	БИ-31 (09030365) (о)
 	ОУД
 	Краснова С.В.
+	ИВТ-31 (23010062) (о)
+	
+	
 	ПС-22 (23100062) (о)
 	МЛиТА
 	Галочкин В.И.
@@ -14853,6 +16357,12 @@ thats it
 	ИВТ-31 (23010062) (о)
 	ЭВМиПУ
 	Васяева Е.С.
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
 	ИВТ-31 (23010062) (о)
 	Моделирование
 	Смирнов А.В.
@@ -14866,8 +16376,86 @@ thats it
 	Моделирование
 	Смирнов А.В.
 	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
 	КВ
 	Бородин А.В.
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
 	ПС-22 (23100062) (о)
 	ООП
 	Малов А.Н.
@@ -14877,9 +16465,15 @@ thats it
 	ИВТ-31 (23010062) (о)
 	БИСПЛ
 	Васяева Н.С.
+	ПС-22 (23100062) (о)
+	
+	
 	БИ-31 (09030365) (о)
 	БЖ
 	Фирсова А.Е.
+	ИВТ-31 (23010062) (о)
+	
+	
 	ПС-22 (23100062) (о)
 	Теория управления
 	Нехаев И.Н.
@@ -14901,12 +16495,21 @@ thats it
 	ПС-22 (23100062) (о)
 	Инженерная этика
 	Загайнова В.И.
+	БИ-31 (09030365) (о)
+	
+	
 	ИВТ-31 (23010062) (о)
 	Экономика
 	Манукянц С.В.
 	ПС-22 (23100062) (о)
 	МЛиТА
 	Галочкин В.И.
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
 	ПС-22 (23100062) (о)
 	ВОСПИТАТЕЛЬНЫЙ ЧАС
 	Виртуальный п.1.
@@ -14916,9 +16519,87 @@ thats it
 	ИВТ-31 (23010062) (о)
 	ВОСПИТАТЕЛЬНЫЙ ЧАС
 	Виртуальный п.1.
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
 	ИВТ-31 (23010062) (о)
 	МС
 	Мясников В.И.
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
 	ПС-22 (23100062) (о)
 	ППО
 	Сморкалов А.Ю.
@@ -14928,9 +16609,15 @@ thats it
 	ИВТ-31 (23010062) (о)
 	ДЕНЬКУРСОВОГОПРОЕКТИРОВАНИЯ
 	Малашкевич И.А.
+	ПС-22 (23100062) (о)
+	
+	
 	БИ-31 (09030365) (о)
 	БОС
 	Зайнуллин А.Д.
+	ИВТ-31 (23010062) (о)
+	
+	
 	ПС-22 (23100062) (о)
 	ДЕНЬКУРСОВОГОПРОЕКТИРОВАНИЯ
 	Виртуальный п.1.
@@ -14940,27 +16627,126 @@ thats it
 	ИВТ-31 (23010062) (о)
 	Сигналы, цепи, системы
 	Малашкевич И.А.
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
 	ИВТ-31 (23010062) (о)
 	Сигналы, цепи, системы
 	Малашкевич И.А.
 	ПС-22 (23100062) (о)
 	Физическая культура
 	Желудкин С.В.
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
 	ИВТ-31 (23010062) (о)
 	Базы данных
 	Малашкевич В.Б.
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
 	ИВТ-31 (23010062) (о)
 	ИП
 	Малашкевич В.Б.
+	ПС-22 (23100062) (о)
+	
+	
 	БИ-31 (09030365) (о)
 	ТОКБ
 	Тарасова Л.В.
 	ИВТ-31 (23010062) (о)
 	ИП
 	Малашкевич В.Б.
+	ПС-22 (23100062) (о)
+	
+	
 	БИ-31 (09030365) (о)
 	ТОКБ
 	Тарасова Л.В.
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
 	БИ-31 (09030365) (о)
 	ТОКБ
 	Тарасова Л.В.
@@ -14968,35 +16754,314 @@ thats it
 	МС
 	Мясников В.И.
 	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
 	ППО
 	Сморкалов А.Ю.
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
 	ПС-22 (23100062) (о)
 	Теория управления
 	Нехаев И.Н.
 	БИ-31 (09030365) (о)
-	ПнаЯС++
-	Потехин Е.Н.
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
 	БИ-31 (09030365) (о)
 	ПнаЯС++
 	Потехин Е.Н.
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
 	БИ-31 (09030365) (о)
 	ПнаЯС++
 	Потехин Е.Н.
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	ПнаЯС++
+	Потехин Е.Н.
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
 	БИ-31 (09030365) (о)
 	МПВУИБ
 	Потехин Е.Н.
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-22 (23100062) (о)
+	
+	
+	БИ-31 (09030365) (о)
+	
+	
+	ИВТ-31 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
 	БИ-41 (09030365) (о)
 	ВБИС
 	Сучков Д.С.
 	ИВТ-41 (23010062) (о)
 	СИИ
 	Савинов А.Н.
+	ПС-31 (23100062) (о)
+	
+	
 	БИ-41 (09030365) (о)
 	ВБИС
 	Сучков Д.С.
 	ИВТ-41 (23010062) (о)
 	АЛВС
 	Глозштейн А.М.
+	ПС-31 (23100062) (о)
+	
+	
 	БИ-41 (09030365) (о)
 	ВБИС
 	Сучков Д.С.
@@ -15009,6 +17074,9 @@ thats it
 	БИ-41 (09030365) (о)
 	СиСПИ
 	Тюкаев А.Ю.
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-31 (23100062) (о)
 	ПП
 	Ананьева О.Е.
@@ -15021,63 +17089,264 @@ thats it
 	ПС-31 (23100062) (о)
 	АВС
 	Бородин А.В.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-31 (23100062) (о)
 	АВС
 	Бородин А.В.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-31 (23100062) (о)
 	Физическая культура
 	Желудкин С.В.
 	БИ-41 (09030365) (о)
-	ОиПОИБ
-	Александров А.П.
+	
+	
 	ИВТ-41 (23010062) (о)
-	Защита информации
-	Смирнов В.И.
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
 	БИ-41 (09030365) (о)
 	ОиПОИБ
 	Александров А.П.
 	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
 	Защита информации
 	Смирнов В.И.
+	ПС-31 (23100062) (о)
+	
+	
 	БИ-41 (09030365) (о)
 	ОиПОИБ
 	Александров А.П.
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	Защита информации
+	Смирнов В.И.
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	ОиПОИБ
+	Александров А.П.
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-31 (23100062) (о)
 	ПП
 	Сморкалов А.Ю.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-31 (23100062) (о)
 	ПП
 	Сморкалов А.Ю.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-31 (23100062) (о)
 	Программирование WEB
 	Галочкин А.В.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-31 (23100062) (о)
 	Программирование WEB
 	Галочкин А.В.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-31 (23100062) (о)
 	Экономика
 	Манукянц С.В.
+	БИ-41 (09030365) (о)
+	
+	
 	ИВТ-41 (23010062) (о)
 	АЛВС
 	Глозштейн А.М.
 	ПС-31 (23100062) (о)
 	Экономика
 	Манукянц С.В.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-31 (23100062) (о)
 	Проектирование игр
 	Морозов М.Н.
+	БИ-41 (09030365) (о)
+	
+	
 	ИВТ-41 (23010062) (о)
 	АЛВС
 	Глозштейн А.М.
 	ПС-31 (23100062) (о)
 	Экономика
 	Манукянц С.В.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-31 (23100062) (о)
 	Теория управления
 	Нехаев И.Н.
 	БИ-41 (09030365) (о)
 	ДЕНЬКУРСОВОГОПРОЕКТИРОВАНИЯ
 	Виртуальный п.1.
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-31 (23100062) (о)
 	ВОСПИТАТЕЛЬНЫЙ ЧАС
 	Виртуальный п.1.
@@ -15087,12 +17356,69 @@ thats it
 	ИВТ-41 (23010062) (о)
 	ВОСПИТАТЕЛЬНЫЙ ЧАС
 	Виртуальный п.1.
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
 	БИ-41 (09030365) (о)
 	СиСПИ
 	Тюкаев А.Ю.
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
 	БИ-41 (09030365) (о)
 	ПАСОИБ
 	Пекунов А.А.
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-31 (23100062) (о)
 	БиМВУ
 	Муреев П.П.
@@ -15102,6 +17428,15 @@ thats it
 	ИВТ-41 (23010062) (о)
 	Защита информации
 	Смирнов В.И.
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-31 (23100062) (о)
 	БиМВУ
 	Муреев П.П.
@@ -15111,6 +17446,12 @@ thats it
 	ИВТ-41 (23010062) (о)
 	Психология управления
 	Хинканина А.Л.
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
 	ИВТ-41 (23010062) (о)
 	КТОПЭВМ
 	Сухов А.М.
@@ -15126,21 +17467,117 @@ thats it
 	ПС-31 (23100062) (о)
 	УПП
 	Нехорошкова Л.Г.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-31 (23100062) (о)
 	Теория управления
 	Нехаев И.Н.
+	БИ-41 (09030365) (о)
+	
+	
 	ИВТ-41 (23010062) (о)
 	КТОПЭВМ
 	Сухов А.М.
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
 	БИ-41 (09030365) (о)
 	ТЗИ
 	Тюкаев А.Ю.
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
 	БИ-41 (09030365) (о)
 	ТЗИ
 	Тюкаев А.Ю.
 	ИВТ-41 (23010062) (о)
 	МС
 	Мясников В.И.
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
 	ИВТ-41 (23010062) (о)
 	Сети и телекоммуникации
 	Васяева Н.С.
@@ -15154,14 +17591,104 @@ thats it
 	ДЕНЬКУРСОВОГОПРОЕКТИРОВАНИЯ
 	Виртуальный п.1.
 	ПС-31 (23100062) (о)
-	ПП
-	Ананьева О.Е.
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-31 (23100062) (о)
 	ПП
 	Ананьева О.Е.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	ПП
+	Ананьева О.Е.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-31 (23100062) (о)
 	Проектирование игр
 	Морозов М.Н.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	УПП
+	Нехорошкова Л.Г.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	ПАСОИБ
+	Пекунов А.А.
+	ИВТ-41 (23010062) (о)
+	ОиПП
+	Усынина Т.С.
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-31 (23100062) (о)
 	УПП
 	Нехорошкова Л.Г.
@@ -15172,62 +17699,973 @@ thats it
 	ОиПП
 	Усынина Т.С.
 	ПС-31 (23100062) (о)
-	УПП
-	Нехорошкова Л.Г.
-	БИ-41 (09030365) (о)
-	ПАСОИБ
-	Пекунов А.А.
-	ИВТ-41 (23010062) (о)
-	ОиПП
-	Усынина Т.С.
-	ПС-31 (23100062) (о)
 	Проектирование игр
 	Морозов М.Н.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-31 (23100062) (о)
 	ДЕНЬКУРСОВОГОПРОЕКТИРОВАНИЯ
 	Виртуальный п.1.
 	БИ-41 (09030365) (о)
 	УИБ
 	Зайнуллин А.Д.
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
 	БИ-41 (09030365) (о)
 	УИБ
 	Зайнуллин А.Д.
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-31 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-41 (23100062) (о)
 	Инженерная этика
 	Загайнова В.И.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-41 (23100062) (о)
 	Инженерная этика
 	Загайнова В.И.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-41 (23100062) (о)
 	НТП
 	Хованский Е.П.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-41 (23100062) (о)
 	НТП
 	Хованский Е.П.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-41 (23100062) (о)
 	ИС
 	Дружинин Ю.В.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-41 (23100062) (о)
 	ИС
 	Дружинин Ю.В.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-41 (23100062) (о)
 	ВОСПИТАТЕЛЬНЫЙ ЧАС
 	Виртуальный п.1.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-41 (23100062) (о)
 	ЭПИ
 	Бородин А.В.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-41 (23100062) (о)
 	ЭПИ
 	Бородин А.В.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-41 (23100062) (о)
 	Психология управления
 	Хинканина А.Л.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-41 (23100062) (о)
 	Психология управления
 	Хинканина А.Л.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-41 (23100062) (о)
 	НТП
 	Хованский Е.П.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
 	ПС-41 (23100062) (о)
 	ДЕНЬКУРСОВОГОПРОЕКТИРОВАНИЯ
 	Виртуальный п.1.
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+	ПС-41 (23100062) (о)
+	
+	
+	БИ-41 (09030365) (о)
+	
+	
+	ИВТ-41 (23010062) (о)
+	
+	
+UNique group----------
+БИ-11 (09030365) (о)
+БИ-12 (09030365) (о)
+ИВТ-11 (23010062) (о)
+ПС-11 (23100062) (о)
+ПС-12 (23100062) (о)
+БИ-21 (09030365) (о)
+БИ-22 (09030365) (о)
+ИВТ-21 (23010062) (о)
+ПС-21 (23100062) (о)
+ПС-22 (23100062) (о)
+БИ-31 (09030365) (о)
+ИВТ-31 (23010062) (о)
+ПС-31 (23100062) (о)
+БИ-41 (09030365) (о)
+ИВТ-41 (23010062) (о)
+ПС-41 (23100062) (о)
