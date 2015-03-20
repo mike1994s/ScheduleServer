@@ -18,6 +18,14 @@ function Lesson( ) {
 
 
 
+function DayInGroup(lessson) {
+    this.lesson = lessson;
+}
+DayInGroup.prototype.print = function() {
+    console.log("lesson : " + this.lesson.lesson + "  number lesson: " + this.lesson.number
+            + "  week : " + this.lesson.week + "  teacher : " + this.lesson.teacher
+            + " auditory : " + this.lesson.auditory + " hull: " + this.lesson.hull);
+}
 
 function LastThreeGroup() {
     this.first = null;
@@ -25,9 +33,10 @@ function LastThreeGroup() {
     this.third = null;
 }
 
-function Res(number, index) {
+function Res(number, index, day) {
     this.number = number;
     this.index = index;
+    this.day = day;
 }
 
 function searchInGroup(groups, nameGroup) {
@@ -125,19 +134,17 @@ function populate(data, index, day, number, lastThree, groups) {
         lessonT.teacher = lessonT.teacher || "";
         lessonT.auditory = lessonT.auditory || "";
         lessonT.hull = lessonT.hull || "";
-        if (lessonT.lesson == "" && lessonT.number == "" && lessonT.week == "" && lessonT.teacher == "" &&
+        if (lessonT.lesson == "" && lessonT.week == "" && lessonT.teacher == "" &&
                 lessonT.auditory == "" && lessonT.hull == "")
             return true;
         return false;
     }
     day = getNumDays(index, day);
-    var indexSchedule = 0;
-    var indexGroup = 0;
 
+    var indexGroup = 0;
     var firstLesson = new Lesson();
     var secondLesson = new Lesson();
     var thirdLesson = new Lesson();
-//    console.log("NUMBER LESSSON : " + number);
     for (var i = 0; i < data.length; ++i) {
         if (data[i].indexOf("SHEET") !== -1)
             index = 0;
@@ -149,8 +156,8 @@ function populate(data, index, day, number, lastThree, groups) {
             secondLesson.number = number;
             thirdLesson.number = number;
             if (i === 3 || i === 9 || i === 15) {
-                console.log("LESSON : ");
-                console.log(i + "  " + data[i].trim());
+//                console.log("LESSON : ");
+//                console.log(i + "  " + data[i].trim());
                 if (i === 3) {
                     firstLesson.lesson = data[i].trim();
                 } else if (i === 9) {
@@ -160,8 +167,8 @@ function populate(data, index, day, number, lastThree, groups) {
                 }
             }
             if (i === 5 || i === 11 || i === 17) {
-                console.log("Teacher : ");
-                console.log(i + "  " + data[i].trim());
+//                console.log("Teacher : ");
+//                console.log(i + "  " + data[i].trim());
                 if (i === 5) {
                     firstLesson.teacher = data[i].trim();
                 } else if (i === 11) {
@@ -171,8 +178,8 @@ function populate(data, index, day, number, lastThree, groups) {
                 }
             }
             if (i === 6 || i === 12 || i === 18) {
-                console.log("Auditory : ");
-                console.log(i + "  " + data[i].trim());
+//                console.log("Auditory : ");
+//                console.log(i + "  " + data[i].trim());
                 if (i === 6) {
                     firstLesson.auditory = data[i].trim();
                 } else if (i === 12) {
@@ -182,8 +189,8 @@ function populate(data, index, day, number, lastThree, groups) {
                 }
             }
             if (i === 7 || i === 13 || i === 19) {
-                console.log("hull : ");
-                console.log(i + "  " + data[i].trim());
+//                console.log("hull : ");
+//                console.log(i + "  " + data[i].trim());
                 if (i === 7) {
                     firstLesson.hull = data[i].trim();
                 } else if (i === 13) {
@@ -228,11 +235,14 @@ function populate(data, index, day, number, lastThree, groups) {
         var group = new Group(lastThree.second, secondLesson);
         groups.push(group);
     }
+//    if ("ИВТ-11 (23010062) (о)" === lastThree.third) {
+//        console.log(isEmpty(thirdLesson));
+//    }
     if (!isEmpty(thirdLesson)) {
         var group = new Group(lastThree.third, thirdLesson);
         groups.push(group);
     }
-    return new Res(number, index);
+    return new Res(number, index, day);
 
 }
 function wrapper() {
@@ -243,23 +253,24 @@ function wrapper() {
     var lastThree = new LastThreeGroup();
     reader.addListener('data', function(data) {
         index++;
-        console.log("Start new Data--------------------------- " + index);
+//        console.log("Start new Data--------------------------- " + index);
         var obj = populate(data, index, day, number, lastThree, groups);
         index = obj.index;
         number = obj.number;
-        console.log("END Data---------------------------")
+        day = obj.day;
+//        console.log("END Data---------------------------")
     });
     return groups;
 }
 var groups = wrapper();
 reader.addListener('end', function() {
     console.log('thats it');
-    for (var i = 0; i < groups.length; ++i) {
-        console.log("\t" + groups[i].name);
-        console.log("\t" + groups[i].lesson.lesson);
-        console.log("\t" + groups[i].lesson.teacher);
-
-    }
+//    for (var i = 0; i < groups.length; ++i) {
+////        console.log("\t" + groups[i].name);
+////        console.log("\t" + groups[i].lesson.lesson);
+////        console.log("\t" + groups[i].lesson.day);
+////
+//    }
     afterEnd(groups);
 }
 );
@@ -277,15 +288,75 @@ function afterEnd(groups) {
     }
     function UniqueGroups(name) {
         this.name = name;
+        this.monday = new Array();
+        this.tuesday = new Array();
+        this.wednesday = new Array();
+        this.thursday = new Array();
+        this.friday = new Array();
+        this.saturday = new Array();
     }
     for (var i = 0; i < groups.length; ++i) {
         var ind = searchGroups(groups[i].name);
+        var indexInsert = -1;
+        var dayInGroup = new DayInGroup(groups[i].lesson);
+
         if (ind == -1) {
             var unGroup = new UniqueGroups(groups[i].name);
             uniqueGroups.push(unGroup);
+            indexInsert = uniqueGroups.length - 1
+        } else {
+            indexInsert = ind;
+        }
+        if (indexInsert == -1) {
+            throw new Exception();
+        }
+        if (groups[i].lesson.day === 1) {
+            uniqueGroups[indexInsert].monday.push(dayInGroup);
+        } else if (groups[i].lesson.day === 2) {
+            uniqueGroups[indexInsert].tuesday.push(dayInGroup);
+        } else if (groups[i].lesson.day === 3) {
+            uniqueGroups[indexInsert].wednesday.push(dayInGroup);
+        } else if (groups[i].lesson.day === 4) {
+            uniqueGroups[indexInsert].thursday.push(dayInGroup);
+        } else if (groups[i].lesson.day === 5) {
+            uniqueGroups[indexInsert].friday.push(dayInGroup);
+        } else if (groups[i].lesson.day === 6) {
+            uniqueGroups[indexInsert].saturday.push(dayInGroup);
         }
     }
-    for (var i = 1; i < uniqueGroups.length; ++i) {
-        console.log(uniqueGroups[i].name)
+
+    console.log("RESULT : ");
+    for (var i = 0; i < uniqueGroups.length; ++i) {
+        console.log(uniqueGroups[i].name);
+        console.log("Понедельник :");
+        console.log(uniqueGroups[i].monday.length);
+        for (var j = 0; j < uniqueGroups[i].monday.length; ++j) {
+            uniqueGroups[i].monday[j].print();
+        }
+        console.log("Вторник :");
+        console.log(uniqueGroups[i].tuesday.length);
+        for (var j = 0; j < uniqueGroups[i].tuesday.length; ++j) {
+            uniqueGroups[i].tuesday[j].print();
+        }
+        console.log("Среда :");
+        console.log(uniqueGroups[i].monday.length);
+        for (var j = 0; j < uniqueGroups[i].wednesday.length; ++j) {
+            uniqueGroups[i].wednesday[j].print();
+        }
+        console.log("Четверг :");
+        console.log(uniqueGroups[i].monday.length);
+        for (var j = 0; j < uniqueGroups[i].thursday.length; ++j) {
+            uniqueGroups[i].thursday[j].print();
+        }
+        console.log("Пятница :");
+        console.log(uniqueGroups[i].monday.length);
+        for (var j = 0; j < uniqueGroups[i].friday.length; ++j) {
+            uniqueGroups[i].friday[j].print();
+        }
+        console.log("Суббота :");
+        console.log(uniqueGroups[i].monday.length);
+        for (var j = 0; j < uniqueGroups[i].saturday.length; ++j) {
+            uniqueGroups[i].saturday[j].print();
+        }
     }
 }
