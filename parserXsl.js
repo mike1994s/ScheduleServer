@@ -2,14 +2,15 @@ var csv = require('ya-csv')
 var reader = csv.createCsvFileReader('test.csv', {'separator': ','});
 var writer = new csv.CsvWriter(process.stdout);
 var GROUPS_NUM_STR = 5;
-function Group(name) {
+function Group(name, lesson) {
     this.name = name;
-    this.monday = new Array();
-    this.tuesday = new Array();
-    this.wednesday = new Array();
-    this.thursday = new Array();
-    this.friday = new Array();
-    this.saturday = new Array();
+    this.lesson = lesson;
+//    this.monday = new Array();
+//    this.tuesday = new Array();
+//    this.wednesday = new Array();
+//    this.thursday = new Array();
+//    this.friday = new Array();
+//    this.saturday = new Array();
 }
 function Lesson( ) {
     this.lesson;
@@ -18,6 +19,7 @@ function Lesson( ) {
     this.teacher;
     this.auditory;
     this.hull;
+    this.day;
 }
 
 
@@ -123,6 +125,18 @@ function populate(data, index, day, number, lastThree, groups) {
         return groups;
 
     }
+    function isEmpty(lessonT) {
+        lessonT.lesson = lessonT.lesson || "";
+        lessonT.number = lessonT.number || "";
+        lessonT.week = lessonT.week || "";
+        lessonT.teacher = lessonT.teacher || "";
+        lessonT.auditory = lessonT.auditory || "";
+        lessonT.hull = lessonT.hull || "";
+        if (lessonT.lesson == "" && lessonT.number == "" && lessonT.week == "" && lessonT.teacher == "" &&
+                lessonT.auditory == "" && lessonT.hull == "")
+            return true;
+        return false;
+    }
     day = getNumDays(index, day);
     var indexSchedule = 0;
     var indexGroup = 0;
@@ -135,46 +149,58 @@ function populate(data, index, day, number, lastThree, groups) {
     for (var i = 0; i < data.length; ++i) {
         if (data[i].indexOf("SHEET") !== -1)
             index = 0;
-        indexSchedule++;
-        if (indexSchedule === 2) {
-            number = getNumber(data[i].trim(), number);
-        }
-        if (indexSchedule === 4 || indexSchedule === 10 || indexSchedule === 15) {
-            if (indexSchedule === 4) {
-                firstLesson.lesson = data[i].trim();
-            } else if (indexSchedule === 10) {
-                secondLesson.lesson = data[i].trim();
-            } else if (indexSchedule === 15) {
-                thirdLesson.lesson = data[i].trim();
+        if (index >= GROUPS_NUM_STR) {
+            if (i === 1) {
+                number = getNumber(data[i].trim(), number);
             }
-        }
-        if (indexSchedule === 6 || indexSchedule === 12 || indexSchedule === 17) {
-            if (indexSchedule === 6) {
-                firstLesson.teacher = data[i].trim();
-            } else if (indexSchedule === 12) {
-                secondLesson.teacher = data[i].trim();
-            } else if (indexSchedule === 17) {
-                thirdLesson.teacher = data[i].trim();
+            if (i === 3 || i === 9 || i === 15) {
+                console.log("LESSON : ");
+                console.log(i + "  " + data[i].trim());
+                if (i === 3) {
+                    firstLesson.lesson = data[i].trim();
+                } else if (i === 9) {
+                    secondLesson.lesson = data[i].trim();
+                } else if (i === 15) {
+                    thirdLesson.lesson = data[i].trim();
+                }
             }
-        }
-        if (indexSchedule === 7 || indexSchedule === 13 || indexSchedule === 18) {
-            if (indexSchedule === 7) {
-                firstLesson.auditory = data[i].trim();
-            } else if (indexSchedule === 13) {
-                secondLesson.auditory = data[i].trim();
-            } else if (indexSchedule === 18) {
-                thirdLesson.auditory = data[i].trim();
+            if (i === 5 || i === 11 || i === 17) {
+                console.log("Teacher : ");
+                console.log(i + "  " + data[i].trim());
+                if (i === 5) {
+                    firstLesson.teacher = data[i].trim();
+                } else if (i === 11) {
+                    secondLesson.teacher = data[i].trim();
+                } else if (i === 17) {
+                    thirdLesson.teacher = data[i].trim();
+                }
             }
-        }
-        if (indexSchedule === 8 || indexSchedule === 14 || indexSchedule === 19) {
-            if (indexSchedule === 8) {
-                firstLesson.hull = data[i].trim();
-            } else if (indexSchedule === 14) {
-                secondLesson.hull = data[i].trim();
-            } else if (indexSchedule === 19) {
-                thirdLesson.hull = data[i].trim();
+            if (i === 6 || i === 12 || i === 18) {
+                console.log("Auditory : ");
+                console.log(i + "  " + data[i].trim());
+                if (i === 6) {
+                    firstLesson.auditory = data[i].trim();
+                } else if (i === 12) {
+                    secondLesson.auditory = data[i].trim();
+                } else if (i === 18) {
+                    thirdLesson.auditory = data[i].trim();
+                }
             }
+            if (i === 7 || i === 13 || i === 19) {
+                console.log("hull : ");
+                console.log(i + "  " + data[i].trim());
+                if (i === 7) {
+                    firstLesson.hull = data[i].trim();
+                } else if (i === 13) {
+                    secondLesson.hull = data[i].trim();
+                } else if (i === 19) {
+                    thirdLesson.hull = data[i].trim();
+                }
+            }
+
         }
+
+
         if (data[i] != "")
         {
             if (index === GROUPS_NUM_STR) {
@@ -186,36 +212,33 @@ function populate(data, index, day, number, lastThree, groups) {
                 } else if (indexGroup === 3) {
                     lastThree.third = data[i];
                 }
-                if (searchInGroup(groups, data[i]) === -1) {
-                    var group = new Group(data[i]);
-                    groups.push(group);
-                }
+//                if (searchInGroup(groups, data[i]) === -1) {
+//                    var group = new Group(data[i]);
+//                    groups.push(group);
+//                }
             }
-        }
-        var itFirst = searchInGroup(groups, lastThree.first);
-        if (itFirst !== -1) {
-            groups = enterInGroup(groups, firstLesson, itFirst, day);
-        } else {
-////            groups.push(lastThree.first);
-//            groups = enterInGroup(groups, firstLesson, groups.length - 1, day);
-        }
-        var itSec = searchInGroup(groups, lastThree.second);
-        if (itSec !== -1) {
-            groups = enterInGroup(groups, secondLesson, itSec, day);
-        } else {
-//            groups.push(lastThree.second);
-//            groups = enterInGroup(groups, secondLesson, groups.length - 1, day);
-        }
-
-        var itTh = searchInGroup(groups, lastThree.third);
-        if (itTh !== -1) {
-            groups = enterInGroup(groups, thirdLesson, itTh, day);
-        } else {
-//            groups.push(lastThree.third);
-//            groups = enterInGroup(groups, thirdLesson, groups.length - 1, day);
+//            switch(day) {
+//                case 1:
+//            }
         }
     }
+    firstLesson.day = day;
+    secondLesson.day = day;
+    thirdLesson.day = day;
+    if (!isEmpty(firstLesson)) {
+        var group = new Group(lastThree.first, firstLesson);
+        groups.push(group);
+    }
+    if (!isEmpty(secondLesson)) {
+        var group = new Group(lastThree.second, secondLesson);
+        groups.push(group);
+    }
+    if (!isEmpty(thirdLesson)) {
+        var group = new Group(lastThree.third, thirdLesson);
+        groups.push(group);
+    }
     return new Res(number, index);
+
 }
 function wrapper() {
     var index = 0;
@@ -238,18 +261,21 @@ reader.addListener('end', function() {
     console.log('thats it');
     for (var i = 0; i < groups.length; ++i) {
         console.log("\t" + groups[i].name);
-        console.log("Monaday");
-        for (var i = 0; i < groups[i].monday.length; ++i) {
-            console.log(i);
-            console.log("lesson: " + groups[i].monday[i].lesson + "  number  : " + groups[i].monday[i].number );
-        }
+        console.log("\t" + groups[i].lesson.lesson);
+        console.log("\t" + groups[i].lesson.teacher);
+//        console.log("Monaday");
+//        for (var i = 0; i < groups[i].monday.length; ++i) {
+//            console.log(i);
+//            console.log("lesson: " + groups[i].monday[i].lesson + "  number  : " + groups[i].monday[i].number );
+//        }
 //        console.log("\t" + );
-        console.log("\t" + groups[i].tuesday.length);
-        console.log("\t" + groups[i].wednesday.length);
-        console.log("\t" + groups[i].thursday.length);
-        console.log("\t" + groups[i].friday.length);
-        console.log("\t" + groups[i].saturday.length);
+//        console.log("\t" + groups[i].tuesday.length);
+//        console.log("\t" + groups[i].wednesday.length);
+//        console.log("\t" + groups[i].thursday.length);
+//        console.log("\t" + groups[i].friday.length);
+//        console.log("\t" + groups[i].saturday.length);
 
     }
-});
+}
+);
 
