@@ -199,6 +199,17 @@ function populate(data, index, day, number, lastThree, groups) {
                     thirdLesson.hull = data[i].trim();
                 }
             }
+            if (i === 2 || i === 8 || i === 14) {
+//                console.log("hull : ");
+//                console.log(i + "  " + data[i].trim());
+                if (i === 2) {
+                    firstLesson.week = data[i].trim();
+                } else if (i === 8) {
+                    secondLesson.week = data[i].trim();
+                } else if (i === 14) {
+                    thirdLesson.week = data[i].trim();
+                }
+            }
 
         }
 
@@ -324,39 +335,103 @@ function afterEnd(groups) {
             uniqueGroups[indexInsert].saturday.push(dayInGroup);
         }
     }
-
     console.log("RESULT : ");
-    for (var i = 0; i < uniqueGroups.length; ++i) {
-        console.log(uniqueGroups[i].name);
-        console.log("Понедельник :");
-        console.log(uniqueGroups[i].monday.length);
-        for (var j = 0; j < uniqueGroups[i].monday.length; ++j) {
-            uniqueGroups[i].monday[j].print();
-        }
-        console.log("Вторник :");
-        console.log(uniqueGroups[i].tuesday.length);
-        for (var j = 0; j < uniqueGroups[i].tuesday.length; ++j) {
-            uniqueGroups[i].tuesday[j].print();
-        }
-        console.log("Среда :");
-        console.log(uniqueGroups[i].monday.length);
-        for (var j = 0; j < uniqueGroups[i].wednesday.length; ++j) {
-            uniqueGroups[i].wednesday[j].print();
-        }
-        console.log("Четверг :");
-        console.log(uniqueGroups[i].monday.length);
-        for (var j = 0; j < uniqueGroups[i].thursday.length; ++j) {
-            uniqueGroups[i].thursday[j].print();
-        }
-        console.log("Пятница :");
-        console.log(uniqueGroups[i].monday.length);
-        for (var j = 0; j < uniqueGroups[i].friday.length; ++j) {
-            uniqueGroups[i].friday[j].print();
-        }
-        console.log("Суббота :");
-        console.log(uniqueGroups[i].monday.length);
-        for (var j = 0; j < uniqueGroups[i].saturday.length; ++j) {
-            uniqueGroups[i].saturday[j].print();
-        }
+//    for (var i = 0; i < uniqueGroups.length; ++i) {
+//        console.log(uniqueGroups[i].name);
+//        console.log("Понедельник :");
+//        console.log(uniqueGroups[i].monday.length);
+//        for (var j = 0; j < uniqueGroups[i].monday.length; ++j) {
+//            uniqueGroups[i].monday[j].print();
+//        }
+//        console.log("Вторник :");
+//        console.log(uniqueGroups[i].tuesday.length);
+//        for (var j = 0; j < uniqueGroups[i].tuesday.length; ++j) {
+//            uniqueGroups[i].tuesday[j].print();
+//        }
+//        console.log("Среда :");
+//        console.log(uniqueGroups[i].monday.length);
+//        for (var j = 0; j < uniqueGroups[i].wednesday.length; ++j) {
+//            uniqueGroups[i].wednesday[j].print();
+//        }
+//        console.log("Четверг :");
+//        console.log(uniqueGroups[i].monday.length);
+//        for (var j = 0; j < uniqueGroups[i].thursday.length; ++j) {
+//            uniqueGroups[i].thursday[j].print();
+//        }
+//        console.log("Пятница :");
+//        console.log(uniqueGroups[i].monday.length);
+//        for (var j = 0; j < uniqueGroups[i].friday.length; ++j) {
+//            uniqueGroups[i].friday[j].print();
+//        }
+//        console.log("Суббота :");
+//        console.log(uniqueGroups[i].monday.length);
+//        for (var j = 0; j < uniqueGroups[i].saturday.length; ++j) {
+//            uniqueGroups[i].saturday[j].print();
+//        }
+//    }
+
+//    var Group = require('models/group').Group;
+//
+//
+////    user.save(function(err, user, affected) {
+////        if (err)
+////            throw err;
+////        User.findOne({username: "tester"}, function(err, tester) {
+////            console.log(tester);
+////        })
+////    })
+//
+//    for (var i = 0; i < uniqueGroups.length; ++i) {
+//        var group = new Group(uniqueGroups[i]);
+//        console.log(group.name);
+//       
+//    }
+
+
+
+    var mongoose = require('libs/mongoose');
+
+    var async = require('async')
+
+    async.series([
+        open,
+        dropDatabase,
+        requireModels,
+        createUsers
+//    close
+    ], function(err, results) {
+        console.log(arguments);
+        mongoose.disconnect();
+        process.exit(err ? 255 : 0);
+    })
+//console.log(mongoose.connection.readyState);
+
+    function open(callback) {
+        mongoose.connection.on('open', callback);
+    }
+
+    function dropDatabase(callback) {
+        var db = mongoose.connection.db;
+        db.dropDatabase(callback);
+    }
+
+    function requireModels(callback) {
+        require('models/group');
+        async.each(Object.keys(mongoose.models), function(modelName, callback) {
+            mongoose.models[modelName].ensureIndexes(callback);
+        }, callback);
+    }
+    function createUsers(callback) {
+//    var User = require('models/user').User;
+        var groups = uniqueGroups;
+        async.each(groups, function(userData, callback) {
+            var group = new mongoose.models.Group(userData);
+            group.save(callback);
+        }, callback);
+    }
+
+    function close(callback) {
+        mongoose.disconnect(callback);
     }
 }
+
