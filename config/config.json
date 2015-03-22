@@ -7,5 +7,15 @@
                 "keepAlive": 1
             }
         }
+    },
+    "session": {
+        "secret": "KillersJim",
+        "key": "sid",
+        "cookie": {
+            "path": "/",
+            "httpOnly": true,
+            "maxAge": null
+        }
     }
+
 }

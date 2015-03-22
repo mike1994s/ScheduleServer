@@ -4,12 +4,13 @@
  */
 
 var express = require('express');
-//var routes = require('./routes');
+////var routes = require('./routes');
 //var user = require('./routes/user');
 var http = require('http');
 var path = require('path');
 var config = require('config');
 var log = require('libs/log')(module)
+var mongoose = require('libs/mongoose');
 var HttpError = require('error').HttpError;
 var app = express();
 app.engine('ejs', require('ejs-locals'));
@@ -28,6 +29,20 @@ app.use(express.json());
 app.use(express.urlencoded());
 app.use(express.bodyParser());
 app.use(express.cookieParser());
+
+var MongoStore = require('connect-mongo')(express)
+
+app.use(express.session({
+    secret: config.get('session:secret'),
+    key: config.get('session:key'),
+    cookie: config.get('session:cookie'),
+    store: new MongoStore({mongoose_connection: mongoose.connection})
+}));
+
+//app.use(function(req, res, next) {
+//    req.session.numberOfVisits = req.session.numberOfVisits + 1 || 1;
+//    res.send("Visits : " + req.session.numberOfVisits);
+//})
 //app.use(express.methodOverride());
 //app.use(express.session({ secret: 'your secret here' }));
 app.use(require('middleware/sendHttpError'));
@@ -39,7 +54,7 @@ http.createServer(app).listen(app.get('port'), function() {
 });
 
 app.use(function(err, req, res, next) {
-    
+
     if (typeof err == 'number') {
         err = new HttpError(err);
     }

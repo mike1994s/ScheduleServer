@@ -6,7 +6,7 @@ function Group(name, lesson) {
     this.name = name;
     this.lesson = lesson;
 }
-function Lesson( ) {
+function Lesson() {
     this.lesson;
     this.number;
     this.week;
@@ -21,10 +21,10 @@ function Lesson( ) {
 function DayInGroup(lessson) {
     this.lesson = lessson;
 }
-DayInGroup.prototype.print = function() {
-    console.log("lesson : " + this.lesson.lesson + "  number lesson: " + this.lesson.number
-            + "  week : " + this.lesson.week + "  teacher : " + this.lesson.teacher
-            + " auditory : " + this.lesson.auditory + " hull: " + this.lesson.hull);
+Lesson.prototype.print = function() {
+    console.log("lesson : " + this.lesson + "  number lesson: " + this.number
+            + "  week : " + this.week + "  teacher : " + this.teacher
+            + " auditory : " + this.auditory + " hull: " + this.hull);
 }
 
 function LastThreeGroup() {
@@ -126,7 +126,6 @@ function populate(data, index, day, number, lastThree, groups) {
                 }
         }
         return groups;
-
     }
     function isEmpty(lessonT) {
         lessonT.lesson = lessonT.lesson || "";
@@ -140,7 +139,6 @@ function populate(data, index, day, number, lastThree, groups) {
         return false;
     }
     day = getNumDays(index, day);
-
     var indexGroup = 0;
     var firstLesson = new Lesson();
     var secondLesson = new Lesson();
@@ -254,7 +252,6 @@ function populate(data, index, day, number, lastThree, groups) {
         groups.push(group);
     }
     return new Res(number, index, day);
-
 }
 function wrapper() {
     var index = 0;
@@ -285,7 +282,6 @@ reader.addListener('end', function() {
     afterEnd(groups);
 }
 );
-
 function afterEnd(groups) {
     var uniqueGroups = new Array();
     function searchGroups(name) {
@@ -309,7 +305,6 @@ function afterEnd(groups) {
     for (var i = 0; i < groups.length; ++i) {
         var ind = searchGroups(groups[i].name);
         var indexInsert = -1;
-        var dayInGroup = new DayInGroup(groups[i].lesson);
 
         if (ind == -1) {
             var unGroup = new UniqueGroups(groups[i].name);
@@ -322,20 +317,20 @@ function afterEnd(groups) {
             throw new Exception();
         }
         if (groups[i].lesson.day === 1) {
-            uniqueGroups[indexInsert].monday.push(dayInGroup);
+            uniqueGroups[indexInsert].monday.push(groups[i].lesson);
         } else if (groups[i].lesson.day === 2) {
-            uniqueGroups[indexInsert].tuesday.push(dayInGroup);
+            uniqueGroups[indexInsert].tuesday.push(groups[i].lesson);
         } else if (groups[i].lesson.day === 3) {
-            uniqueGroups[indexInsert].wednesday.push(dayInGroup);
+            uniqueGroups[indexInsert].wednesday.push(groups[i].lesson);
         } else if (groups[i].lesson.day === 4) {
-            uniqueGroups[indexInsert].thursday.push(dayInGroup);
+            uniqueGroups[indexInsert].thursday.push(groups[i].lesson);
         } else if (groups[i].lesson.day === 5) {
-            uniqueGroups[indexInsert].friday.push(dayInGroup);
+            uniqueGroups[indexInsert].friday.push(groups[i].lesson);
         } else if (groups[i].lesson.day === 6) {
-            uniqueGroups[indexInsert].saturday.push(dayInGroup);
+            uniqueGroups[indexInsert].saturday.push(groups[i].lesson);
         }
     }
-    console.log("RESULT : ");
+//    console.log("RESULT : ");
 //    for (var i = 0; i < uniqueGroups.length; ++i) {
 //        console.log(uniqueGroups[i].name);
 //        console.log("Понедельник :");
@@ -368,7 +363,7 @@ function afterEnd(groups) {
 //        for (var j = 0; j < uniqueGroups[i].saturday.length; ++j) {
 //            uniqueGroups[i].saturday[j].print();
 //        }
-//    }
+//}
 
 //    var Group = require('models/group').Group;
 //
@@ -387,10 +382,8 @@ function afterEnd(groups) {
 //       
 //    }
 
-
-
+    console.log("----------------");
     var mongoose = require('libs/mongoose');
-
     var async = require('async')
 
     async.series([
@@ -413,6 +406,7 @@ function afterEnd(groups) {
     function dropDatabase(callback) {
         var db = mongoose.connection.db;
         db.dropDatabase(callback);
+//        callback/();
     }
 
     function requireModels(callback) {
@@ -425,11 +419,19 @@ function afterEnd(groups) {
 //    var User = require('models/user').User;
         var groups = uniqueGroups;
         async.each(groups, function(userData, callback) {
-            var group = new mongoose.models.Group(userData);
+            var group = new mongoose.models.Group({
+                name: userData.name,
+                monday: userData.monday,
+                tuesday: userData.tuesday,
+                wednesday: userData.wednesday,
+                thursday: userData.thursday,
+                friday: userData.friday,
+                saturday: userData.saturday
+            });
+//            console.log(group);
             group.save(callback);
         }, callback);
     }
-
     function close(callback) {
         mongoose.disconnect(callback);
     }

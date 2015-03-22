@@ -3,37 +3,31 @@ var Schema = mongoose.Schema;
 var schema = new Schema({
     name: {
         type: String,
-//        required: true
     },
     monday: [{
             lesson: {
                 type: String,
-//                required: true
             },
             number: {
                 type: String,
-//                required: true
             },
             week: {
                 type: String,
             },
             teacher: {
                 type: String,
-//                required: true
             },
             auditory: {
                 type: String,
-//                required: true
             },
             hull: {
                 type: String,
-//                required: true
             },
             day: {
                 type: String,
-//                required: true
             }
         }
+
     ],
     tuesday: [{
             lesson: {
