@@ -22,13 +22,13 @@
 //    })
 //})
 var mongoose = require('libs/mongoose');
- 
+var config = require('config')
 
 var async = require('async')
 
 async.series([
     open,
-    dropDatabase,
+    //   dropDatabase,
     requireModels,
     createUsers
 //    close
@@ -58,16 +58,8 @@ function createUsers(callback) {
 //    var User = require('models/user').User;
     var users = [
         {
-            username: 'Вася',
-            password: 'supervasya'
-        },
-        {
-            username: 'Петя',
-            password: '123'
-        },
-        {
             username: 'admin',
-            password: 'truetruehero'
+            password: config.get('password')
         },
     ];
     async.each(users, function(userData, callback) {

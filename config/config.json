@@ -8,6 +8,7 @@
             }
         }
     },
+    "password" : "admin123",
     "session": {
         "secret": "KillersJim",
         "key": "sid",

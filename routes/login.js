@@ -1,7 +1,23 @@
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+var User = require('models/user').User;
+var HttpError = require('error').HttpError;
+var AuthError = require('models/user').AuthError;
+exports.get = function(req, res) {
+    res.render('login');
+};
 
+exports.post = function(req, res, next) {
+    var username = req.body.username;
+    var password = req.body.password;
+    User.authorize(username, password, function(err, user) {
+        if (err) {
+            if (err instanceof AuthError) {
+                return next(new HttpError(403, err.message));
+            } else {
+                next(err);
+            }
+        }
+        req.session.user = user._id;
+        res.send({});
+    })
 
+}
