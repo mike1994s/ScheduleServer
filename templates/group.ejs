@@ -1,0 +1,25 @@
+<% layout('layout/page') -%>
+<% block('title', 'Расписание');%>
+<p class="lead"> Здесь будет Расписание!</p> 
+
+<p> Группа, <%=group.get('name')%></p>
+    <ul>
+       <li>
+            <a href ="?group=<%= group.get('_id')  %>&&day=monday" > понедельник</a>
+         </li>
+         <li>
+            <a href ="?group=<%= group.get('_id')  %>&&day=tuesday" > Вторник</a>
+         </li>
+         <li>
+             <a href ="?group=<%= group.get('_id')  %>&&day=wednesday" > Среда</a>
+         </li>
+         <li>
+            <a href ="?group=<%= group.get('_id')  %>&&day=thursday" > Четверг</a>
+         </li>
+         <li>
+            <a href ="?group=<%= group.get('_id')  %>&&day=friday" > Пятница</a>
+         </li>
+         <li>
+             <a href ="?group=<%= group.get('_id')  %>&&day=saturday" > Суббота</a>  
+         </li>
+</ul>

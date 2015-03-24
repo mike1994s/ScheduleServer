@@ -1,0 +1,28 @@
+<% layout('layout/page') -%>
+<% block('title', 'Расписание');%>
+<p class="lead"> Здесь будет Расписание!</p> 
+
+<p>Группа <%= nameGroup %>. 
+<br> День, <%= day %></p>
+   
+ <table class="table table-hover">
+   <caption>Таблица с расписанием</caption>
+   <tr>
+    <th>Номер пары</th>
+    <th>неделя</th>
+    <th>урок</th>
+    <th>преподаватель</th>
+    <th>Аудитория</th>
+    <th>Корпус</th>
+   </tr>
+<% for(var i= 0; i<groupDay.length; i++) {%>
+<tr>
+    <td><%=  groupDay[i].get('number') %></td>
+    <td><%=  groupDay[i].get('week') %></td>
+    <td><%=  groupDay[i].get('lesson') %></td>
+    <td><%=  groupDay[i].get('teacher') %></td>
+    <td><%=  groupDay[i].get('auditory') %></td>
+    <td><%=  groupDay[i].get('hull') %></td>
+</tr>
+<% } %>
+  </table>

@@ -70,4 +70,5 @@ module.exports = function(app) {
     app.post('/logout', require('./logout').post);
 
     app.get('/chat', checkAuth, require('./chat').get);
+    app.get('/groups', checkAuth, require('./groups').get);
 }
