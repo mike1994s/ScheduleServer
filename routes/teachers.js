@@ -27,7 +27,10 @@ exports.get = function(req, res, next) {
                     var result = [];
                     for (var i = 0; i < groups.length; ++i) {
                         for (var j = 0; j < groups[i]["" + d].length; ++j) {
+                            var  group = groups[i].name;
+                            
                             if (groups[i]["" + d][j].teacher === name) {
+                                groups[i]["" + d][j].group = group;
                                 result.push(groups[i]["" + d][j]);
                             }
                         }

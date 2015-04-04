@@ -8,6 +8,7 @@
    <caption>Таблица с расписанием</caption>
    <tr>
     <th>Номер пары</th>
+    <th>Группа</th>
     <th>неделя</th>
     <th>урок</th>
     <th>преподаватель</th>
@@ -17,6 +18,8 @@
 <% for(var i= 0; i<result.length; i++) {%>
 <tr>
     <td><%=  result[i].get('number') %></td>
+
+    <td><%=  result[i].group %></td>
     <td><%=  result[i].get('week') %></td>
     <td><%=  result[i].get('lesson') %></td>
     <td><%=  result[i].get('teacher') %></td>
