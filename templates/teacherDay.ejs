@@ -1,0 +1,30 @@
+<% layout('layout/page') -%>
+<% block('title', 'Расписание');%>
+<p class="lead"> Дни!</p> 
+<p> Добро пожаловать, <%=user.get('username')%></p>
+<p> Добро пожаловать В расписание , <%=teacher%>, в <%=day%></p>
+<% if (result.length > 0) { %>
+ <table class="table table-hover">
+   <caption>Таблица с расписанием</caption>
+   <tr>
+    <th>Номер пары</th>
+    <th>неделя</th>
+    <th>урок</th>
+    <th>преподаватель</th>
+    <th>Аудитория</th>
+    <th>Корпус</th>
+   </tr>
+<% for(var i= 0; i<result.length; i++) {%>
+<tr>
+    <td><%=  result[i].get('number') %></td>
+    <td><%=  result[i].get('week') %></td>
+    <td><%=  result[i].get('lesson') %></td>
+    <td><%=  result[i].get('teacher') %></td>
+    <td><%=  result[i].get('auditory') %></td>
+    <td><%=  result[i].get('hull') %></td>
+</tr>
+<% } %>
+  </table>
+<% }else { %>
+    <h1> <%=teacher%>  в <%=day%> не учит </h1>
+<% } %>

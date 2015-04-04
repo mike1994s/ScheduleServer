@@ -1,0 +1,13 @@
+<% layout('layout/page') -%>
+<% block('title', 'Расписание');%>
+<p class="lead"> Здесь будут преподаватели!</p> 
+
+<p> Добро пожаловать, <%=user.get('username')%></p>
+
+<ul>
+<% for(var i=0; i<teachers.length; i++) {%>
+        <li>
+            <a href ="?teacher=<%= teachers[i].get('hash')  %>" > <%= teachers[i].get('name')  %></a>
+         </li>
+<% } %>
+</ul>

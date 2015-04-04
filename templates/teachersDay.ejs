@@ -1,0 +1,17 @@
+<% layout('layout/page') -%>
+<% block('title', 'Расписание');%>
+<p class="lead"> Дни!</p> 
+
+<p> Добро пожаловать, <%=user.get('username')%></p>
+<ul>
+        <li>
+            <a href="?teacher=<%= hash %>&&day=monday" > Monday </a>
+</li>
+           <li> <a href="?teacher=<%=hash%>&&day=tuesday" > Tuesday </a></li>
+             <li>  <a href="?teacher=<%=hash%>&&day=wednesday" > Wednesday </a> </li>
+              <li>  <a href="?teacher=<%=hash%>&&day=thursday" > Thursday </a></li>
+           <li>  <a href="?teacher=<%=hash%>&&day=friday" > Friday </a></li>
+           <li>  <a href="?teacher=<%=hash%>&&day=saturday" > Saturday </a>
+
+         </li>
+</ul>

@@ -71,4 +71,6 @@ module.exports = function(app) {
 
     app.get('/chat', checkAuth, require('./chat').get);
     app.get('/groups', checkAuth, require('./groups').get);
+
+    app.get('/teachers', checkAuth, require('./teachers').get);
 }
