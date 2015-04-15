@@ -1,0 +1,32 @@
+<% layout('layout/page') -%>
+<% block('title', 'Расписание');%>
+<p class="lead"> Дни!</p> 
+<p> Добро пожаловать, <%=user.get('username')%></p>
+<p> Добро пожаловать В расписание , <%=result.teacher%>, в <%=result.day%> День</p>
+
+
+<form>
+  <div class="form-group">
+    <label for="auditory">auditory</label>
+    <input type="text" class="form-control" id="auditory" placeholder="Enter audtory" value= <%=result.auditory%>>
+  </div>
+  <div class="form-group">
+     <label for="lesson">lesson</label>
+    <input type="text" class="form-control" id="lesson" placeholder="Enter lesson" value= <%=result.lesson%>>
+  </div>
+  <div class="form-group">
+     <label for="teacher">Teacher</label>
+    <input type="text" class="form-control" id="teacher" placeholder="Enter teacher" value= <%=result.teacher%>>
+  </div>
+  <div class="form-group">
+     <label for="hull">Hull</label>
+    <input type="text" class="form-control" id="hull" placeholder="Enter hull" value= <%=result.hull%>>
+  </div>
+  <div class="form-group">
+     <label for="number">Number</label>
+    <input type="text" class="form-control" id="number" placeholder="Enter number" value= <%=result.number%>>
+  </div>
+  
+  
+  <button type="submit" class="btn btn-default">Submit</button>
+</form>

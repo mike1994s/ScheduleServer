@@ -2,15 +2,17 @@
     <ul class="nav navbar-nav" >
         <li> <a href="/">Главная</a></li>
         <% if (user) { %>
-        <li><a href="/groups"> группы</a></li>
-        <li> <a href ="/teachers">преподаватели</a></li>
+        <li><a href="/groups"> Группы</a></li>
+        <li> <a href ="/teachers">Преподаватели</a></li>
                 <% } %>
 
     </ul>
 <ul class="nav navbar-nav  navbar-right" >
  <% if (user) { %>
-     <form action="logout" method="post">
-  <p><input type="submit" value="Выйти"></p>
+    <form role="form"  action="logout" method="post">
+    <div class="form-group">
+    <input  type="submit" value="Выйти" class="btn-default btn">
+   </div>
  </form>
 <% }else { %>
         <li><a href="/login">Войти</a></li>

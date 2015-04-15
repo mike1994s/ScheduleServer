@@ -12,11 +12,12 @@ exports.get = function(req, res, next) {
             });
         });
     } else {
-        console.log(parseUrl.query['teacher']);
+     //   console.log(parseUrl.query['teacher']);
         TeacherLink.find({"hash": parseUrl.query['teacher']}, function(err, teacher) {
             if (err)
                 return next(err);
             var name = teacher[0].name;
+            var idTeacherHash = parseUrl.query['teacher'];
             if (!parseUrl.query['day']) {
                 res.render('teachersDay', {
                     hash: teacher[0].hash
@@ -27,19 +28,22 @@ exports.get = function(req, res, next) {
                     var result = [];
                     for (var i = 0; i < groups.length; ++i) {
                         for (var j = 0; j < groups[i]["" + d].length; ++j) {
-                            var  group = groups[i].name;
-                            
+                            var group = groups[i].name;
+                            var idGroup = groups[i]._id;
                             if (groups[i]["" + d][j].teacher === name) {
                                 groups[i]["" + d][j].group = group;
+                                groups[i]["" + d][j].idGroup = idGroup;
                                 result.push(groups[i]["" + d][j]);
                             }
                         }
                     }
-                    console.log(result.length);
+                    console.log("result  = " + result[0]);
                     res.render('teacherDay', {
                         teacher: name,
                         day: d,
-                        result: result
+                        idGroup :idTeacherHash,
+                        result: result,
+                        hash: parseUrl.query['teacher']
                     });
                 });
             }
