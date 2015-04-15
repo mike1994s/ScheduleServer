@@ -1,0 +1,113 @@
+<% layout('layout/page') -%>
+<% block('title', 'Расписание');%>
+<p class="lead"> Дни!</p> 
+<p> Добро пожаловать, <%=user.get('username')%></p>
+<p> Добро пожаловать В расписание , <%=result.teacher%>, в <%=result.day%> День</p>
+
+
+<script>
+          function call() {
+                
+		var error = document.getElementById("error");
+                
+                error.innerHTML = "";
+                var submitButton = document.getElementById("submittingForm");
+              
+                submitButton.innerHTML  = "loading";
+                var form = $('#formx');
+                var msg   = $('#formx').serialize();
+                $.ajax({
+			url: "update",
+			type: "POST",
+			data : msg,
+			complete : function() {
+				$(":submit", form).button("reset");
+				},
+                        statusCode : {
+				200 : function() {
+				   form.html("Ваши Изменения занесены в базу").addClass('alert-success');
+                                   window.location.href = "http://localhost:3000/teachers";
+				   },
+				403 : function(jqXHR) {
+						var error = JSON.parse(jqXHR.responseText);
+						$('.error', form).html(error.message);
+					}
+				}
+                            });
+ 
+    	};
+	 </script>
+
+<div class="container col-md-4">
+<form class="form-horizontal login-form"  method="POST" id="formx" action="javascript:void(null);" onsubmit="call()"> 
+  <input type="hidden"  name="idNotice"  value= <%=result._id%>>
+  <input type="hidden"  name="teacher"  value="<%=result.teacher%>">
+ <div class="form-group">
+<label for="groupName">Группа</label>
+    <input readonly type="text" name="groupName" class="form-control" id="groupName"  value="<%=groupName%>">
+</div>
+  <div class="form-group">
+ <label for="isCycleChanged">Разовое или Постоянное изменение расписания:</label>
+  <br> <input  type="radio"  name="isCycleChanged" value="false"> Разовое<Br>
+   <input type="radio" checked name="isCycleChanged" value="true"> Постоянное<Br>
+  </div>
+ <div class="form-group">
+     <label for="lessonOld">lesson Old</label>
+      <input readonly type="text" class="form-control" id="lessonOld"  name="lessonOld"  value= <%=result.lesson%>>
+     <label for="lesson">new lesson</label>
+    <input type="text" class="form-control" id="lesson" name="lesson"  placeholder="Enter lesson" value= <%=result.lesson%>>
+</div>
+ <div class="form-group">
+     <label for="numberOld">Number</label>
+   <input readonly type="text" class="form-control" id="numberOld" name="numberOld"   value= <%=result.number%>>
+     <label for="number">New Number</label>
+    <input  type="text" class="form-control" id="number" name="number" placeholder="Enter number" value= <%=result.number%>>
+  </div>
+
+<div class="form-group">
+    <label for="weekOld">Week</label>
+   <input readonly type="text" class="form-control" id="weekOld" name="weekOld"   value=  <%=result.week%>>
+    <label for="week">new Week</label>
+    <input type="text" class="form-control" id="week" name="week" placeholder="Enter week"  value= <%=result.week%>>
+  </div>
+
+  <div class="form-group">
+    <label for="auditoryOld">auditory</label>
+   <input readonly type="text" class="form-control" id="auditoryOld" name="auditoryOld"   value=  <%=result.auditory%>>
+    <label for="auditory">new auditory</label>
+    <input type="text" class="form-control" id="auditory" name="auditory" placeholder="Enter audtory"  value= <%=result.auditory%>>
+  </div>
+
+  <div class="form-group">
+     <label for="hullOld">Hull</label>
+    <input readonly type="text" class="form-control" id="hullOld" name="hullOld"   value=<%=result.hull%>>
+     <label for="hull">New Hull</label>
+   <select class="form-control"id="hull"  name="hull" >
+    <option selected value=""></option>
+    <option value="I">I</option>
+    <option value="II">II</option>
+    <option value="III">III</option>
+    <option value="IV">IV</option>
+    <option value="V">V</option>
+</select>
+  </div>
+  <div class="form-group">
+     <label for="dayOld">Day</label>
+     <input readonly type="text" class="form-control" id="dayOld" name="dayOld"   value=<%=day%>>
+     <label for="day">New Day</label>
+<select class="form-control" name="day" id="day">
+    <option selected value=""></option>
+    <option value="monday">Понедельник</option>
+    <option value="tuesday">Вторник</option>
+    <option value="wednesday">Среда</option>
+    <option value="thursday">Четверг</option>
+    <option value="friday">Пятница</option>
+    <option value="saturday">Суббота</option>
+</select>
+  </div>
+ 
+ 
+  <button type="submit" class="btn btn-primary submitButton" id="submittingForm" data-loading-text="Отправляю..."> войти</button>
+    <span class="help-block error" id="error"></span>
+</form>
+</div>
