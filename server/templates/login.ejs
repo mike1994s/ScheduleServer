@@ -27,7 +27,7 @@
                         statusCode : {
 				200 : function() {
 				   form.html("Вы вошли на сайт").addClass('alert-success');
-				   window.location.href = "/chat";
+				   window.location.href = "/";
 				   },
 				403 : function(jqXHR) {
 						var error = JSON.parse(jqXHR.responseText);

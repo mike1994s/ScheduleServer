@@ -44,7 +44,7 @@ exports.get = function(req, res, next) {
                         var dayGroup = [];
 
                         for (var i = 0; i < result.length; ++i) {
-                            if (all.length ==0 ) {
+                            if (all.length == 0) {
                                 dayGroup.push(result[i]);
                                 continue;
                             }
@@ -78,7 +78,7 @@ exports.get = function(req, res, next) {
                         for (var j = 0; j < dayGroup.length; ++j) {
                             dayGroup[j].group = dayGroup[j].group || dayGroup[j].groupName;
                         }
-                        console.log("result  = " + result[0]);
+                        console.log(JSON.stringify(dayGroup[0]));
                         res.render('teacherDay', {
                             teacher: name,
                             day: d,

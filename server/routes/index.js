@@ -74,5 +74,8 @@ module.exports = function(app) {
 
     app.get('/teachers', checkAuth, require('./teachers').get);
     app.get('/update', checkAuth, require('./update').get);
+    app.get('/updateChanges', checkAuth, require('./updateChanges').get);
+    app.post('/updateChanges', checkAuth, require('./updateChanges').post);
+    app.post('/deleteChanges', checkAuth, require('./deleteChanges').post);
     app.post('/update', require('./update').post);
 }

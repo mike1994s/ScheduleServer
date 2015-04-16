@@ -28,8 +28,9 @@
     <td><%=  result[i].get('hull') %></td>
     <% if(result[i].idGroup) {%>
     <td><a href="update?group=<%=  result[i].idGroup %>&&day=<%=  day %>&&id=<%=  result[i].get('_id') %>"> <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span></a></td>
-<% } %>
- 
+<% }else if (result[i].idNotice) {%>
+    <td><a href="updateChanges?id=<%=result[i].get('_id') %>"> <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span></a></td>
+ <% }%>
 </tr>
 <% } %>
   </table>

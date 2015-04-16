@@ -97,7 +97,7 @@ exports.post = function(req, res, next) {
                 auditory: object.auditory,
                 hull: object.hull,
                 day: object.day,
-                teacher : object.teacher
+                teacher: object.teacher
             });
             changs.save(callback);
         }, callback);
