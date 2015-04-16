@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/%23%20User%20Files/Рабочий%20Стол/6%20семестр/УПП/проект%20git/ScheduleServer/routes/frontPage.js</file>
+            <file>file:/D:/%23%20User%20Files/Рабочий%20Стол/6%20семестр/УПП/проект%20git/ScheduleServer/routes/index.js</file>
+            <file>file:/D:/%23%20User%20Files/Рабочий%20Стол/6%20семестр/УПП/проект%20git/ScheduleServer/routes/login.js</file>
+            <file>file:/D:/%23%20User%20Files/Рабочий%20Стол/6%20семестр/УПП/проект%20git/ScheduleServer/routes/groups.js</file>
+            <file>file:/D:/%23%20User%20Files/Рабочий%20Стол/6%20семестр/УПП/проект%20git/ScheduleServer/middleware/checkAuth.js</file>
+            <file>file:/D:/%23%20User%20Files/Рабочий%20Стол/6%20семестр/УПП/проект%20git/ScheduleServer/libs/log.js</file>
+            <file>file:/D:/%23%20User%20Files/Рабочий%20Стол/6%20семестр/УПП/проект%20git/ScheduleServer/createDB.js</file>
+            <file>file:/D:/%23%20User%20Files/Рабочий%20Стол/6%20семестр/УПП/проект%20git/ScheduleServer/templates/chat.ejs</file>
+            <file>file:/D:/%23%20User%20Files/Рабочий%20Стол/6%20семестр/УПП/проект%20git/ScheduleServer/libs/mongoose.js</file>
+            <file>file:/D:/%23%20User%20Files/Рабочий%20Стол/6%20семестр/УПП/проект%20git/ScheduleServer/models/user.js</file>
+            <file>file:/D:/%23%20User%20Files/Рабочий%20Стол/6%20семестр/УПП/проект%20git/ScheduleServer/templates/layout/page.ejs</file>
+            <file>file:/D:/%23%20User%20Files/Рабочий%20Стол/6%20семестр/УПП/проект%20git/ScheduleServer/middleware/loadUser.js</file>
+            <file>file:/D:/%23%20User%20Files/Рабочий%20Стол/6%20семестр/УПП/проект%20git/ScheduleServer/models/group.js</file>
+            <file>file:/D:/%23%20User%20Files/Рабочий%20Стол/6%20семестр/УПП/проект%20git/ScheduleServer/index.html</file>
+            <file>file:/D:/%23%20User%20Files/Рабочий%20Стол/6%20семестр/УПП/проект%20git/ScheduleServer/templates/partials/topNavigation.ejs</file>
+            <file>file:/D:/%23%20User%20Files/Рабочий%20Стол/6%20семестр/УПП/проект%20git/ScheduleServer/middleware/sendHttpError.js</file>
+        </group>
+    </open-files>
+</project-private>

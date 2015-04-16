@@ -44,6 +44,10 @@ exports.get = function(req, res, next) {
                         var dayGroup = [];
 
                         for (var i = 0; i < result.length; ++i) {
+                            if (all.length ==0 ) {
+                                dayGroup.push(result[i]);
+                                continue;
+                            }
                             for (var j = 0; j < all.length; ++j) {
                                 if (all[j].idNotice == result[i]._id) {
                                     if (all[j].day == d) {

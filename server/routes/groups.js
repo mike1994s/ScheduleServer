@@ -1,11 +1,11 @@
 var Group = require('models/group').Group;
 var url = require("url");
 var Changes = require('models/changes').Changes;
-exports.get = function(req, res, next) {
+exports.get = function (req, res, next) {
     console.log(req.url);
     var parseUrl = url.parse(req.url, true);
     if (!(parseUrl.query['group'])) {
-        Group.find(function(err, groups) {
+        Group.find(function (err, groups) {
             if (err)
                 return next(err);
             console.log(groups[0].name);
@@ -15,7 +15,7 @@ exports.get = function(req, res, next) {
         });
     } else {
         if (!(parseUrl.query['day'])) {
-            Group.findById(parseUrl.query['group'], function(err, group) {
+            Group.findById(parseUrl.query['group'], function (err, group) {
                 if (err)
                     return next(err);
                 res.render('group', {
@@ -24,10 +24,10 @@ exports.get = function(req, res, next) {
             });
         } else {
             var day = parseUrl.query['day'];
-            Group.findById(parseUrl.query['group'], function(err, group) {
+            Group.findById(parseUrl.query['group'], function (err, group) {
                 if (err)
                     return next(err);
-                Changes.find(function(err, all) {
+                Changes.find(function (err, all) {
                     if (err)
                         return next(err);
 
@@ -35,6 +35,10 @@ exports.get = function(req, res, next) {
                     var dayGroup = [];
 
                     for (var i = 0; i < group["" + day].length; ++i) {
+                        if (all.length == 0) {
+                            dayGroup.push(group["" + day][i]);
+                            continue;
+                        }
                         for (var j = 0; j < all.length; ++j) {
                             if (all[j].idNotice == group["" + day][i]._id) {
                                 if (all[j].day == day)
