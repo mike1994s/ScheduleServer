@@ -50,7 +50,8 @@ app.use(require('middleware/loadUser'));
 app.use(app.router);
 require('routes')(app);
 app.use(express.static(path.join(__dirname, 'public')));
-http.createServer(app).listen(app.get('port'), function() {
+var server = http.createServer(app);
+server.listen(app.get('port'), function() {
     log.info('Express server listening on port ' + config.get('port'));
 });
 
@@ -73,24 +74,14 @@ app.use(function(err, req, res, next) {
     }
 
 })
-//
-//// all environments
-//app.set('views', path.join(__dirname, 'views'));
-//app.set('view engine', 'ejs');
-//app.use(express.favicon());
-//app.use(express.logger('dev'));
-//app.use(express.json());
-//app.use(express.urlencoded());
-//app.use(express.methodOverride());
-//app.use(express.session({ secret: 'your secret here' }));
-//app.use(app.router);
-//app.use(express.static(path.join(__dirname, 'public')));
-//
-//// development only
-//if ('development' == app.get('env')) {
-//  app.use(express.errorHandler());
-//}
-//
-//app.get('/', routes.index);
-//app.get('/users', user.list);
-//
+
+var io = require('socket.io').listen(server);
+
+io.sockets.on('connection', function (socket) {
+  
+  socket.on('message', function (text, cb) {
+      socket.broadcast.emit('message', text); // отправляем сообщения все кроме дданному
+      cb(text);
+  });
+  
+});
