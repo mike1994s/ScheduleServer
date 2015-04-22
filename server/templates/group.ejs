@@ -23,3 +23,7 @@
              <a href ="?group=<%= group.get('_id')  %>&&day=saturday" > Суббота</a>  
          </li>
 </ul>
+<p class="info">сообщения </p>
+<% for(var i= 0; i<messages.length; i++) {%>
+    <a href="/lookMessage?id=<%= messages[i].get('_id') %>"><p class="part"><span class="glyphicon glyphicon-hand-up" aria-hidden="true"></span> ЗАметка #<%=  i  %></p></a>
+<% } %>

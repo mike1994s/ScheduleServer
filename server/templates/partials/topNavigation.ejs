@@ -1,4 +1,50 @@
- <nav class="navbar navbar-default" role="navigation">
+<script type="text/javascript">
+function startTime()
+{
+    var tm=new Date();
+    var h=tm.getHours();
+    var m=tm.getMinutes();
+    var s=tm.getSeconds();
+    var year = tm.getFullYear();
+    var month = getMonth(tm.getMonth());
+    var d= tm.getDate();
+    m=checkTime(m);
+    s=checkTime(s);
+    document.getElementById('timeClock').innerHTML=d+ " "+ month+ " " +year  + "   " + h+":"+m+":"+s;
+    t=setTimeout('startTime()',500);
+}
+function getMonth(month) {
+    month++;
+    switch(month) {
+    case 1: return "Январь";
+    case 2: return "Февраль";
+    case 3: return "Март";
+    case 4: return "Апрель";
+    case 5: return "Май";
+    case 6: return "Июнь";
+    case 7: return "Июль";
+    case 8: return "Август";
+    case 9: return "Сентябрь";
+    case 10: return "Октябрь";
+    case 11: return "Ноябрь";
+    case 12: return "Декабрь";
+    }
+}
+function checkTime(i)
+{
+    if (i<10)
+    {
+        i="0" + i;
+    }
+    return i;
+}
+  
+</script>
+<div class="row time">
+<span class="glyphicon glyphicon-time"  aria-hidden="true"></span><p id="timeClock"> </p>
+
+</div>
+<nav class="navbar navbar-default" role="navigation">
     <ul class="nav navbar-nav" >
         <li> <a href="/">Главная</a></li>
         <% if (user) { %>
@@ -7,6 +53,7 @@
                 <% } %>
 
     </ul>
+
 <ul class="nav navbar-nav  navbar-right" >
  <% if (user) { %>
     <form role="form"  action="logout" method="post">

@@ -1,0 +1,130 @@
+<% layout('../layout/page') -%>
+<% block('title', 'Расписание');%>
+<p class="lead"> Дни!</p> 
+<p> Добро пожаловать, <%=user.get('username')%></p>
+<div class="container col-md-4">
+
+<script>
+          function call() {
+		var error = document.getElementById("error");
+                error.innerHTML = "";
+                var submitButton = document.getElementById("submittingForm");
+                submitButton.innerHTML  = "loading";
+                var form = $('#formx');
+                var msg   = $('#formx').serialize();
+                $.ajax({
+			url: "editMessage",
+			type: "POST",
+			data : msg,
+			complete : function() {
+				$(":submit", form).button("reset");
+				},
+                        statusCode : {
+				200 : function() {
+				   form.html("Ваши Изменения занесены в базу").addClass('alert-success');
+                                   window.location.href = "http://localhost:3000/teachers";
+				   },
+				403 : function(jqXHR) {
+						var error = JSON.parse(jqXHR.responseText);
+						$('.error', form).html(error.message);
+					}
+				}
+                            });
+ 
+    	};
+        
+	 </script>
+
+<script>
+  function del() {   
+                var error = document.getElementById("error2");
+                error.innerHTML = "";
+                var submitButton = document.getElementById("deleteChangesForm");
+                submitButton.innerHTML  = "loading";
+                var form = $('#forma');
+                var msg   = $('#forma').serialize();
+                $.ajax({
+			url: "deleteMessage",
+			type: "POST",
+			data : msg,
+			complete : function() {
+				$(":submit", form).button("reset");
+				},
+                        statusCode : {
+				200 : function() {
+				   form.html("Изменения успешно удалено").addClass('alert-success');
+                                   window.location.href = "http://localhost:3000/teachers";
+				   },
+				403 : function(jqXHR) {
+						var error2 = JSON.parse(jqXHR.responseText);
+						$('.error2', form).html(error2.message);
+					}
+				}
+                            });
+ 
+    	};
+</script>
+
+<form class="form-horizontal login-form"  method="POST" id="formx"  action="javascript:void(null);" onsubmit="call()" > 
+  <input type="hidden"  name="id"  value="<%= msg.get('idGroup') %>">
+  <input type="hidden"  name="teacherHash"  value="<%= msg.get('teacherHash') %>">
+  <input type="hidden"  name="_id"  value="<%= msg.get('_id') %>">
+    <div class="form-group">
+<label for="oldDateTo">
+   <input class="form-control" readonly type='text' name="oldDateTo" id="oldDateTo" class="form-control" value="<%= msg.get('dateTo') %>" />
+</label>
+</div>
+<div class="container" >
+    <label for="dateTo">К какому числу заметка</label>
+<br>
+    <div class="col-sm-2" style="height:130px;">
+        <div class="form-group">
+            <div class='input-group date' id='datetimepicker10'>
+                <input class="form-control" type='text' name="dateTo" id="dateTo" class="form-control" />
+                <span class="input-group-addon">
+                    <span class="glyphicon glyphicon-calendar">
+                    </span>
+                </span>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(function () {
+            $('#datetimepicker10').datetimepicker({
+                viewMode: 'years',
+                format: 'YYYY/MM/DD'
+            });
+        });
+    </script>
+</div>
+<div class="form-group">
+<label for="text">Введите сообщение</label>
+<textarea  class="form-control" name="text" id="text" ><%= msg.get('text') %>
+</textarea>
+</div>
+<div class="form-group">
+ <div class="checkbox">
+    <label>
+        <% if(msg.get('isPublicated')) { %>
+      <input  checked type="checkbox" name="isPublicated" id="isPublicated"> Опубликовано!
+    <% }else { %>
+    <input  type="checkbox" name="isPublicated" id="isPublicated"> Опубликовать!
+        <% } %>
+    </label>
+  </div>
+  </div>
+  <button type="submit" class="btn btn-primary submitButton" id="submittingForm" data-loading-text="обновляю..."> изменить сообщение</button>
+    <span class="help-block error" id="error"></span>
+</form>
+<div class="row">&nbsp;</div>
+
+
+<div class="row">&nbsp;</div>
+
+<form class="form-horizontal login-form"  method="POST" id="forma" action="javascript:void(null);" onsubmit="del()"> 
+ <input type="hidden" name="idDelete"  value="<%=msg.get('_id')%>"> 
+<button type="submit" class="btn btn-primary  btn-danger submitButton" id="deleteChangesForm" data-loading-text="Удаляю..."> Удалить Сообщение</button>
+ <span class="help-block error2" id="error2"></span>
+</form>
+
+</div>

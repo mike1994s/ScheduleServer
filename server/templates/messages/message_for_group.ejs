@@ -1,0 +1,9 @@
+<% layout('../layout/page') -%>
+<% block('title', 'Расписание');%>
+<p class="lead"> Дни!</p> 
+<p class="lead">Преподаватель <%= teacher.get('name') %> Оставил  сообщение на <%= message.get('dateTo') %><br>
+вот сообщение : <br>
+ <%= message.get('text') %><br>
+<br>
+<br>
+Сообщение от   <%= message.get('dateMessage') %></p>

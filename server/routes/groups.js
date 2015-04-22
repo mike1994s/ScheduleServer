@@ -1,11 +1,13 @@
 var Group = require('models/group').Group;
 var url = require("url");
 var Changes = require('models/changes').Changes;
-exports.get = function (req, res, next) {
+var Messages = require('models/messages').Messages;
+var TeacherLink = require('models/TeacherLink').TeacherLink;
+exports.get = function(req, res, next) {
     console.log(req.url);
     var parseUrl = url.parse(req.url, true);
     if (!(parseUrl.query['group'])) {
-        Group.find(function (err, groups) {
+        Group.find(function(err, groups) {
             if (err)
                 return next(err);
             console.log(groups[0].name);
@@ -15,25 +17,31 @@ exports.get = function (req, res, next) {
         });
     } else {
         if (!(parseUrl.query['day'])) {
-            Group.findById(parseUrl.query['group'], function (err, group) {
+            Group.findById(parseUrl.query['group'], function(err, group) {
                 if (err)
                     return next(err);
-                res.render('group', {
-                    group: group,
-                });
+                Messages.find({"idGroup": parseUrl.query['group'], "isPublicated": true}, function(err, msgs) {
+                    if (err)
+                        return next(err);
+                    var arr = [];
+                    console.log(arr);
+                    res.render('group', {
+                        group: group,
+                        messages: msgs,
+                    });
+                })
+
             });
         } else {
             var day = parseUrl.query['day'];
-            Group.findById(parseUrl.query['group'], function (err, group) {
+            Group.findById(parseUrl.query['group'], function(err, group) {
                 if (err)
                     return next(err);
-                Changes.find(function (err, all) {
+                Changes.find(function(err, all) {
                     if (err)
                         return next(err);
-
                     console.log(group["" + day]);
                     var dayGroup = [];
-
                     for (var i = 0; i < group["" + day].length; ++i) {
                         if (all.length == 0) {
                             dayGroup.push(group["" + day][i]);
@@ -71,7 +79,6 @@ exports.get = function (req, res, next) {
 
                     });
                 });
-
             });
         }
     }

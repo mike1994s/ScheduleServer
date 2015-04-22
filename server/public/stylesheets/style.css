@@ -1,10 +1,10 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
-  color: #00B7FF;
+    color: #00B7FF;
 }
 
 .logout {
@@ -12,4 +12,13 @@ a {
     position: relative;
 }
 
- 
+
+
+.time {
+    text-align: center;
+}
+p.part {
+    white-space: nowrap; /* Запрещаем перенос строк */
+    overflow: hidden; /* Обрезаем все, что не помещается в область */
+    text-overflow: ellipsis; /* Добавляем многоточие */
+}

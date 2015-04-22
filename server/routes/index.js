@@ -73,6 +73,14 @@ module.exports = function(app) {
     app.get('/groups', checkAuth, require('./groups').get);
 
     app.get('/teachers', checkAuth, require('./teachers').get);
+
+    app.get('/leaveMessage', checkAuth, require('./leaveMessage').get);
+    app.get('/editMessage', checkAuth, require('./editMessage').get);
+    app.post('/editMessage', checkAuth, require('./editMessage').post);
+    app.post('/leaveMessage', checkAuth, require('./leaveMessage').post);
+    app.post('/deleteMessage', checkAuth, require('./deleteMessage').post);
+    app.get('/lookMessage', checkAuth, require('./lookMessage').get);
+
     app.get('/update', checkAuth, require('./update').get);
     app.get('/updateChanges', checkAuth, require('./updateChanges').get);
     app.post('/updateChanges', checkAuth, require('./updateChanges').post);
