@@ -14,9 +14,9 @@ exports.get = function(req, res, next) {
         });
     } else {
         //   console.log(parseUrl.query['teacher']);
-        TeacherLink.find({"hash": parseUrl.query['teacher']}, function(err, teacher) {
-            if (err)
-                return next(err);
+        TeacherLink.find({"hash": parseUrl.query['teacher']}, function(err1, teacher) {
+            if (err1)
+                return next(err1);
             var name = teacher[0].name;
             var idTeacherHash = parseUrl.query['teacher'];
             if (!parseUrl.query['day']) {
@@ -25,7 +25,9 @@ exports.get = function(req, res, next) {
                 });
             } else {
                 var d = parseUrl.query['day'];
-                Group.find(function(err, groups) {
+                Group.find(function(error, groups) {
+                    if (error)
+                        return next(error);
                     var result = [];
                     for (var i = 0; i < groups.length; ++i) {
                         for (var j = 0; j < groups[i]["" + d].length; ++j) {
@@ -42,22 +44,41 @@ exports.get = function(req, res, next) {
                         if (err)
                             return next(err);
                         var dayGroup = [];
-
+//                        var changesOnToday = [];
+//                        for (var k = 0; k < all.length; ++k) {
+//                            if (all[j].day == d) {
+//                                changesOnToday.push(all[j])
+//                            }
+//                        }
+                        console.log(result.length);
                         for (var i = 0; i < result.length; ++i) {
-                            if (all.length == 0) {
+                            if (all.length == 0) { // если изменнеий нет вообще
                                 dayGroup.push(result[i]);
-                                continue;
-                            }
-                            for (var j = 0; j < all.length; ++j) {
-                                if (all[j].idNotice == result[i]._id) {
-                                    if (all[j].day == d) {
-                                        dayGroup.push(all[j]);
+                            } else {
+                                for (var j = 0; j < all.length; ++j) {
+                                    if (all[j].idNotice == result[i]._id) {
+                                        console.log("result" + result[i]);
+                                        if (all[j].day == d) {
+                                            dayGroup.push(all[j]);
+                                            break;
+                                        }
+                                    } else {
+                                        var isPresent = false;
+                                        for (var t = 0; t < all.length; ++t) {
+                                            if (all[t].idNotice == result[i]._id) {
+                                                isPresent = true;
+                                                break;
+                                            }
+                                        }
+                                        if (!isPresent) {
+                                            dayGroup.push(result[i]);
+                                            break;
+                                        }
                                     }
-                                } else {
-                                    dayGroup.push(result[i]);
                                 }
                             }
                         }
+                        console.log(dayGroup.length);
                         for (var i = 0; i < all.length; ++i) {
                             if (all[i].day == d && name == all[i].teacher) {
                                 var isPresent = false;
@@ -72,13 +93,13 @@ exports.get = function(req, res, next) {
                                 if (!isPresent) {
                                     dayGroup.push(all[i]);
                                 }
-
                             }
                         }
+                        console.log(dayGroup.length);
                         for (var j = 0; j < dayGroup.length; ++j) {
                             dayGroup[j].group = dayGroup[j].group || dayGroup[j].groupName;
                         }
-                        console.log(JSON.stringify(dayGroup[0]));
+
                         res.render('teacherDay', {
                             teacher: name,
                             day: d,
