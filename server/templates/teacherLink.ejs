@@ -1,13 +1,36 @@
 <% layout('layout/page') -%>
 <% block('title', 'Расписание');%>
 <p class="lead"> Здесь будут преподаватели!</p> 
+  <script type="text/javascript" src="/vendor/bootstrap-combobox/js/bootstrap-combobox.js"></script>
 
 <p> Добро пожаловать, <%=user.get('username')%></p>
+<p>Ввдите преподавателя! </p>
+<script>
+window.onload = function() {
+    var doc = document.getElementById('caller');
+    doc.onclick = function() {
+       var sel = document.getElementById('teacher');
+       if (sel.value == "") { 
+            $('#error').html("Выберите Преподавателя");
+        }else {
+             window.location.href = "?teacher=" + sel.value;
+        }
+    }
 
-<ul>
+}
+	 </script>
+<select id="teacher" class="combobox">
+  <option></option>
 <% for(var i=0; i<teachers.length; i++) {%>
-        <li>
-            <a href ="?teacher=<%= teachers[i].get('hash')  %>" > <%= teachers[i].get('name')  %></a>
-         </li>
+        <option value="<%= teachers[i].get('hash')%>"><%= teachers[i].get('name')  %></option>
 <% } %>
-</ul>
+</select>
+<button class="btn btn-default getDay"  id="caller" value="Просмотреть!">
+Просмотреть Преподавателя!
+</button>
+ <span class="help-block error errorGetDay"  id="error"></span>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.combobox').combobox({bsVersion: '2'});
+  });
+</script>

@@ -1,19 +1,44 @@
 <% layout('layout/page') -%>
 <% block('title', 'Расписание');%>
 <p class="lead"> Дни!</p> 
+  <script type="text/javascript" src="/vendor/bootstrap-combobox/js/bootstrap-combobox.js"></script>
 
 <p> Добро пожаловать, <%=user.get('username')%></p>
-<ul>
-        <li>
-            <a href="?teacher=<%= hash %>&&day=monday" > Monday </a>
-</li>
-           <li> <a href="?teacher=<%=hash%>&&day=tuesday" > Tuesday </a></li>
-             <li>  <a href="?teacher=<%=hash%>&&day=wednesday" > Wednesday </a> </li>
-              <li>  <a href="?teacher=<%=hash%>&&day=thursday" > Thursday </a></li>
-           <li>  <a href="?teacher=<%=hash%>&&day=friday" > Friday </a></li>
-           <li>  <a href="?teacher=<%=hash%>&&day=saturday" > Saturday </a>
+<p>ВВедите день недели расписание на которое хотите узнать! </p>
+<script>
+window.onload = function() {
+    var doc = document.getElementById('caller');
+    doc.onclick = function() {
+       var sel = document.getElementById('dayWeek');
+       if (sel.value == "") {
+            $('#error').html("выберите день");
+        }else {
+            window.location.href = "?teacher=<%=hash%>&&day=" + sel.value;
+        }
+    }
 
-         </li>
-</ul>
+}
+	 </script>
+<select id="dayWeek" class="combobox">
+  <option></option>
+  <option value="monday">Понедельник</option>
+  <option value="tuesday">Вторник</option>
+  <option value="wednesday">Среда</option>
+  <option value="thursday">Четверг</option>
+  <option value="friday">Пятница</option>
+  <option value="saturday">Суббота</option>
+</select>
+<button class="btn btn-default getDay"  id="caller" value="Просмотреть!">
+Просмотреть расписание!
+</button>
+ <span class="help-block error errorGetDay"  id="error"></span>
 
-<a href="/editMessage?hash=<%= hash %>" >Посмотреть все мои заметки</a>
+<br>
+<a class="btn btn-default getDay"  id="caller" value="Просмотреть!" href="/editMessage?hash=<%= hash %>">
+Просмотреть мои заметки!
+</a>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.combobox').combobox({bsVersion: '2'});
+  });
+</script>

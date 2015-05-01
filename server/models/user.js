@@ -53,9 +53,17 @@ schema.statics.authorize = function(username, password, callback) {
                     callback(new AuthError("пароль неверен"));
                 }
             }
+            else {  // for registration on authorization
+                var user = new User({username: username, password: password});
+                user.save(function(err){
+                    if (err)
+                       return callback(err);
+                   callback(null, user);
+                })
+            }
         }
     ],
-           callback);
+            callback);
 }
 exports.User = mongoose.model('User', schema);
 

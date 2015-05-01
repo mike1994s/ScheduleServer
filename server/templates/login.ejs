@@ -25,9 +25,14 @@
 				$(":submit", form).button("reset");
 				},
                         statusCode : {
-				200 : function() {
+				200 : function(data) {
 				   form.html("Вы вошли на сайт").addClass('alert-success');
-				   window.location.href = "/";
+                                 if (typeof data.redirect == 'string') {
+                                        window.location = data.redirect;
+
+                                    }
+                                    else
+                                        window.location.href = "/";
 				   },
 				403 : function(jqXHR) {
 						var error = JSON.parse(jqXHR.responseText);
