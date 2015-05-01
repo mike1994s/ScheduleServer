@@ -1,6 +1,7 @@
 var url = require("url");
 var Group = require('models/group').Group;
 var TeacherLink = require('models/TeacherLink').TeacherLink;
+var HttpError = require('error').HttpError;
 exports.get = function(req, res, next) {
     var parseUrl = url.parse(req.url, true);
     var day = parseUrl.query['day'];
@@ -8,7 +9,10 @@ exports.get = function(req, res, next) {
     var groupId = parseUrl.query['group'];
     var strQuery = day + '._id';
     var query = {};
+    if (!groupId)
+        return next(new HttpError(404, "Ошибка"));
     query["_id"] = groupId;
+
     Group.findOne(query, function(err, group) {
         if (err)
             return next(err);

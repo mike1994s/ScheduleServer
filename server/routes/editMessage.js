@@ -3,10 +3,14 @@ var Group = require('models/group').Group;
 var TeacherLink = require('models/TeacherLink').TeacherLink;
 var Changes = require('models/changes').Changes;
 var Messages = require('models/messages').Messages;
+var HttpError = require('error').HttpError;
 exports.get = function(req, res, next) {
     var parseUrl = url.parse(req.url, true);
     if (parseUrl.query['hash']) {
         var teacherHash = parseUrl.query['hash'];
+        if (!teacherHash) {
+            return next(new HttpError(404, "Ошибка"));
+        }
         Messages.find({teacherHash: teacherHash}, function(err, msgs) {
             if (err)
                 next(err);
@@ -17,6 +21,9 @@ exports.get = function(req, res, next) {
         })
     }
     if (parseUrl.query['ident']) {
+        if (!parseUrl.query['ident']) {
+            return next(new HttpError(404, "Ошибка"));
+        }
         Messages.findById(parseUrl.query['ident'], function(err, msg) {
             if (err)
                 next(err);
@@ -42,6 +49,9 @@ exports.post = function(req, res, next) {
     }
     obj._id = req.body._id;
     console.log(obj);
+    if (!obj._id) {
+        return next(new HttpError(404, "Ошибка"));
+    }
     Messages.findById(obj._id, function(err, change) {
         if (err)
             next(err);

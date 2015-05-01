@@ -2,6 +2,8 @@ var url = require("url");
 var Group = require('models/group').Group;
 var TeacherLink = require('models/TeacherLink').TeacherLink;
 var Changes = require('models/changes').Changes;
+var HttpError = require('error').HttpError;
+
 exports.get = function(req, res, next) {
     var parseUrl = url.parse(req.url, true);
     if (parseUrl.query['id_group'] && parseUrl.query['teacherHash']) {
@@ -11,6 +13,8 @@ exports.get = function(req, res, next) {
             id: idGroup,
             teacherHash: teacherHash
         });
+    } else {
+        return next(new HttpError(404, "Ошибка"));
     }
 
 }

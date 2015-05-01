@@ -2,9 +2,13 @@ var url = require("url");
 var Group = require('models/group').Group;
 var TeacherLink = require('models/TeacherLink').TeacherLink;
 var Changes = require('models/changes').Changes;
+var HttpError = require('error').HttpError;
+
 exports.get = function(req, res, next) {
     var parseUrl = url.parse(req.url, true);
     var _id = parseUrl.query['id'];
+    if (!_id)
+        return next(new HttpError(404, "Ошибка"));
     Changes.findById(_id, function(err, result) {
         if (err)
             next(err);
@@ -29,6 +33,8 @@ exports.post = function(req, res, next) {
     obj.teacher = req.body.teacher;
     obj._id = req.body._id;
     console.log(obj);
+    if (!obj._id)
+        return next(new HttpError(404, "Ошибка"));
     Changes.findById(obj._id, function(err, change) {
         if (err)
             next(err);

@@ -5,6 +5,7 @@ var Changes = require('models/changes').Changes;
 exports.get = function(req, res, next) {
     var parseUrl = url.parse(req.url, true);
     if (!(parseUrl.query['teacher'])) {
+
         TeacherLink.find(function(err, teachers) {
             if (err)
                 return next(err);
@@ -14,6 +15,8 @@ exports.get = function(req, res, next) {
         });
     } else {
         //   console.log(parseUrl.query['teacher']);
+        if (!parseUrl.query['teacher'])
+            return next(new HttpError(404, "Ошибка"));
         TeacherLink.find({"hash": parseUrl.query['teacher']}, function(err1, teacher) {
             if (err1)
                 return next(err1);

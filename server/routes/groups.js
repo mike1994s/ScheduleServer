@@ -3,6 +3,8 @@ var url = require("url");
 var Changes = require('models/changes').Changes;
 var Messages = require('models/messages').Messages;
 var TeacherLink = require('models/TeacherLink').TeacherLink;
+var HttpError = require('error').HttpError;
+
 exports.get = function(req, res, next) {
     console.log(req.url);
     var parseUrl = url.parse(req.url, true);
@@ -17,9 +19,15 @@ exports.get = function(req, res, next) {
         });
     } else {
         if (!(parseUrl.query['day'])) {
+            if (!parseUrl.query['group']) {
+                return next(new HttpError(404, "Ошибка"));
+            }
             Group.findById(parseUrl.query['group'], function(err, group) {
                 if (err)
                     return next(err);
+                if (!parseUrl.query['group']) {
+                    return next(new HttpError(404, "Ошибка"));
+                }
                 Messages.find({"idGroup": parseUrl.query['group'], "isPublicated": true}, function(err1, msgs) {
                     if (err1)
                         return next(err1);
@@ -34,6 +42,12 @@ exports.get = function(req, res, next) {
             });
         } else {
             var day = parseUrl.query['day'];
+            if (!parseUrl.query['group']) {
+                return next(new HttpError(404, "Ошибка"));
+            }
+            if (!day) {
+                return next(new HttpError(404, "Ошибка"));
+            }
             Group.findById(parseUrl.query['group'], function(erro, group) {
                 if (erro)
                     return next(erro);
