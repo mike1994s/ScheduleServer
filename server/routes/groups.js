@@ -1,9 +1,9 @@
-var Group = require('models/group').Group;
+var Group = require('/models/group').Group;
 var url = require("url");
-var Changes = require('models/changes').Changes;
-var Messages = require('models/messages').Messages;
-var TeacherLink = require('models/TeacherLink').TeacherLink;
-var HttpError = require('error').HttpError;
+var Changes = require('/models/changes').Changes;
+var Messages = require('/models/messages').Messages;
+var TeacherLink = require('/models/TeacherLink').TeacherLink;
+var HttpError = require('/error').HttpError;
 
 exports.get = function(req, res, next) {
     console.log(req.url);
