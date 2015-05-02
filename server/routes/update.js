@@ -1,7 +1,7 @@
-var url = require("url");
-var Group = require('models/group').Group;
-var TeacherLink = require('models/TeacherLink').TeacherLink;
-var HttpError = require('error').HttpError;
+var url = require("/url");
+var Group = require('/models/group').Group;
+var TeacherLink = require('/models/TeacherLink').TeacherLink;
+var HttpError = require('/error').HttpError;
 exports.get = function(req, res, next) {
     var parseUrl = url.parse(req.url, true);
     var day = parseUrl.query['day'];
@@ -59,8 +59,8 @@ exports.post = function(req, res, next) {
     console.log("hull = " + obj.hull);
     console.log("group = " + obj.group);
     console.log("isCycleChanged = " + obj.isCycleChanged);
-    var mongoose = require('libs/mongoose');
-    var async = require('async');
+    var mongoose = require('/libs/mongoose');
+    var async = require('/async');
     async.series([
         //   open,
         //  dropDatabase,
