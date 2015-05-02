@@ -1,8 +1,8 @@
-var url = require("url");
-var Group = require('models/group').Group;
-var TeacherLink = require('models/TeacherLink').TeacherLink;
-var Changes = require('models/changes').Changes;
-var HttpError = require('error').HttpError;
+var url = require("/url");
+var Group = require('/models/group').Group;
+var TeacherLink = require('/models/TeacherLink').TeacherLink;
+var Changes = require('/models/changes').Changes;
+var HttpError = require('/error').HttpError;
 
 exports.get = function(req, res, next) {
     var parseUrl = url.parse(req.url, true);
