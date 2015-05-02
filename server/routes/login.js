@@ -1,7 +1,7 @@
-var User = require('models/user').User;
-var HttpError = require('error').HttpError;
-var AuthError = require('models/user').AuthError;
-var TeacherLink = require('models/TeacherLink').TeacherLink;
+var User = require('/models/user').User;
+var HttpError = require('/error').HttpError;
+var AuthError = require('/models/user').AuthError;
+var TeacherLink = require('/models/TeacherLink').TeacherLink;
 
 exports.get = function(req, res) {
     res.render('login');
