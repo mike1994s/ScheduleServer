@@ -1,5 +1,5 @@
-var Group = require('models/group').Group;
-var TeacherLink = require('models/TeacherLink').TeacherLink;
+var Group = require('/models/group').Group;
+var TeacherLink = require('/models/TeacherLink').TeacherLink;
 
 exports.get = function(req, res, next) {
     Group.find(function(err, all) {
